@@ -1,0 +1,2 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Final Fantasy (with The Outlaw),130va5CRf6oOwQzOeSalfc,The Outlaw,Nomad,0.303,0.893,10,-2.298,1,0.0764,0.0222,0.294,0.101,0.08,149.957

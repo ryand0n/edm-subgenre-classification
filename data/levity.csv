@@ -1,0 +1,25 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Escape - intro,7vsHgw58G0zEIqWSn8YUNe,levity,Escapism Vol. 1,0.22,0.698,11,-9.595,1,0.038,0.0254,0.00225,0.55,0.0392,86.069
+Ignition,4nECx74TstNdhoE9sO0j78,levity,Escapism Vol. 1,0.525,0.953,11,-2.149,0,0.108,0.0172,0.00115,0.682,0.285,89.951
+Chill,5zsrV7RQ54Mh1WuFGnEy6V,levity,Escapism Vol. 1,0.589,0.867,4,-4.117,0,0.0771,0.0215,0.000159,0.656,0.466,164.091
+Flip It,4XZC1labZABgXtbAag1eWo,levity,Escapism Vol. 1,0.772,0.681,1,-6.7,1,0.0597,0.143,0.00237,0.106,0.761,160.039
+ONE FOR YOU,63MJTDLjk9mN5LU2mVxDRD,levity,Escapism Vol. 1,0.559,0.76,10,-4.768,1,0.0551,0.0164,0.00188,0.109,0.0885,155.095
+Jaded,0qICNf9xJjMQtZLqNSLopD,levity,Escapism Vol. 1,0.63,0.918,9,-3.331,1,0.124,0.0167,0.179,0.942,0.393,154.849
+Reawakening - outro,1Fkgps52akoOixakUiaITq,levity,Escapism Vol. 1,0.236,0.629,8,-7.421,1,0.0498,0.161,0.0,0.111,0.228,141.024
+Can't Get Enough,4w830kkbNwoqRJmHjYOObf,levity,Can't Get Enough,0.464,0.919,2,-2.038,1,0.195,0.0723,1.39e-06,0.13,0.32,139.983
+Salamander,51qvSn161ge7T0E4U3LsND,levity,Snack Pack Vol. 1,0.675,0.961,7,-3.141,1,0.19,0.0503,0.00324,0.456,0.615,145.034
+Front to Back,1qoKPjOR6wcMAtAGfJM5av,levity,Snack Pack Vol. 1,0.642,0.781,9,-7.821,1,0.477,0.743,5.39e-05,0.276,0.39,139.839
+By My Side,6oGFDrlsSXovBIAY7gNYIq,levity,Snack Pack Vol. 1,0.631,0.936,5,-2.314,0,0.0953,0.0496,3.15e-05,0.139,0.338,140.996
+Like This,6PLFSLaOIAlhOSTBS2v7pm,levity,Snack Pack Vol. 1,0.827,0.899,10,-6.259,0,0.0426,0.0217,0.114,0.117,0.388,130.009
+Postman,1DzkzQw2Y4f1n4ktIY9VI6,levity,Snack Pack Vol. 1,0.433,0.772,11,-3.904,1,0.154,0.11,0.0,0.16,0.331,144.733
+Flip It - VIP,5a3vNuS67dTu8lrxLagvDt,levity,Flip It (Remixes),0.793,0.716,9,-4.322,1,0.0623,0.0669,0.00406,0.12,0.359,140.052
+Flip It - Tape B Remix,57rICFVMiMku9HwTkervd7,levity,Flip It (Remixes),0.748,0.859,8,-5.479,0,0.255,0.16,0.00275,0.081,0.557,144.192
+Flip It - ÆON:MODE Remix,3fMgYxdGGQGovPzbWSh5hB,levity,Flip It (Remixes),0.699,0.979,8,-0.06,0,0.094,0.0368,0.581,0.796,0.928,173.99
+Flip It - Justin Jay x Don Jamal Remix,4CoXCx9yfaj35e0KuKzHsI,levity,Flip It (Remixes),0.751,0.67,6,-5.589,0,0.355,0.0824,0.0504,0.416,0.586,140.051
+Flip It - Chef Boyarbeatz Remix,2b45KFQ8UbGJXRKgDXRfWI,levity,Flip It (Remixes),0.621,0.923,1,-3.421,1,0.0594,0.0632,0.148,0.116,0.365,160.021
+Flip It - Torcha Remix,2Y6Qe0jLZFqtyYa4XzMKaX,levity,Flip It (Remixes),0.754,0.361,3,-13.575,0,0.137,0.139,0.648,0.0989,0.123,139.974
+Flip It - Chez x pheel. Remix,0KyRgJYUrHRBkcW97w94Mz,levity,Flip It (Remixes),0.853,0.832,8,-5.62,0,0.293,0.0286,0.000223,0.389,0.42,91.024
+DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix],2rAB0mDHnaOnfvFmaWUx0j,levity,DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix],0.569,0.887,2,-5.404,1,0.0964,0.0284,0.0414,0.37,0.688,155.027
+Moment,764CYWJzIeuBGGDaeu7b2n,levity,Moment,0.821,0.787,6,-5.09,0,0.0661,0.0369,0.00708,0.068,0.341,99.988
+The Deep,688MRabbIVRJRtZxef04Um,levity,The Deep,0.691,0.896,1,-5.074,1,0.138,0.0179,0.00477,0.397,0.354,91.938
+Rising Tides,7CKtAo5iPoTTZa2x3wDsEc,levity,Rising Tides,0.537,0.836,5,-5.088,1,0.124,0.0434,6.85e-05,0.664,0.366,143.014

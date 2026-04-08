@@ -1,0 +1,85 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Syren,3hGXZKj3lYKKRQtKE8XN55,Rebūke,Genesys,0.716,0.779,10,-8.084,0,0.0464,0.0137,0.862,0.0882,0.0723,125.018
+The Chase - Rebūke Remix,6ZHMVT32TtD6IzvbxBo4eF,Rebūke,The Chase (Remixes),0.658,0.559,5,-12.283,0,0.0462,0.391,0.737,0.113,0.547,126.972
+Along Came Polly,6fL2wAZuNKGpze9E3SINnW,Rebūke,Along Came Polly,0.825,0.595,0,-9.393,1,0.0669,0.00107,0.94,0.0578,0.0781,124.004
+Hear Me Now,1IPZfbfenyYPTg45HcNxgS,Rebūke,Genesys II,0.642,0.697,0,-7.873,0,0.0456,0.0203,0.0057,0.0834,0.0761,126.056
+Glow,5Q9m03fBYtSlKwAUnfZ9RB,Rebūke,Glow / Void,0.689,0.909,0,-8.367,1,0.0381,0.0109,0.837,0.189,0.0992,126.996
+Endless (feat. Ed Graves),5KnAP0D4wcOBPC6aKw3kDA,Rebūke,Endless (feat. Ed Graves),0.404,0.831,2,-9.207,1,0.0418,0.042,0.157,0.173,0.029,128.013
+Digital Dream,5DRrrh8TWc0jgGrzIE44HI,Rebūke,Digital Dream,0.666,0.931,7,-7.007,1,0.0443,0.00035,0.598,0.333,0.0332,126.964
+Portal,4BEZdUHo53IH1MdjQLRqz1,Rebūke,Portal / Echoes,0.628,0.783,2,-7.596,1,0.0317,0.00737,0.9,0.117,0.0755,127.01
+Syren - Amelie Lens Remix,2CAWDnsgQ5zIXef4ONWmUK,Rebūke,Genesys II,0.627,0.898,8,-6.82,1,0.0602,0.000978,0.82,0.119,0.135,141.95
+Choose Life,2OkOgmVzRjhph4kawX1MHF,Rebūke,Choose Life,0.692,0.75,6,-8.071,0,0.0632,0.00986,0.0478,0.247,0.237,130.024
+Forever,0ZzYZVCXnfGrc5bgPuUwZC,Rebūke,Forever / Chaos,0.566,0.782,10,-8.291,0,0.0399,0.029,0.813,0.102,0.167,125.949
+Rise,3OA3QzszT68km4YEfTIJtF,Rebūke,Rise,0.611,0.885,6,-8.961,1,0.0527,0.0168,0.89,0.101,0.0361,128.054
+The Pipe,3HeIJsfuR0rjjmwJWl0gnh,Rebūke,Jump Ship,0.847,0.749,7,-7.811,1,0.0744,0.0523,0.924,0.0886,0.374,125.992
+Syren - Adam Sellouk Remix,3xZp6ajHw5LLgA2LhA64XZ,Rebūke,Genesys II,0.596,0.796,10,-6.189,0,0.0555,0.0531,0.818,0.171,0.325,125.007
+Dystopia,4HroXwGskJHBvEUKPz18Pp,Rebūke,Dystopia,0.619,0.687,7,-7.878,1,0.0563,0.187,0.779,0.195,0.0381,129.991
+Teardrops,1ooF1GtoHziUctFM94iRVW,Rebūke,Teardrops,0.623,0.872,2,-8.275,1,0.0506,0.00809,0.0104,0.335,0.0369,128.024
+Hand In Hand - Rebūke Remix,4z5TeX7iJyiBU0J0CbzToz,Rebūke,Hand In Hand (Rebūke Remix),0.585,0.745,11,-9.752,0,0.0363,0.000513,0.514,0.394,0.282,127.024
+Out Of My Mind,1b8ukj8lFaaJn1L5buFICj,Rebūke,Out Of My Mind,0.624,0.866,1,-8.33,0,0.0387,0.0177,0.88,0.195,0.0379,127.955
+"Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",5EkSIWWEX7zkFTtSO28vT7,Rebūke,"Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",0.805,0.961,7,-3.815,1,0.0744,0.000779,0.894,0.0686,0.0479,123.995
+Storm 2022,39N9R61hAatOAIjBs2RH6z,Rebūke,Storm 2022,0.763,0.954,5,-6.561,0,0.048,0.456,0.944,0.0953,0.253,129.999
+A Drug From God (Rebūke Remix),2O0ESQqVFf95Hcm6NMeEON,Rebūke,A Drug From God (Rebūke Remix),0.622,0.845,11,-6.957,0,0.0432,0.00206,0.611,0.254,0.106,127.996
+Dominator - Rebūke Remix,6cKvyvg3sMnyZZsi8tgXMP,Rebūke,Dominator (Rebūke Remix),0.686,0.932,7,-4.828,1,0.21,0.0728,0.0294,0.16,0.282,130.041
+Rattle,41kofRJh6yJzFxH6vRtuzE,Rebūke,Rattle,0.759,0.826,0,-10.339,0,0.0487,0.00322,0.871,0.0849,0.076,127.99
+Glow - Nick Schwenderling Remix,4ruTNQTO3BkYN83RbSXhtR,Rebūke,Glow (Nick Schwenderling Remix),0.734,0.738,7,-7.892,1,0.051,0.0129,0.886,0.0918,0.141,126.957
+Jump Ship,5V6srZGdQEeOMbwlcEOLqy,Rebūke,Jump Ship,0.801,0.859,7,-8.901,1,0.0565,0.0362,0.951,0.0861,0.243,124.984
+Thoughts - Rebūke Remix,1g8ZYuTgbNJBvycYFyep0b,Rebūke,Thoughts (Rebūke Remix),0.781,0.764,9,-9.294,1,0.0999,0.132,0.02,0.515,0.696,128.022
+Echoes,3EfztXOZVFBWX3jHonDoeP,Rebūke,Portal / Echoes,0.751,0.734,4,-9.088,0,0.052,0.00764,0.928,0.112,0.0331,127.01
+Chaos,3GpNFPn0whbVoWdwFVemDa,Rebūke,Forever / Chaos,0.617,0.901,9,-8.322,1,0.0511,9.13e-05,0.545,0.103,0.0344,130.006
+and the colour red - Rebūke Remix,72ydjj6mIRlmcDd93PRM41,Rebūke,and the colour red (Rebūke Remix),0.729,0.618,6,-12.482,0,0.0573,0.0721,0.897,0.107,0.0457,127.003
+Ultimate Distortion,10f2SPpA4tJ2Xrc1nrL65Y,Rebūke,Ultimate Distortion,0.753,0.83,0,-7.252,0,0.0664,0.00166,0.86,0.141,0.239,128.026
+Rolo,2dAxZrVM3SpAKMnOIMiP4d,Rebūke,Along Came Polly,0.839,0.759,1,-9.323,1,0.0782,0.000336,0.766,0.112,0.209,125.006
+Void,6AXqcyIFXpEPV1U2eszChu,Rebūke,Glow / Void,0.737,0.866,1,-7.102,1,0.0702,5.68e-06,0.857,0.0818,0.0367,128.013
+Juno,3qcykfPph4VCG7zMdJfz5G,Rebūke,Juno,0.638,0.799,8,-8.53,0,0.0555,0.0982,0.776,0.217,0.369,130.021
+Move Your Body (Elevation) - Rebūke Remix,0ghemzKIRBgBAs4W0KBEbh,Rebūke,Move Your Body (Elevation) [Remixes],0.801,0.803,6,-7.685,0,0.0819,0.0128,0.496,0.128,0.369,127.0
+Goodbyes (feat. Method Man) - Rebuke Rave Dub,1ndkpAgQnIykiKsY1pmxjs,Rebūke,Goodbyes (feat. Method Man) [Remixes],0.726,0.707,6,-8.294,0,0.0957,0.000547,0.809,0.121,0.198,126.997
+Goodbyes (feat. Method Man) - Rebuke Remix,3DKhLcVGq80gLd9EuBzs2D,Rebūke,Goodbyes (feat. Method Man) [Remixes],0.683,0.724,7,-7.801,1,0.0635,0.000762,0.56,0.121,0.282,127.001
+Take That Back - Josh Butler Remix,6lbYhq0eUNTqH3nEV5rAYy,Rebūke,Take That Back,0.801,0.788,6,-7.359,0,0.0525,0.00899,0.844,0.136,0.0705,125.003
+Dominator - Rebūke Extended Remix,6UtRiy129SuMqM3UFJ4oOq,Rebūke,Dominator,0.812,0.856,7,-6.965,1,0.18,0.0784,0.249,0.105,0.321,130.009
+Far Out - Harry Romero Remix,6JBLdzOwUm7rrLGC2rfMdl,Rebūke,Far Out EP,0.806,0.851,8,-9.965,1,0.048,0.00105,0.89,0.0821,0.549,123.988
+Dominator - Rebūke Rave Remix,1KHODIR7RhTwCtWLrEdxoJ,Rebūke,Dominator (Rebūke Remix),0.774,0.67,11,-8.326,0,0.0607,0.224,0.0645,0.232,0.081,129.998
+Nice & Cool Trigga,68Yw31hotR89lFuFiRA0gm,Rebūke,Nice & Cool Trigga,0.625,0.981,7,-7.247,1,0.0767,0.00155,0.885,0.0789,0.523,131.0
+Nocturnal - Rebūke Edit,3NjqYrCP2lwkO4PJRegrNj,Rebūke,ASW Trax Vol. 1,0.703,0.916,7,-7.091,1,0.0515,0.000548,0.858,0.121,0.371,130.0
+Cluster - Rebuke Edit,1cLoT8bdAAtt8nmgCVyYOx,Rebūke,Mindset (The Rebuke Edits),0.721,0.917,7,-8.091,1,0.0478,0.0154,0.934,0.0796,0.312,130.007
+Koto,0jZ8jah7z7D2Vzcl1Z7pk7,Rebūke,Dial Tone,0.79,0.555,9,-9.604,0,0.0631,0.000587,0.872,0.0954,0.222,126.982
+Evolution,6mpP40mGA7pZoUACfZShIL,Rebūke,Wasp,0.749,0.854,1,-6.967,1,0.124,0.0707,0.518,0.113,0.0782,130.0
+Instatik,5r92dNYrH5vPuBSJpTFtNd,Rebūke,Obscurity,0.806,0.838,7,-9.029,1,0.0856,0.0162,0.902,0.45,0.0348,128.022
+Livewire,1FPBMlIuIC4UaEcSieldUz,Rebūke,Obscurity,0.687,0.791,2,-7.599,1,0.0538,0.000414,0.875,0.111,0.136,128.0
+Presidio,1TcwUevSZOCzz0ldN2jjL1,Rebūke,Dystopia,0.569,0.865,5,-7.637,0,0.0402,0.00178,0.879,0.162,0.139,129.997
+Ascent - Rebūke Remix,6600D9sZObhQUcmAw8osH0,Rebūke,Ascent (Rebūke Remix),0.571,0.521,11,-10.935,0,0.0332,0.00168,0.861,0.39,0.0332,129.996
+Lift Off - Rebuke Remix,2ixTBNyO6qJ5IxuarEvHwu,Rebūke,Planet Session Remix EP,0.714,0.879,11,-5.822,0,0.0644,0.000207,0.718,0.0911,0.22,130.032
+All the Ladies - Rebūke Remix,7qH2rmLFwtaffXlsyaplln,Rebūke,All the Ladies (Rebūke Remix),0.831,0.654,0,-11.853,1,0.0931,0.0493,0.83,0.11,0.195,128.008
+Nocturnal (Rebūke Edit) - Mixed,6r4gWTDPplDGEfqiYxuT0L,Rebūke,ASW is Live Mixed by Carl Cox (DJ Mix),0.631,0.875,7,-11.084,1,0.0754,0.000976,0.83,0.111,0.468,132.004
+Obscurity,6bUXGysLwfxwbrtrLdgfRx,Rebūke,Obscurity,0.778,0.81,10,-8.118,0,0.0465,0.00263,0.682,0.103,0.0391,127.987
+Wasp,3uXsA2DQx7Wk34zzHxeplQ,Rebūke,Wasp,0.783,0.65,6,-8.676,0,0.0758,0.00278,0.0513,0.129,0.108,128.005
+Ignite - Mixed,4JlEXUnowJLKOErhjoVTBH,Rebūke,Global Underground #46: ANNA - Lisbon,0.601,0.939,9,-9.727,0,0.0485,0.0132,0.874,0.117,0.177,126.283
+Redemption,47ZvhmZfyLfAsfHOea0TvE,Rebūke,Wasp,0.754,0.485,11,-12.483,1,0.0723,0.0115,0.919,0.107,0.115,130.001
+Dial Tone,1FRCnanVejoZkFbSer8JFJ,Rebūke,Dial Tone,0.78,0.61,6,-9.282,1,0.0734,0.181,0.944,0.112,0.158,128.001
+Utopia,3Yp9W5RjlgMyihxTwuSySQ,Rebūke,Dystopia,0.645,0.91,7,-7.647,1,0.0307,0.0216,0.857,0.0949,0.0392,129.977
+Metal,0O0xVGyqDpuf00XgqJ2OJL,Rebūke,Rattle,0.714,0.811,11,-9.498,0,0.0511,0.00222,0.913,0.0843,0.139,127.988
+Say Something - Rebūke Remix,0wg8hjMHPU3706W3nGipmw,Rebūke,Say Something (Remixes),0.714,0.978,8,-6.751,1,0.111,0.119,0.663,0.153,0.561,128.006
+The Shining,4ruul3W7CsOUGV3GckCG36,Rebūke,The Shining,0.816,0.89,11,-7.112,0,0.134,0.000214,0.696,0.0542,0.435,123.997
+Sheila's Tool,3wMzPjsokjjdr8Ie7wujcD,Rebūke,Sheila's Tool,0.88,0.638,0,-8.275,1,0.0883,0.0189,0.0152,0.0866,0.225,125.005
+Ready to Fly,7bc2UeEKhtP0GUcKkKNqui,Rebūke,50 First Raves,0.815,0.586,11,-8.55,0,0.117,0.0488,0.896,0.122,0.181,124.062
+Operator,0TXKU4zVgGebWhSKDoMS41,Rebūke,Rattle,0.706,0.899,7,-8.806,1,0.0457,0.0024,0.821,0.671,0.186,128.006
+The Dust Arrival - Rebuke Edit,3pThx9uekKH1qWgRQjZQat,Rebūke,Mindset (The Rebuke Edits),0.666,0.912,10,-7.967,0,0.0429,0.000113,0.941,0.111,0.307,129.991
+Jump Ship - Mixed,4WVcDPT3nJPT8SMUf6Crla,Rebūke,Sven Väth - The Sound of the 20th Season (DJ Mix),0.803,0.917,11,-7.714,0,0.0656,0.0434,0.888,0.085,0.226,125.995
+Posers Ray Gun,2g7kQE4ysnvzj3EuERlr4q,Rebūke,50 First Raves,0.817,0.908,7,-6.844,1,0.0662,0.0233,0.933,0.0689,0.586,126.991
+Burma Apache's,102l85dcON0yG2JcFGjDMh,Rebūke,EP1,0.744,0.705,6,-8.438,0,0.0896,0.0106,0.46,0.0738,0.13,123.012
+Inside - Rebüke Warehouse Mix,5v6DFGLLElLscjuqGm3ZtL,Rebūke,Inside (Rebüke Warehouse Mix),0.798,0.92,6,-5.154,0,0.0839,0.00542,0.489,0.0625,0.16,126.012
+Nocturnal - Rebuke Edit,4KUMPcIOOif52oVPeru6G6,Rebūke,Mindset (The Rebuke Edits),0.703,0.917,7,-7.091,1,0.0514,0.000557,0.862,0.121,0.354,129.998
+50 First Raves,5fAzFmNJpEZEO4sucdnZP4,Rebūke,50 First Raves,0.761,0.95,0,-5.265,1,0.069,0.000262,0.0223,0.0307,0.396,127.01
+Hanky Panky - Edit,6dbts2kEIxo31oDspcJnbG,Rebūke,Mother Knows Best 6,0.824,0.843,7,-8.394,1,0.0886,0.000655,0.204,0.0601,0.595,123.005
+Ultimate Distortion (Mixed),4FfOtC02MhhVCd5rAyy2Zx,Rebūke,"We Are Ibiza, Vol. 2 (Mixed by Dan McKie) [DJ Mix]",0.723,0.773,8,-9.567,1,0.0608,0.00487,0.829,0.124,0.207,125.999
+Nice & Cool Trigga - Big Miz Remix,6DYk1O7IZpTwOhrfSOB7tf,Rebūke,Nice & Cool Trigga,0.784,0.847,5,-8.201,0,0.0708,6.98e-05,0.914,0.092,0.691,133.987
+Dear Stalker - Club Mix,7rqdDkzVnHZ5Vl6QbUKA4E,Rebūke,Dear Stalker,0.786,0.807,6,-9.221,1,0.0779,0.0179,0.66,0.0287,0.568,124.009
+Dear Stalker - Mixed,15wJg7ZeDDR09OuGjnErRv,Rebūke,Defected Radio Episode 116 (hosted by Simon Dunmore) [Mixed],0.797,0.773,1,-8.586,1,0.102,0.0518,0.0145,0.0956,0.464,123.023
+Take That Back,6TIM4CtG7lcck6PFDMXxOJ,Rebūke,Take That Back,0.764,0.848,7,-7.619,0,0.0518,0.231,0.826,0.0913,0.116,122.995
+Clarity,2oAeunadzTDHNhHOivPXWa,Rebūke,Wasp,0.795,0.498,11,-11.689,1,0.0688,0.0771,0.88,0.0998,0.0371,129.982
+Outhouse,3POPcHITbUGbgXaludW08a,Rebūke,EP1,0.789,0.813,1,-8.288,1,0.124,0.04,0.454,0.0822,0.613,125.002
+Sheila's Tool - Extended Mix,1EC3KyvZIrxgtNwYDJLw06,Rebūke,Sheila's Tool,0.913,0.523,0,-8.598,1,0.0625,0.014,0.126,0.0882,0.161,124.998
+The Pipe - Zillhelm Remix,19oJC59uZcp3BghX2HAPYo,Rebūke,The Pipe (Zillhelm Remix),0.812,0.816,0,-8.164,1,0.0549,0.00112,0.835,0.0911,0.624,123.024
+The Shining - Original Mix,3wFY9gl20aMYmNIbQpv2J6,Rebūke,The Shining,0.83,0.798,11,-7.726,0,0.0986,6.2e-05,0.854,0.0776,0.459,123.994
+We Call It Acieeed (feat. Gary Haisman) - Rebüke Remix,2eaYRPjuhRENe2K0r6K4KP,Rebūke,We Call It Acieeed (feat. Gary Haisman),0.765,0.822,6,-6.334,0,0.0515,0.0271,0.385,0.0977,0.039,126.997
+Dominator (ARNXT024) [Track Of The Week] - Rebüke Remix,2Rchg21ZU2H2yPcoaU2YyG,Rebūke,Armada Next - Episode 24,0.683,0.867,7,-8.317,1,0.274,0.11,0.00178,0.231,0.363,129.999

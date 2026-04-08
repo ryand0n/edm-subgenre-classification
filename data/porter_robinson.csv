@@ -1,0 +1,72 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Language,3NRDLYyqIXja0UElvdzjkB,Porter Robinson,Language,0.738,0.613,6,-6.001,0,0.403,0.0169,0.0493,0.0684,0.407,127.988
+Sad Machine,1JY6B9ILvmRla2IKKRZvnH,Porter Robinson,Worlds,0.47,0.706,0,-4.902,0,0.0322,0.034,1.31e-06,0.0726,0.327,88.519
+Shelter,2ewEh7LuvToYyGHq7yT8N1,Porter Robinson,Shelter,0.477,0.796,0,-4.499,1,0.0369,0.00293,0.0,0.184,0.27,99.859
+Goodbye To A World,786ymAh5BmHoIpvjyrvjXk,Porter Robinson,Worlds,0.444,0.35,9,-7.194,1,0.0483,0.453,0.109,0.0824,0.0973,95.979
+Still Here (with the ones that I came with),4cagZASntpw5soVIOcqRSF,Porter Robinson,Quest For Fire,0.575,0.976,0,-4.386,1,0.0685,0.00106,0.139,0.354,0.534,130.027
+Polygon Dust,0AnJGlNdR56Hco4c2f4IYz,Porter Robinson,Worlds,0.482,0.757,0,-3.387,0,0.042,0.0297,0.0,0.0819,0.412,95.002
+Hear The Bells,5OsKqfRR6OuGGaMcKPG1ti,Porter Robinson,Worlds,0.319,0.64,0,-3.872,1,0.032,0.424,2.63e-06,0.294,0.0805,140.054
+Fellow Feeling,2JgbGCxtzRp6wL5H1DgxV7,Porter Robinson,Worlds,0.312,0.545,8,-5.336,0,0.0796,0.0968,0.093,0.277,0.114,128.124
+Easy - Radio Edit,03p1o66Hn130t8TzeLLi34,Porter Robinson,Easy,0.499,0.884,2,-4.658,1,0.0392,0.0053,0.0,0.112,0.338,127.971
+Easy,12XS8xxdJpQIYmenVvTSOY,Porter Robinson,Damage Control,0.548,0.797,2,-6.407,1,0.0466,0.00163,0.000209,0.339,0.324,127.998
+Fresh Static Snow,1LikBIcmCec6zE64SHFcMK,Porter Robinson,Worlds,0.636,0.499,9,-5.775,1,0.041,0.00744,0.0169,0.112,0.234,90.996
+Natural Light,1p2t6x0xFXuB6zWcZZ0SmZ,Porter Robinson,Worlds,0.444,0.267,8,-11.003,1,0.124,0.39,0.875,0.102,0.0734,135.108
+Fresh Static Snow - Last Island Remix,6zBt1cjjBMQ2iBhgzXBshL,Porter Robinson,Worlds (Remixed),0.627,0.679,2,-8.445,1,0.0296,0.167,0.196,0.123,0.691,119.979
+Unison - Knife Party Remix,60c0wfBSz7erCZy6S8a8De,Porter Robinson,Spitfire EP,0.613,0.836,10,-6.067,1,0.0619,0.000211,0.833,0.0338,0.165,109.946
+Divinity,18cCBvygH6yEFDY0cYN3wT,Porter Robinson,Worlds,0.496,0.55,2,-5.418,1,0.034,0.00755,0.0122,0.0814,0.144,90.036
+The Thrill - Porter Robinson Remix,5ZnOG96081GKWdYzICCzIu,Porter Robinson,The Thrill (Porter Robinson Remix),0.469,0.38,8,-5.394,0,0.0306,0.0372,0.000212,0.317,0.302,79.982
+Flicker,6BivCuyKJtgLa9ooFsvUoZ,Porter Robinson,Worlds,0.589,0.713,10,-3.756,0,0.0976,0.0331,0.000411,0.178,0.547,92.018
+Lionhearted,0nejfXN5tjdICWIdfakXWx,Porter Robinson,Worlds,0.621,0.74,8,-6.925,1,0.034,0.0244,0.00219,0.174,0.349,119.993
+Sea Of Voices,2lNFWUrxuNaQsf5I1pDTPr,Porter Robinson,Worlds,0.215,0.437,2,-8.103,1,0.0309,0.206,0.576,0.0696,0.0445,127.595
+Divinity - ODESZA Remix,3EqfkwoSbO6qnn6Agw085M,Porter Robinson,Worlds (Remixed),0.374,0.803,11,-6.056,0,0.0465,0.00688,0.617,0.0778,0.222,180.024
+Years Of War,4DHkzbZSWxsCsvRoEzr28A,Porter Robinson,Worlds,0.517,0.74,11,-5.059,1,0.0341,0.00574,0.00179,0.109,0.174,110.001
+Natural Light - San Holo Remix,30rPl6UcJOKEInmkkdgyBw,Porter Robinson,Worlds (Remixed),0.362,0.598,1,-7.802,1,0.443,0.00682,3.1e-06,0.0869,0.236,145.976
+Vandalism,0ioOGx97f6niMSBBDT65pR,Porter Robinson,Spitfire EP,0.769,0.593,4,-8.055,0,0.0896,0.00746,0.646,0.109,0.308,126.988
+Flicker - Mat Zo Remix,3lsuEgFPtcLWAdjsbO0HmP,Porter Robinson,Worlds (Remixed),0.658,0.919,6,-3.298,1,0.266,0.046,0.0019,0.0885,0.694,173.963
+Spitfire - Kill The Noise Remix,1Pz7MQNCbEtK1ucN4vvZ64,Porter Robinson,Spitfire EP,0.495,0.901,4,-4.904,0,0.0407,0.000174,0.926,0.369,0.317,172.143
+Lionhearted - Arty Remix,4SpLn2FTU4zKWHHaj9z4JF,Porter Robinson,Lionhearted (Remixes),0.513,0.82,3,-4.451,1,0.061,0.0146,0.148,0.107,0.236,128.066
+Unison,75T1xBaarYAqYdNtFZxUaZ,Porter Robinson,Spitfire EP,0.783,0.453,6,-7.849,0,0.0648,0.00131,0.893,0.104,0.556,128.003
+Years Of War - Rob Mayth Remix,4NRLLlZrpufgSFU4nesHjd,Porter Robinson,Worlds (Remixed),0.562,0.95,8,-4.279,0,0.037,0.0403,0.00794,0.117,0.498,143.983
+Spitfire,1qmRcQV5N0oDYHcoVB11YS,Porter Robinson,Spitfire EP,0.581,0.687,1,-7.936,1,0.034,0.0146,0.698,0.117,0.0376,140.044
+Divinity - filous Remix,5EEb0Vm8xUKjpwH2jlftOl,Porter Robinson,Divinity (filous Remix),0.529,0.721,2,-9.994,1,0.0465,0.00859,0.526,0.0594,0.499,99.977
+Sad Machine - Deon Custom Remix,4Ub38TF0pi2m8re6Lcyz1t,Porter Robinson,Worlds (Remixed),0.476,0.862,0,-3.809,0,0.113,0.0214,0.00199,0.382,0.599,89.838
+Sea Of Voices - RAC Mix,4oxxBRHWfjfbOUtlRcYtCI,Porter Robinson,Sea Of Voices (RAC Mix),0.602,0.652,2,-5.955,1,0.0305,0.22,0.802,0.108,0.569,127.996
+100% In The Bitch,12nucRRQZznHZx6xlSwfmc,Porter Robinson,Spitfire EP,0.824,0.887,8,-6.773,1,0.129,0.002,0.0796,0.21,0.748,107.979
+The Seconds (feat. Jano),10IrQd0aMnPRvX4NLEmzLV,Porter Robinson,Spitfire EP,0.826,0.551,4,-7.56,0,0.109,0.0052,0.539,0.0711,0.0635,128.099
+Sea Of Voices - Galimatias Remix,6KDPBbTJbAvR0Kt2gQTzv2,Porter Robinson,Worlds (Remixed),0.482,0.572,4,-8.756,1,0.355,0.279,0.00184,0.0929,0.338,85.496
+Goodbye To A World - Chrome Sparks Remix,2eoMcPMt8GsnH7c6poebbo,Porter Robinson,Worlds (Remixed),0.351,0.796,6,-6.868,0,0.056,0.117,0.00066,0.351,0.0821,127.992
+Hear The Bells - Electric Mantis Remix,1PYuLTOBao0mPcaqyn2e1I,Porter Robinson,Worlds (Remixed),0.549,0.877,0,-1.381,1,0.155,0.133,0.00378,0.109,0.0642,74.131
+Lionhearted - Radio Edit,0nFabWD5RQ93G7W0DTSzSC,Porter Robinson,Lionhearted (Remixes),0.578,0.833,8,-4.674,1,0.0403,0.0133,0.00165,0.136,0.387,120.047
+Say My Name (Radio Edit),61fdvfO4VmZfkZe5I6lYAW,Porter Robinson,Say My Name,0.604,0.931,6,-5.447,1,0.0616,0.000261,0.702,0.172,0.14,128.003
+Polygon Dust - Sleepy Tom Remix,2cHDE9RaJhcVRhYMD0dtiQ,Porter Robinson,Worlds (Remixed),0.741,0.827,8,-10.119,0,0.0586,0.00388,0.195,0.151,0.0645,110.993
+Say My Name (Original Mix),1p6A3CgMABqxkdG3ygzOfc,Porter Robinson,Say My Name,0.716,0.657,8,-5.237,1,0.0962,0.000173,0.793,0.0662,0.454,127.997
+The State,7zyicrdArhk1b51MjwZowi,Porter Robinson,Spitfire EP,0.594,0.915,5,-6.458,1,0.103,6e-05,0.505,0.55,0.243,140.029
+Lionhearted - Point Point Remix,2Rv0nJjxbrQeYpkpZFwF0K,Porter Robinson,Worlds (Remixed),0.627,0.903,3,-2.599,1,0.0406,0.0183,0.0048,0.0706,0.31,110.013
+Fellow Feeling - SLUMBERJACK Remix,4sYQGr3ZVXDcCpAp5YYiEH,Porter Robinson,Worlds (Remixed),0.347,0.875,2,-4.457,1,0.451,0.0027,0.471,0.247,0.121,149.93
+The State - Skism Remix,5lfXgDnBlAuNi88xqZPTuD,Porter Robinson,Spitfire EP,0.45,0.909,0,-6.058,1,0.0721,8.16e-05,0.867,0.117,0.123,139.893
+Easy - Extended Mix,2072jsE08Lh2NZ79lfdD9e,Porter Robinson,Easy,0.595,0.793,2,-5.912,1,0.0436,0.0054,0.000105,0.345,0.339,128.009
+Unison - Mikkas Remix,0z0K5Jt1cvw8blJRAOefCZ,Porter Robinson,Spitfire EP,0.764,0.633,2,-4.829,1,0.0457,0.0015,0.82,0.366,0.272,128.009
+I'm On Fire - Original Mix,4m03dCfKddSDe02hDDT0Ya,Porter Robinson,I'm On Fire,0.85,0.802,1,-5.994,1,0.382,0.00879,0.0267,0.091,0.725,126.979
+Hello - Original Mix,7tLuwSBOMKf1zrTtxOtznF,Porter Robinson,Hello,0.86,0.532,2,-7.158,1,0.105,0.021,0.13,0.0924,0.334,127.985
+100% In The Bitch - Downlink Remix,2jeOv9pu3XEGpn9SJi6cMP,Porter Robinson,Spitfire EP,0.842,0.849,4,-3.357,0,0.181,0.0105,0.000102,0.153,0.421,110.0
+Easy - Lemaitre Remix,3bD3cshnYMk4RNQPXUE4yp,Porter Robinson,Easy,0.723,0.696,2,-4.905,1,0.123,0.0814,1.5e-05,0.147,0.271,124.945
+The Edge Of Glory - Porter Robinson Remix,3BlBSvKSLqDdMPyX0tNX0S,Porter Robinson,The Edge Of Glory (The Remixes),0.836,0.747,6,-6.443,0,0.261,0.0215,0.0671,0.321,0.218,127.915
+The Wildcat - Original Mix,6bHWd95lXumHlVZUyiwR3J,Porter Robinson,lickin' records pres. Miami 2011,0.874,0.8,1,-7.121,1,0.235,0.00371,0.755,0.0888,0.229,127.936
+Hello - Radio Edit,5RZCUYi1JVBw16ktyq2msx,Porter Robinson,Sirup Dance Anthems «Ibiza 2011»,0.667,0.708,0,-5.932,1,0.0542,0.071,0.00374,0.367,0.345,127.976
+Flicker - Commentary,0X3WAM6oHO5jYIILMfOBrm,Porter Robinson,Worlds Commentary,0.62,0.0588,7,-36.856,0,0.689,0.64,0.0,0.613,0.537,112.192
+Polygon Dust - Commentary,32pGWiAZ5PmKJ8YO6EnPCS,Porter Robinson,Worlds Commentary,0.712,0.0924,10,-33.109,0,0.583,0.496,0.0,0.321,0.559,115.845
+Hello - Jeff T Remix,4dGhADIcY0rSekPY5l6YWz,Porter Robinson,Hello Remixes Part 1,0.847,0.335,7,-4.778,1,0.0427,9.57e-05,0.155,0.667,0.48,128.002
+Natural Light - Commentary,17Fl0WtAFYP6zS2QzRDg8p,Porter Robinson,Worlds Commentary,0.601,0.0984,10,-37.207,0,0.907,0.656,0.0,0.183,0.342,71.107
+Hello - Sharooz Dub,46X68l7LvFRO6SVyhfUIIe,Porter Robinson,Hello Remixes Part 1,0.937,0.757,2,-4.535,1,0.196,0.0041,0.508,0.137,0.413,128.018
+Hear The Bells - Commentary,59YCLYWCxYfza0aRsjaFGT,Porter Robinson,Worlds Commentary,0.704,0.0589,10,-37.341,0,0.732,0.653,0.0,0.29,0.583,43.026
+Easy - Andy C Remix,20q2ZlqQpiAYZ91iOBEf02,Porter Robinson,Damage Control (10 Year Anniversary Edition),0.336,0.989,9,-1.935,0,0.117,0.000716,0.758,0.258,0.112,174.036
+Sea Of Voices - Commentary,1gJGDH1zh33D2O98Pe3QFb,Porter Robinson,Worlds Commentary,0.577,0.076,10,-38.775,0,0.919,0.725,0.0,0.45,0.261,77.156
+Hello - Dilemn Remix,03uP2eBL4AaErMMWb3YW08,Porter Robinson,Hello Remixes Part 2,0.609,0.54,2,-7.184,1,0.183,0.00406,0.784,0.321,0.447,128.005
+Fellow Feeling - Commentary,6g6TOjkY1OhvKsl9HrVe8L,Porter Robinson,Worlds Commentary,0.62,0.0816,10,-39.292,0,0.697,0.648,0.0,0.247,0.553,115.185
+Easy (Flashback) [ABGT254],4ROharxIvb8NgqYeCB6ejx,Porter Robinson,Group Therapy 254,0.487,0.828,2,-8.049,1,0.0422,0.000777,0.0101,0.185,0.282,128.021
+Divinity - Commentary,00UVWlwx06Tp81wATYtNF7,Porter Robinson,Worlds Commentary,0.633,0.141,10,-35.475,0,0.865,0.696,0.0,0.438,0.526,86.287
+Easy - Andy C Remix (Mixed),1ppybxKveXWWlZW0rimwmJ,Porter Robinson,Anjunabeats presents Drum & Bass 01 (DJ Mix),0.362,0.98,9,-4.025,0,0.107,0.000632,0.751,0.32,0.136,174.018
+Fresh Static Snow - Commentary,2efOJQtvGw0RDCwhM7Il8b,Porter Robinson,Worlds Commentary,0.557,0.0538,10,-39.814,0,0.755,0.579,0.0,0.484,0.597,97.779
+I'm On Fire - Ryan Enzed Remix,4bncvNlkmyGAqWs9GkZJv4,Porter Robinson,I'm On Fire,0.732,0.934,8,-3.887,1,0.411,0.065,0.000797,0.0538,0.801,127.002
+Goodbye To A World - Commentary,6Qpzb1W4jVzMDeZ6RqSbL2,Porter Robinson,Worlds Commentary,0.601,0.0646,10,-39.181,0,0.883,0.677,0.0,0.138,0.364,106.254
+Sad Machine - Commentary,5cSeiDTP72OTCek5UnFWoC,Porter Robinson,Worlds Commentary,0.551,0.0979,10,-38.46,0,0.856,0.653,0.0,0.155,0.531,79.225

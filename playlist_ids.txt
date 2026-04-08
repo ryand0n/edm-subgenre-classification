@@ -1,0 +1,11 @@
+subgenre, playlist_id
+afro house, https://open.spotify.com/playlist/37i9dQZF1DWSlskcBvOTt0?si=b417d1436fdc4abe
+hard techno, https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno?si=b0af9c609b154ef6
+melodic techno, https://open.spotify.com/playlist/37i9dQZF1DX9gPDOAK0Yqv?si=93a413b62d824b4d
+progressive house, https://open.spotify.com/playlist/37i9dQZF1DX6GJXiuZRisr?si=719a1fb967224a5a
+trap, https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74?si=3f5c1de0d1e74f3a
+phonk, https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt?si=62f29d9e8b034b07
+techno, https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675?si=ea6f17feda804c56
+techno, https://open.spotify.com/playlist/37i9dQZF1DWTiY3QffFUdg?si=ab060e8497e54237
+trance, https://open.spotify.com/playlist/37i9dQZF1DXbtYAdenGE9U?si=2c7065fbe5134fa5
+hyperpop, https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw?si=60fa3027c7b4416f

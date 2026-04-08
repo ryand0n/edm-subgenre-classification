@@ -1,0 +1,101 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+"""I Know"" [MIXED]",2HXAuE93CIy9O64LnDtINe,Boys Noize,Challengers [MIXED] by Boys Noize,0.644,0.841,7,-7.759,1,0.0554,0.353,0.704,0.322,0.202,116.948
+Yeah x10 [MIXED],6bVwyHImZXFOh0zEodwzCW,Boys Noize,Challengers [MIXED] by Boys Noize,0.653,0.883,11,-7.33,0,0.0415,0.0107,0.813,0.113,0.588,117.978
+L'oeuf [MIXED],4Oktk9l5ikzajdLb13UVXM,Boys Noize,Challengers [MIXED] by Boys Noize,0.484,0.492,7,-16.726,1,0.338,0.863,0.823,0.284,0.0399,118.175
+Challengers [MIXED],5qfiRVKIqnLuIHUpVJZMmW,Boys Noize,Challengers [MIXED] by Boys Noize,0.722,0.977,1,-7.461,1,0.0444,0.15,0.788,0.116,0.858,129.984
+Pre Signal [MIXED],0NY9NH6ErVpWYdPN4Ktksq,Boys Noize,Challengers [MIXED] by Boys Noize,0.79,0.873,4,-6.99,1,0.0593,0.269,0.851,0.0961,0.435,129.962
+The Signal [MIXED],3Fqn9BCu1FxfSMgccBxgWd,Boys Noize,Challengers [MIXED] by Boys Noize,0.787,0.935,9,-8.215,0,0.0609,0.0293,0.87,0.295,0.142,129.998
+Brutalizer [MIXED],2FnMQEvfbdSI0AI9mKM5by,Boys Noize,Challengers [MIXED] by Boys Noize,0.672,0.996,10,-7.758,0,0.0678,0.00707,0.849,0.248,0.253,145.005
+Compress / Repress [MIXED],0GqtkhQlZqQ2iCvU3f2Pb5,Boys Noize,Challengers [MIXED] by Boys Noize,0.664,0.933,5,-6.004,0,0.0702,0.117,0.264,0.101,0.334,107.983
+A New Year Carol [MIXED],5khoXBzXVoAMlzGcyJ36FS,Boys Noize,Challengers [MIXED] by Boys Noize,0.478,0.0256,4,-34.675,1,0.0687,0.994,0.976,0.0984,0.463,79.306
+Close,7duZYNOgUM91uoFihLp3VL,Boys Noize,+/-,0.544,0.896,7,-6.353,1,0.0348,0.0308,0.789,0.238,0.287,100.743
+Love & Validation,5GxavkEXGgs1xfeJHEbGSw,Boys Noize,+/-,0.646,0.723,11,-6.9,1,0.0281,0.237,0.0673,0.113,0.0935,111.0
+Girl Crush (feat. Rico Nasty),6Z81mZN4nLr179FrIl37dq,Boys Noize,+/-,0.652,0.966,7,-5.374,1,0.111,0.114,0.0167,0.132,0.281,93.176
+Greenpoint,2l0ZrfyiLR054janjrYCNo,Boys Noize,+/-,0.57,0.925,10,-4.679,1,0.128,0.447,0.902,0.233,0.0799,194.045
+Polarity (feat. Ghost Culture),3Ykti2GdYVnDtUtccICp4Y,Boys Noize,+/-,0.66,0.792,1,-6.041,1,0.043,0.0281,0.169,0.109,0.26,105.99
+XYXY,28fAoV4HQv2cnS8gDRpRho,Boys Noize,+/-,0.791,0.901,1,-5.191,1,0.0478,0.000207,0.874,0.0489,0.779,111.998
+Affection,7322doZY3H7TUYavIGhZwM,Boys Noize,+/-,0.742,0.705,1,-6.075,0,0.0265,0.0569,0.00302,0.137,0.357,128.001
+All I Want (feat. Jake Shears),5xJa0UlbKyMX7uETcp3qUd,Boys Noize,+/-,0.808,0.848,6,-5.851,1,0.0511,0.000368,0.465,0.0512,0.769,124.972
+Detune,66PV2NZFhSyPGIu1sguSGz,Boys Noize,+/-,0.762,0.842,10,-4.699,0,0.0391,0.0065,0.839,0.621,0.413,129.983
+IU (feat. Corbin),3pwMJFMmA29L0oHq6Zqih8,Boys Noize,+/-,0.616,0.921,6,-5.939,0,0.081,0.00765,0.152,0.141,0.0555,140.689
+Xpress Yourself,3c0sFsXS4QdCPQPAfhShc3,Boys Noize,+/-,0.784,0.924,2,-7.381,1,0.0675,0.0575,0.844,0.271,0.224,131.978
+Sperm,5iYHR4mBx3eIXWSleebg2g,Boys Noize,+/-,0.83,0.817,10,-8.285,0,0.0471,0.000728,9.86e-05,0.126,0.207,130.016
+Nude (feat. Tommy Cash),7ffQVNakJTvuGDplVIueNB,Boys Noize,+/-,0.622,0.897,2,-6.425,1,0.0386,0.00129,0.622,0.138,0.0392,129.948
+Ride Or Die (feat. Chilly Gonzales),1rP4GZ4eFK4W9c5QeFIn1Y,Boys Noize,+/-,0.44,0.586,0,-7.472,0,0.0298,0.157,5.61e-06,0.112,0.0771,140.0
+Act 9 (feat. Vinson),5HbkoV6ag0qDxTNZ3lA5XW,Boys Noize,+/-,0.225,0.397,7,-10.436,1,0.0452,0.231,0.164,0.173,0.0399,75.083
+Distort Me,12AFrwqJibb2Y0N710O43w,Boys Noize,"Strictly Raw, Vol. 2",0.717,0.941,7,-8.239,1,0.0627,0.0278,0.904,0.166,0.101,126.028
+S&H Disco,2KHWN4JHxToxe7kVrmY1xs,Boys Noize,"Strictly Raw, Vol. 2",0.805,0.949,6,-8.76,1,0.0389,0.00448,0.851,0.0928,0.963,128.01
+Das Alter,1mpZXYoIVsWbzzArRUTGkc,Boys Noize,"Strictly Raw, Vol. 2",0.595,0.932,2,-8.387,1,0.0481,0.583,0.755,0.151,0.192,98.748
+Nightmehr,5ZdzGOe92NIYnZGlhQn3Xh,Boys Noize,"Strictly Raw, Vol. 2",0.552,0.829,1,-6.359,1,0.0451,0.00641,0.653,0.0817,0.0357,124.762
+Loaded,62de0B300ZFkfjx5QheyXP,Boys Noize,"Strictly Raw, Vol. 2",0.732,0.992,4,-5.433,0,0.0518,0.000145,0.751,0.123,0.0435,123.007
+Digitvl,2iRA8Hro58IIgSLHlDZRyA,Boys Noize,"Strictly Raw, Vol. 2",0.797,0.986,6,-7.156,1,0.0472,0.00352,0.894,0.119,0.892,132.001
+Purgatory,0FnOBPK9q0gEDnzYABTG1m,Boys Noize,"Strictly Raw, Vol. 2",0.765,0.57,3,-8.885,0,0.0579,0.0224,0.887,0.112,0.239,127.135
+L.I.P.,7i5jR1yZhLGUFD25ONMcbg,Boys Noize,"Strictly Raw, Vol. 2",0.782,0.869,9,-5.811,1,0.0983,0.0306,0.877,0.0906,0.922,141.998
+Overthrow - Club Version,3bY3cy5r1ALCTHSHGasSlO,Boys Noize,"Mayday Remixes, Pt. 2",0.679,0.856,7,-6.035,1,0.0539,0.0105,0.028,0.646,0.241,107.001
+Rock the Bells - GILA Remix,2wfbYrATlvxVUOMRgW7C3X,Boys Noize,"Mayday Remixes, Pt. 2",0.757,0.926,2,-5.247,1,0.0896,0.039,0.47,0.0785,0.392,104.005
+Euphoria - Amato Remix,5tXNxgBNK6EDwMjeR6Sw3k,Boys Noize,"Mayday Remixes, Pt. 2",0.805,0.515,2,-10.967,1,0.0747,5.17e-05,0.798,0.0625,0.271,120.005
+Starchild - Tensnake Remix,0tKdOiOZxk1l9RreEo42gv,Boys Noize,"Mayday Remixes, Pt. 2",0.718,0.653,1,-9.021,1,0.0305,0.535,0.879,0.172,0.473,125.013
+Midnight - Raito Remix,7zwDWEwBnLfkk9hAHfrkGA,Boys Noize,"Mayday Remixes, Pt. 2",0.611,0.931,4,-4.892,0,0.042,1.13e-05,0.818,0.0599,0.482,128.004
+Hardkotzen - Jensen Interceptor Remix,3KxEudOEZKaQmpxuzN06Oc,Boys Noize,"Mayday Remixes, Pt. 2",0.736,0.962,1,-7.213,1,0.0469,0.00105,0.833,0.148,0.0382,130.0
+Birthday - Chambray Remix,50GiNOlMAbYjzx41Z5gN5R,Boys Noize,"Mayday Remixes, Pt. 2",0.803,0.657,5,-6.551,0,0.0389,5.97e-05,0.525,0.0944,0.375,126.013
+Overthrow - Boys Noize 303 Overdub,4J6PpsImPgRg4lMj5wdgYp,Boys Noize,"Mayday Remixes, Pt. 1",0.803,0.736,11,-6.114,0,0.0501,0.00248,0.0753,0.0851,0.458,123.979
+Mayday - Club Version,2wjpX0WvDBaGByh7dDjVKV,Boys Noize,"Mayday Remixes, Pt. 1",0.634,0.96,11,-5.847,0,0.0473,9.72e-05,0.559,0.279,0.0516,127.99
+Dynamite - Dub Mix,2vy3EbV1bm132jRPlbJDMB,Boys Noize,"Mayday Remixes, Pt. 1",0.816,0.874,1,-5.648,1,0.0457,0.0944,0.0712,0.341,0.775,135.999
+Euphoria - Boys Noize x MXM Remix,4tujCnMeSeE9yfj3d9SUTz,Boys Noize,"Mayday Remixes, Pt. 1",0.582,0.746,8,-5.843,1,0.0298,0.0193,0.00322,0.0941,0.239,125.995
+2 Live - Boys Noize Silent Mix,6Gtxs5V9nuoSUT6P4ssuTK,Boys Noize,"Mayday Remixes, Pt. 1",0.793,0.891,10,-7.45,0,0.0519,0.000257,0.894,0.58,0.064,128.007
+Starchild - Reprise,3Abu1PgTHQ04FHrCJUM1Yd,Boys Noize,"Mayday Remixes, Pt. 1",0.481,0.488,8,-9.125,0,0.0344,0.0692,4.67e-05,0.0502,0.109,133.666
+Birthday - Rockwell Remix,6wOtHyAj0LL274rX3qmhhd,Boys Noize,"Mayday Remixes, Pt. 1",0.377,0.906,0,-5.321,0,0.0633,0.000256,0.0011,0.238,0.325,113.369
+Overthrow,5j3tzm2gmoo8BgB2DJ6I1v,Boys Noize,Mayday,0.681,0.777,7,-8.374,1,0.0693,0.018,0.0996,0.0828,0.0841,106.98
+Mayday,6w9A2pz3HIkvgmjypYlb6x,Boys Noize,Mayday,0.602,0.921,6,-6.253,0,0.0519,0.000107,0.457,0.327,0.0445,127.994
+Dynamite,5mR8KottnMve2OBDFJgQqk,Boys Noize,Mayday,0.776,0.808,5,-6.055,0,0.0733,0.105,0.000947,0.0514,0.551,135.984
+Rock the Bells,33KvuePYdzsx7ZqoTj3rHU,Boys Noize,Mayday,0.605,0.992,1,-5.074,1,0.0606,0.0062,0.907,0.454,0.556,102.894
+Euphoria,2oWFFtOQx0Qh31L89ybK8c,Boys Noize,Mayday,0.843,0.746,8,-6.294,0,0.0429,0.00263,0.00216,0.0375,0.178,119.952
+2 Live,5zjSjAsBijMktylVZKiJ18,Boys Noize,Mayday,0.554,0.89,1,-6.24,1,0.0535,0.00865,0.0271,0.204,0.0384,129.972
+Would You Listen,581Al04vyk2yWQV7grgfuh,Boys Noize,Mayday,0.688,0.821,9,-4.873,1,0.0708,0.000724,0.713,0.106,0.965,127.029
+Revolt,1N0hIh9mYEiCNGhajWXVdQ,Boys Noize,Mayday,0.521,0.883,5,-6.932,1,0.0578,0.0412,0.814,0.54,0.179,100.198
+Starchild,62wk2bWHrMKExm4ROYe2OT,Boys Noize,Mayday,0.651,0.682,8,-8.275,0,0.0314,0.0095,0.000174,0.0863,0.128,134.98
+Midnight,7AaFcIZXfF6MX5qUWkY0CO,Boys Noize,Mayday,0.619,0.938,6,-5.994,0,0.0311,0.00201,0.136,0.263,0.406,127.984
+Los Niños,0J4BR4D8FYkPj128v0qOeu,Boys Noize,Mayday,0.585,0.982,9,-6.019,1,0.0783,0.00582,0.853,0.0581,0.16,123.003
+Hardkotzen,6JtvxbeVB3F1bv0vxQwUKA,Boys Noize,Mayday,0.62,0.86,7,-6.228,1,0.228,0.0297,0.37,0.0922,0.21,159.819
+Birthday,22uztzsjywXSEGvLtt6Xhm,Boys Noize,Mayday,0.628,0.702,5,-6.321,0,0.046,0.011,0.0,0.538,0.329,144.022
+Paranoid,3eNYlRb1rCnPCOZFXnIxgA,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.707,0.966,4,-4.618,0,0.0643,0.00013,0.886,0.0703,0.392,119.97
+808-Iraq,4Ari4ug0Uz7t8DCj2t33ZU,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.799,0.795,0,-6.079,1,0.0597,0.00234,0.569,0.0964,0.118,125.001
+Overstayer,350yzPTlkZFqtiNIhXmXsA,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.787,0.992,2,-7.852,1,0.224,0.00572,0.922,0.235,0.0316,112.0
+Cerebral,46hs4ABJrgSMGdC9H7p4hh,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.832,0.791,10,-3.617,0,0.0433,0.00228,0.657,0.627,0.266,130.001
+The Fix,6demyUyF31ucDlS3CwCiRV,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.705,0.994,1,-4.727,1,0.059,0.00128,0.79,0.26,0.746,125.323
+Openn,6z3TH8clAJpYCf4o7PGrL6,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.735,0.977,1,-5.297,1,0.0563,0.0123,0.866,0.11,0.211,127.978
+Spacer,7JY1vtr17vkyNC1BcvR5f8,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.719,0.844,6,-3.111,0,0.182,0.00144,0.0521,0.67,0.741,128.024
+Dawnload,6DDjApFntVFQNhrt4mQOnk,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.373,0.823,1,-7.367,1,0.224,0.00086,0.673,0.0605,0.375,90.766
+Brain Frequent,4KgBr1wgfeBKHvpv3TpAXR,Boys Noize,"Boys Noize Presents Strictly Raw, Vol.1",0.706,0.965,11,-5.071,1,0.0536,0.00158,0.425,0.0848,0.0506,129.802
+Symmetry Slice,7vNVsk26UuQY20CtybXQBf,Boys Noize,Octave Minds,0.401,0.314,1,-12.896,1,0.0492,0.319,0.823,0.119,0.0372,167.724
+Anthem,3QcOFqMlGKhJnOjWe1tQgy,Boys Noize,Octave Minds,0.284,0.487,0,-9.432,1,0.0339,0.148,0.918,0.118,0.0379,119.939
+Initials KK,6lcalXUF3Hc5o62Gy3DvyN,Boys Noize,Octave Minds,0.564,0.398,2,-11.082,0,0.0289,0.863,0.938,0.125,0.311,116.037
+Tap Dance (feat. Chance the Rapper & The Social Experiment),5lvOPh9NXRCIqvDuORC3Hn,Boys Noize,Octave Minds,0.675,0.802,3,-5.671,1,0.0398,0.442,0.035,0.117,0.356,137.987
+Royalty,5mwuv2SfYtBeJ9SVaHFP3K,Boys Noize,Octave Minds,0.681,0.736,2,-7.95,0,0.145,0.0791,0.915,0.122,0.335,173.964
+Om,5yoXR9Nd19cb8YhUomuHBP,Boys Noize,Octave Minds,0.133,0.335,5,-17.142,0,0.0649,0.97,0.992,0.426,0.0936,73.871
+Together,6SGvbzPZtsKgcSlAOAu5Nh,Boys Noize,Octave Minds,0.596,0.707,0,-9.13,0,0.039,0.0319,0.881,0.337,0.152,124.012
+Projectionist,5OVLuFPNrEkaUWnAJjPNGe,Boys Noize,Octave Minds,0.453,0.284,2,-11.823,0,0.0328,0.975,0.935,0.136,0.325,129.066
+Done Deal,6h15rog0sAK7VpOlbwkkrX,Boys Noize,Octave Minds,0.524,0.888,0,-7.575,0,0.036,0.0672,0.919,0.114,0.325,120.009
+In Silence,12aqRaTqO3vLKNoeGevKbb,Boys Noize,Octave Minds,0.327,0.427,7,-12.509,0,0.034,0.876,0.844,0.386,0.11,117.387
+"Symmetry Slice, Pt.2",0Q7m6riFxLaMZXAmDPAYGb,Boys Noize,Octave Minds,0.402,0.61,10,-9.232,0,0.0429,0.925,0.937,0.329,0.0834,167.906
+What You Want (Jimmy Edgar Dub Mix),3jNJJcpTitXHI7z8klvR4M,Boys Noize,Out of the Black - The Remixes,0.706,0.849,7,-6.538,1,0.232,0.00575,0.000446,0.187,0.415,111.906
+XTC (MMM Remix - Boys Noize Rework),3PewhJfVXqD1ZTUZxCa8fP,Boys Noize,Out of the Black - The Remixes,0.616,0.886,1,-8.308,1,0.0567,0.000202,0.672,0.097,0.0664,125.03
+Missile (Club Version),7wB3RLjXPmeE7EGdBDNt3p,Boys Noize,Out of the Black - The Remixes,0.761,0.879,7,-3.634,1,0.0975,0.00392,0.518,0.0847,0.253,125.015
+Conchord (Oliver Remix),4O3Ywedj5EShgGGFIKhQTE,Boys Noize,Out of the Black - The Remixes,0.785,0.853,0,-5.714,1,0.0532,0.0125,0.63,0.116,0.0973,124.991
+Ich R U (Justice Remix),6i2arnMywyB1RtZoCmcvwL,Boys Noize,Out of the Black - The Remixes,0.62,0.845,6,-8.051,0,0.155,0.132,0.0715,0.186,0.377,112.952
+Got It (Blood Diamonds Remix),6SHDa7q1MurmICiwayh5Gh,Boys Noize,Out of the Black - The Remixes,0.429,0.854,11,-6.884,1,0.123,0.00305,0.000916,0.0806,0.736,184.068
+What You Want (Chromeo Remix),13ZsCa2muiXhSgfz4J1LDg,Boys Noize,Out of the Black - The Remixes,0.7,0.764,9,-5.015,1,0.0328,0.00383,0.00176,0.138,0.702,111.999
+XTC (The Chemical Brothers Remix),23Nzw4nvZl9Yb9denOP1up,Boys Noize,Out of the Black - The Remixes,0.514,0.981,6,-3.85,1,0.0469,0.00387,0.951,0.344,0.178,123.001
+Stop (Audion's Acid State Mix),18DN4I38JJaX6joh58U6o6,Boys Noize,Out of the Black - The Remixes,0.659,0.955,10,-7.465,0,0.0362,0.0132,0.907,0.158,0.295,123.986
+Circus Full of Clowns (Housemeister Remix),5h2C4SrVTdI1v1kXZnPXbI,Boys Noize,Out of the Black - The Remixes,0.883,0.876,7,-8.151,1,0.0927,0.0014,0.399,0.0828,0.595,122.991
+What You Want,0mxrKmJ7GKAeHPQKbcniGS,Boys Noize,Out of the Black,0.717,0.73,4,-4.747,1,0.0481,0.000731,0.0202,0.0939,0.34,112.003
+XTC,2VJS0kuE7ozSYOWJpqlLhR,Boys Noize,Out of the Black,0.701,0.807,5,-5.597,1,0.0455,0.00385,0.464,0.0769,0.353,125.005
+Missile,2bYY8xOHl3uQI9LUOIfcRn,Boys Noize,Out of the Black,0.732,0.72,7,-4.382,1,0.0813,0.00194,0.417,0.0915,0.173,125.022
+Ich R U,2eIHMMvvcnx72BLXEZyPFB,Boys Noize,Out of the Black,0.651,0.75,1,-6.51,0,0.039,0.0081,0.0992,0.271,0.528,123.993
+Rocky 2,1mZGx1ENruewV9upWMbQNm,Boys Noize,Out of the Black,0.695,0.862,11,-4.666,1,0.0392,0.000335,0.89,0.365,0.831,117.03
+Circus Full of Clowns,3CjGlv5nmX2maNybqwCmS6,Boys Noize,Out of the Black,0.355,0.703,7,-5.893,1,0.26,0.0349,0.0,0.271,0.503,66.734
+Conchord,7252KLX6Osc0A02pjINRfJ,Boys Noize,Out of the Black,0.59,0.879,10,-5.289,0,0.0431,0.00109,0.0871,0.107,0.499,125.993
+Touch It,0Og9XHv6bvJhDMPMKskpjF,Boys Noize,Out of the Black,0.731,0.698,10,-5.254,0,0.0389,0.000339,0.923,0.0627,0.49,109.989
+Reality,1aI1UXyXipPJzulC2GUsOH,Boys Noize,Out of the Black,0.552,0.862,5,-6.809,0,0.0345,0.0013,0.607,0.125,0.498,124.0
+Merlin,2EfR70PLsXdANWdrmnx6wY,Boys Noize,Out of the Black,0.621,0.869,11,-6.88,0,0.055,0.00747,0.904,0.0765,0.696,123.993
+Stop,5z8KBKmuHBFwWrsuqr1Opd,Boys Noize,Out of the Black,0.772,0.837,2,-7.165,1,0.0845,0.00357,0.512,0.0577,0.243,127.01

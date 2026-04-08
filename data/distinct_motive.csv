@@ -1,0 +1,59 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+WY,2EYGK1ilhG0NHKSCElhLUR,Distinct Motive,Ridley Road,0.754,0.38,7,-15.65,0,0.0915,0.661,0.812,0.0795,0.104,140.066
+Chattings,43Tx6ol243P2aQ70hOoPs8,Distinct Motive,Ridley Road,0.842,0.564,2,-11.421,1,0.207,0.0571,1.37e-06,0.0992,0.356,140.027
+Sucker Punch,2381O22OflL8jf0DiG0mA5,Distinct Motive,Ridley Road,0.745,0.875,11,-8.583,1,0.0457,0.282,0.863,0.0863,0.389,139.998
+Therapy,7KQ1cgVEcKg1GuDNxcxpYh,Distinct Motive,Ridley Road,0.896,0.367,2,-9.425,1,0.0607,0.0144,0.748,0.108,0.588,139.982
+Low Rider,4UCKsLsTZXJSyonRQKxmDn,Distinct Motive,Ridley Road,0.806,0.417,5,-11.657,0,0.1,0.283,0.903,0.101,0.531,142.013
+Light Em,6sUqvOu0NYU7iv2WTTDOvz,Distinct Motive,Ridley Road,0.741,0.983,10,-5.27,1,0.0707,0.288,0.853,0.32,0.237,139.997
+WY - Oxossi Remix,2WAJBaIS0A3pxO2psPrpLt,Distinct Motive,Ridley Road,0.728,0.395,0,-14.199,1,0.0806,0.75,0.734,0.168,0.0591,139.91
+Chattings - Logan_olm Remix,4p2JmeuOUStYVzkrMTNZsv,Distinct Motive,Ridley Road,0.866,0.719,1,-7.046,1,0.272,0.0289,4.54e-05,0.0932,0.949,139.938
+Light Em - Mincy Remix,2YjtaATm7eWoVgp3JfZ6ta,Distinct Motive,Ridley Road,0.738,0.868,6,-9.419,1,0.127,0.0163,0.757,0.324,0.557,139.989
+Cells,1fGmuLbxg86dbRcFOd62IH,Distinct Motive,DUBS EP,0.749,0.457,1,-7.925,1,0.0508,0.00657,0.331,0.118,0.514,140.051
+Watchin You,384AyogTeYanSZeLzBptzd,Distinct Motive,DUBS EP,0.602,0.71,9,-7.037,1,0.38,0.709,0.0,0.121,0.497,139.831
+Watchin You - Original Mix,23ckZjUNIbl0HZaP7QpHWv,Distinct Motive,DUBS EP,0.814,0.507,9,-10.006,0,0.396,0.852,0.266,0.0623,0.471,139.948
+Mini,5fuSyzlAlhpLF99tp8tuHi,Distinct Motive,DUBS EP,0.804,0.47,1,-7.353,0,0.0467,0.0154,0.926,0.0859,0.107,139.992
+No Mystery,08QDLg76qG7ItX4HxnnaAS,Distinct Motive,DUBS EP,0.831,0.442,6,-7.98,1,0.078,0.091,0.888,0.137,0.505,140.097
+Mellow Man - Caspa Remix,1bLzuJI7q2lrllNt5bwOI5,Distinct Motive,Mellow Man (Remixes),0.719,0.702,8,-7.385,0,0.0422,0.027,0.904,0.238,0.31,140.047
+Mellow Man - Bukez Finezt Remix,0OjruAvbkcWmnV6SQKqRaT,Distinct Motive,Mellow Man (Remixes),0.814,0.903,10,-5.123,0,0.295,0.066,0.00259,0.403,0.334,139.914
+Mellow Man - Hypho UKG Remix,2abdUXisDnoQqc9i7yDegd,Distinct Motive,Mellow Man (Remixes),0.803,0.536,8,-4.763,1,0.157,0.000235,0.169,0.245,0.376,140.051
+Mellow Man - LOST Remix,2j3VxdWBaS8DkDljhEfGNF,Distinct Motive,Mellow Man (Remixes),0.749,0.719,8,-7.288,1,0.271,0.00892,0.00446,0.586,0.219,140.043
+Mellow Man - VIP,696J2l4brnfo0EtipXIUYZ,Distinct Motive,Mellow Man (Remixes),0.86,0.45,8,-10.758,0,0.0601,0.108,0.00292,0.361,0.365,139.968
+Mellow Man,3LMHhB4jqFcDMUmXEfTAF9,Distinct Motive,Mellow Man (Remixes),0.834,0.496,8,-11.133,1,0.0561,0.125,0.0264,0.387,0.211,140.068
+No Mercy,1NeOU92kvnFtEg9XjNKy94,Distinct Motive,No Mercy,0.817,0.641,0,-10.223,1,0.0404,0.0486,0.232,0.363,0.121,139.943
+F Class - IDHS Remix,5DD3LYMriu4q8zaHAMezDG,Distinct Motive,F Class (IDHS Remix),0.785,0.647,1,-7.485,1,0.037,0.00798,0.732,0.665,0.46,140.033
+F Class - Dayzero Remix,1N3ojWnaMzNHt6TsWLYhGR,Distinct Motive,F Class (Dayzero Remix),0.755,0.555,11,-8.606,0,0.0407,0.000357,0.814,0.121,0.0864,140.007
+Bold - TakJacob Remix,5LccItyKU6tCMtOFCLlJ6F,Distinct Motive,Bold (Takjacob Remix),0.761,0.796,11,-8.878,0,0.0983,0.00207,0.767,0.106,0.175,139.909
+Hamburg - Bukez Finezt Remix,4JmF9rwdSoT1JPV8jnuxiI,Distinct Motive,Hamburg (Bukez Finezt Remix),0.767,0.931,1,-7.024,1,0.363,0.204,0.115,0.345,0.402,140.007
+Claw,6JLTatKOVYScUNqqK2iERr,Distinct Motive,Mellow Man,0.874,0.479,5,-10.393,0,0.0716,0.267,0.0944,0.339,0.553,139.929
+Blueberry,3ZY34wPbrwQi3PmUs3CfNj,Distinct Motive,Niagara EP,0.939,0.416,9,-8.003,1,0.156,0.0579,0.43,0.36,0.368,140.038
+Bold,3HxAnsDurrCckI9fieYPyd,Distinct Motive,Niagara EP,0.766,0.665,9,-14.005,1,0.0486,0.0304,0.184,0.125,0.233,139.891
+Biters,5YNH7hTlSTwGJm1zBspFqY,Distinct Motive,Niagara EP,0.933,0.482,1,-13.566,0,0.459,0.73,0.249,0.156,0.122,139.963
+Niagara,3ErlaZwwm7NH0vHAB3TRbz,Distinct Motive,Niagara EP,0.8,0.446,11,-10.887,0,0.0442,0.00118,0.91,0.113,0.0828,140.013
+Snakes,3YgBmFMeSledSGBCP8W80m,Distinct Motive,Snakes EP,0.842,0.394,9,-7.533,1,0.0703,0.000701,0.0523,0.618,0.179,140.052
+Shake Junt,294cHNrHJPIfb5P6bmrgVf,Distinct Motive,Snakes EP,0.83,0.49,10,-7.539,0,0.182,0.0589,0.111,0.0647,0.451,140.034
+SSN-21,2vaFdkI9vQbN2rD4nwODIy,Distinct Motive,SSN-21,0.695,0.489,4,-8.269,1,0.0446,0.0605,0.559,0.634,0.156,140.014
+Champ,7eVyJfoZSbZt9N8zyQSsNI,Distinct Motive,Champ,0.785,0.731,6,-12.153,0,0.0658,0.000208,0.871,0.0352,0.633,139.968
+Laner,2o4asjWs5P0XGYgSJGQSPG,Distinct Motive,Laner,0.804,0.33,6,-11.048,0,0.157,0.176,0.922,0.253,0.303,140.007
+No Posers,3byZCdmAuek4uRYrAVTc10,Distinct Motive,Laner,0.902,0.749,4,-8.439,0,0.203,0.186,0.01,0.117,0.113,140.046
+40hz,4zhapyWfl0myqJ5bVPUl66,Distinct Motive,40hz,0.854,0.407,4,-12.297,0,0.0622,0.438,0.874,0.0827,0.0876,139.995
+40hz - Truth Remix,0omK3ybft0qmfKNr01lbAv,Distinct Motive,40hz,0.534,0.363,1,-9.866,1,0.0595,0.104,0.696,0.181,0.04,140.112
+40hz - Jack Sparrow Remix,23KiO9sNISngMJakRKmHPC,Distinct Motive,40hz,0.854,0.439,11,-13.015,1,0.126,0.495,0.911,0.105,0.0509,104.953
+40hz - VIP Mix,59h5b6InvOKI3yvFvzEciM,Distinct Motive,40hz,0.791,0.423,1,-13.848,1,0.0632,0.555,0.79,0.0584,0.0689,139.999
+Anxious,3xXi4pERI5jc2wUKyXakfz,Distinct Motive,Anxious,0.767,0.437,4,-10.797,0,0.148,0.741,0.883,0.0727,0.141,104.674
+Hamburg,1PrWnI0jAiSLWhqcLbWo8t,Distinct Motive,Hamburg / Haste,0.719,0.565,9,-14.188,1,0.0724,0.195,0.147,0.0912,0.34,140.031
+Haste,5rU16vxnyLOqnIhprU4kXx,Distinct Motive,Hamburg / Haste,0.86,0.596,3,-12.933,0,0.0499,0.162,0.47,0.0953,0.163,139.968
+Radar,6umCgWLbpa65mJHG3FKXxB,Distinct Motive,Radar: EP,0.868,0.52,6,-11.534,0,0.381,0.22,0.648,0.252,0.176,140.015
+Itchy Fingers,0bF2knMq547EFF2vRqDyVX,Distinct Motive,Radar: EP,0.512,0.639,5,-13.589,0,0.0362,0.00105,0.837,0.675,0.152,139.951
+Loose Pimp,6TtBd5O24ZXLLAr0qBMjT6,Distinct Motive,Radar: EP,0.776,0.599,2,-11.518,1,0.107,0.0145,0.304,0.437,0.118,139.998
+Crazy,5uL0E8NgKFdQDp0CrBN9p9,Distinct Motive,Radar: EP,0.803,0.717,11,-13.259,1,0.048,0.0385,0.812,0.0669,0.238,139.893
+King,09z8c2Lqw4ZXzwPzr8vjHf,Distinct Motive,King / Worthy,0.939,0.432,11,-11.142,1,0.371,0.0034,0.758,0.0346,0.432,139.957
+Worthy,5FmPCsIpFKfa8n192BN4Vf,Distinct Motive,King / Worthy,0.643,0.275,1,-13.247,1,0.0714,0.0458,0.775,0.135,0.214,139.381
+F Class,4N8SAp0NqqPWZ9twR2FBtU,Distinct Motive,Out There,0.742,0.658,7,-8.241,1,0.0525,0.00122,0.421,0.37,0.114,140.014
+Alive,3kZPoN2AvWSss1mRk8cRpf,Distinct Motive,Out There,0.636,0.652,11,-8.368,1,0.0907,0.0249,0.672,0.604,0.289,140.045
+Tsunami,7BtuITchXjrhz8qNJwTgTy,Distinct Motive,Out There,0.711,0.533,8,-10.602,1,0.0452,0.00339,0.635,0.65,0.107,140.0
+Out There,7gYXqmctnDP62jTGbk7FaY,Distinct Motive,Out There,0.412,0.63,0,-8.496,1,0.0457,0.00645,0.63,0.158,0.0287,105.05
+Four Four Mode,6IOGnx3442Z6JSa7i9mXpE,Distinct Motive,Four Four Mode,0.732,0.758,7,-7.138,1,0.0596,0.0291,0.899,0.0634,0.291,140.047
+Cessna Riddim,3TMzS8mQz9jtRSGLMFy5fk,Distinct Motive,Cessna Riddim / Iron Lung,0.647,0.61,7,-14.367,1,0.0521,0.172,0.656,0.104,0.294,139.99
+Iron Lung,3O9OrJUPFTqcBeSaeMJIuS,Distinct Motive,Cessna Riddim / Iron Lung,0.661,0.43,7,-14.558,1,0.0452,0.132,0.686,0.316,0.0954,140.069
+The District - Original Mix,6rzzzTXtE6X4PLM7zGqBNj,Distinct Motive,The District EP,0.803,0.505,1,-9.969,1,0.106,0.218,0.942,0.282,0.176,139.99
+Rattler - Original Mix,6uki1rrrys4dojZiUIzhpM,Distinct Motive,The District EP,0.692,0.524,2,-9.131,1,0.0593,0.0538,0.628,0.109,0.173,140.02

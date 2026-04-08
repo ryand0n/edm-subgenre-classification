@@ -1,0 +1,129 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Ghost World,2cDNBhUVkvm49x7ev3LbU4,alison wonderland,GHOST WORLD,0.427,0.726,3,-7.52,0,0.0313,0.00598,0.134,0.62,0.266,152.006
+Get Started,2w67IEBCLM0aDbAFUWmryn,alison wonderland,GHOST WORLD,0.454,0.898,6,-4.862,0,0.0461,0.00926,0.347,0.514,0.269,156.069
+iwannaliveinadream,7D61V302R67QTAEUQCYMRE,alison wonderland,GHOST WORLD,0.471,0.88,10,-5.541,1,0.0586,0.0256,8.39e-05,0.173,0.134,142.02
+Heaven,7Ei2LsA34MJPITPv72dvZw,alison wonderland,GHOST WORLD,0.496,0.942,9,-5.242,0,0.104,0.0028,0.78,0.119,0.285,138.004
+Call Me (r u alone?),60EeR8kuB6Zgsob2QTxwT0,alison wonderland,GHOST WORLD,0.489,0.714,9,-6.526,0,0.206,0.143,0.0406,0.179,0.0735,138.132
+Lost & Found,3suAPiTVSB2NVqWMW7H8KX,alison wonderland,GHOST WORLD,0.25,0.779,4,-5.016,0,0.0647,0.29,0.000952,0.11,0.0819,75.373
+Everything Comes In Waves,6ZhqA1hIpF90WxfuPeTXda,alison wonderland,GHOST WORLD,0.544,0.922,1,-2.07,1,0.038,0.041,0.0941,0.198,0.355,97.026
+PSYCHO,6e3nbdHuaeon4W9kdiqyqY,alison wonderland,GHOST WORLD,0.552,0.943,2,-1.714,1,0.0396,0.00585,0.0658,0.506,0.333,148.013
+Sirens,5Em5UrJqGc5dshy1xQh9L0,alison wonderland,GHOST WORLD,0.547,0.986,10,-3.815,1,0.0539,0.00616,0.00747,0.963,0.167,133.977
+Voices,4fyaqvQ1cECs9F0WYFbmBy,alison wonderland,GHOST WORLD,0.251,0.949,10,-4.448,0,0.0464,0.000687,0.264,0.121,0.235,142.046
+XTC,5U2wakBlO9XdIQeitPy2Cs,alison wonderland,GHOST WORLD,0.65,0.905,2,-4.064,1,0.0943,0.000168,0.269,0.337,0.228,154.998
+Again? Fuck.,43bYgahnY4to1OGfPy3IS9,alison wonderland,GHOST WORLD,0.531,0.957,5,-3.628,0,0.0505,0.00105,0.14,0.37,0.65,170.073
+Floating Away,65CGn2sHcBbHqOy3H5uz7g,alison wonderland,GHOST WORLD,0.497,0.957,10,-3.704,1,0.0544,0.000994,0.000241,0.176,0.0497,142.016
+Is This The End?,6lIJsetcz7g9Elmop3BRBU,alison wonderland,GHOST WORLD,0.216,0.693,2,-4.354,1,0.0359,0.000335,0.0,0.358,0.291,120.042
+Forever,6M1Yp3KrONx7FFN3dKd8Xh,alison wonderland,Loner,0.493,0.614,2,-9.007,1,0.077,0.0766,0.000184,0.135,0.169,138.052
+Safe Life,0VvdakcSvAfDqkMdHua1H0,alison wonderland,Loner,0.461,0.596,7,-5.895,0,0.0535,0.0256,0.0624,0.113,0.0713,148.142
+Fuck U Love U,2h1uvDHYv9Cll7DWOPtYa4,alison wonderland,Loner,0.298,0.803,2,-5.128,0,0.0462,0.00286,0.00343,0.157,0.116,76.872
+New Day,1ExDfyXQeaimYRwm7xt6TL,alison wonderland,Loner,0.493,0.68,10,-5.87,1,0.0365,0.165,0.00247,0.11,0.103,94.082
+I’m Doing Great Now Thanks (Interlude),3FgbqE9DtzN5HAUXMW4ERX,alison wonderland,Loner,0.428,0.519,7,-10.196,1,0.0727,0.599,0.341,0.265,0.22,90.122
+Down The Line,0uJ9ERKbkX6IcTLTgbIZYC,alison wonderland,Loner,0.663,0.652,11,-6.628,0,0.0598,0.15,1.56e-05,0.318,0.21,149.994
+Something Real,1Z0N9hxlzZRPAKI5Q33jsq,alison wonderland,Loner,0.519,0.61,8,-10.808,1,0.0608,0.458,0.151,0.191,0.184,119.919
+Eyes Closed,7f2bmtaXxqwoOeWHrWBSZ7,alison wonderland,Loner,0.685,0.576,5,-8.761,0,0.0509,0.027,0.684,0.0932,0.228,157.966
+Bad Things,4cn5L4fQyVWwYOObxfrVkW,alison wonderland,Loner,0.466,0.633,10,-7.487,1,0.0463,0.0544,0.000328,0.369,0.0438,147.92
+Thirst,7wlSlhOwegHVFeIDzmRW80,alison wonderland,Loner,0.543,0.849,10,-7.14,1,0.0471,0.00158,0.00302,0.535,0.0961,136.996
+Cocaine,6ViyIrVx3ee1YTPEcnwRwz,alison wonderland,Loner,0.63,0.69,8,-5.547,1,0.0495,0.117,0.0,0.276,0.424,160.03
+Fear Of Dying,5THNs2gICe4iPHi7lzTIpa,alison wonderland,Loner,0.503,0.494,9,-7.546,1,0.0412,0.326,0.000481,0.0954,0.113,70.035
+Loner,3KMbvTOIx2oc1Bhknl4G2Y,alison wonderland,Loner,0.589,0.573,0,-7.342,1,0.201,0.381,1.94e-05,0.0912,0.129,138.131
+Sometimes Love - Alison Wonderland x SLUMBERJACK / ORIENTAL CRAVINGS Remix,3papyCgYfgdhjF5SfG9yi2,alison wonderland,Awake (The Remixes),0.618,0.951,7,-3.836,0,0.341,0.101,0.000729,0.384,0.472,147.915
+Okay - Blush Remix,5LxuBqKMzDT6kozXoMXkZX,alison wonderland,Awake (The Remixes),0.636,0.864,0,-5.47,1,0.0857,0.203,0.00391,0.297,0.0412,150.099
+No - Paces Remix,79tVW8GyXOysqDXzeMYuda,alison wonderland,Awake (The Remixes),0.332,0.847,11,-4.513,0,0.091,0.0123,2.69e-05,0.297,0.392,67.23
+No - Kid Froopy & umru Remix,635wPJgtu1B2zZfwTT2pk5,alison wonderland,Awake (The Remixes),0.473,0.822,4,-4.398,0,0.0426,0.00449,2.54e-05,0.0776,0.18,174.013
+No - Callie Reiff Remix,4WQi4zOEuL9TSHOVAFi0R0,alison wonderland,Awake (The Remixes),0.647,0.703,4,-6.722,0,0.0272,0.00173,0.641,0.0839,0.122,111.99
+High - QUIX & Enschway Remix,6cuys3PKi1syAnhefirTVZ,alison wonderland,Awake (The Remixes),0.499,0.608,8,-7.316,1,0.0681,0.00584,1.68e-05,0.134,0.0724,75.039
+High - Fracture Remix,3FO7iz96MK42Q2teCqhswQ,alison wonderland,Awake (The Remixes),0.481,0.97,1,-2.859,1,0.0542,0.000916,0.000567,0.333,0.337,170.035
+Awake - KRANE Remix,3HOL9Jrb1cmUjHYZiPLzmn,alison wonderland,Awake (The Remixes),0.544,0.765,7,-6.826,0,0.0401,0.0066,0.000314,0.171,0.39,142.017
+Cry - Bleep Bloop Remix,1I7lg45O8Hz3Z8GWMf6oQx,alison wonderland,Awake (The Remixes),0.588,0.857,5,-5.212,0,0.177,0.0126,0.0138,0.103,0.263,162.017
+Cry - Sunny Norway Remix,6m62mMzZw4QExS42SOJCFF,alison wonderland,Awake (The Remixes),0.694,0.653,1,-5.553,1,0.0793,0.023,7.01e-05,0.107,0.575,81.027
+Easy - Kill Paris Remix,1wqCIsDAWf0HtN5NrdAklt,alison wonderland,Awake (The Remixes),0.578,0.551,5,-6.052,1,0.0443,0.117,0.0,0.316,0.229,75.104
+Good Enough,1imPiGCRV9jQKShxESv3Tt,alison wonderland,Awake,0.741,0.841,8,-5.538,0,0.0416,0.00667,0.903,0.479,0.499,144.994
+No,4HrI0DIPyvRF1cxUUAGQJc,alison wonderland,Awake,0.581,0.865,11,-5.888,0,0.0895,0.00816,0.00024,0.386,0.293,174.034
+Okay,4fdo8V4TLA1aonfI4NxFjE,alison wonderland,Awake,0.56,0.555,2,-7.089,1,0.0344,0.00431,0.0216,0.189,0.105,140.007
+Easy,27xk5s3fAAwfvptEshbM3J,alison wonderland,Awake,0.612,0.668,5,-4.869,1,0.0326,0.0106,3.04e-05,0.484,0.285,134.995
+High,5qdPqyF6mc5rJBmQW5ppgA,alison wonderland,Awake,0.416,0.594,1,-6.836,1,0.0661,0.0137,1.24e-06,0.573,0.114,135.985
+Here 4 U - Alison Wonderland x BLESSUS,1UoTyVpNXRMIcO35M14lRB,alison wonderland,Awake,0.549,0.702,1,-4.809,1,0.309,0.0549,0.467,0.34,0.447,160.048
+Church,6Apozxrk03AIyQwyswUjbt,alison wonderland,Awake,0.551,0.681,10,-4.873,0,0.0401,0.0251,0.0,0.481,0.227,94.052
+Cry,0CqGCpNdOktUrsTUEkWozV,alison wonderland,Awake,0.653,0.656,8,-6.27,1,0.0441,0.0271,0.0,0.0897,0.511,161.964
+Happy Place,0Kd7GHTM4093wuWwWCs3e7,alison wonderland,Awake,0.506,0.849,11,-6.987,0,0.191,0.00146,0.0543,0.418,0.287,150.072
+Good Girls Bad Boys,3pap35nZotIOQJBYZbtYeM,alison wonderland,Awake,0.62,0.949,11,-4.945,0,0.351,0.00122,0.33,0.065,0.339,164.064
+Dreamy Dragon,7qEsrWCvoL31GYdzLkBQzm,alison wonderland,Awake,0.667,0.526,6,-6.821,1,0.0497,5.04e-05,0.0015,0.0346,0.464,118.922
+Hope - Interlude,1Cnb8dDwWgvodEpD97S97O,alison wonderland,Awake,0.298,0.519,0,-9.804,0,0.0322,0.0101,1.65e-05,0.329,0.114,102.483
+Sometimes Love - Alison Wonderland x SLUMBERJACK,0USj9HRTlVVvi8pCspwSRE,alison wonderland,Awake,0.623,0.907,7,-2.653,0,0.132,0.0191,0.0477,0.297,0.422,148.088
+Awake,67ooRicNWzjRLBw3ddW9iy,alison wonderland,Awake,0.454,0.635,7,-6.218,0,0.0292,0.00305,0.0,0.301,0.157,142.04
+U Don't Know - Slander Remix,0bp9B38gfKhOxUx1CUu4Ph,alison wonderland,Run (Deluxe Edition - Remixes),0.344,0.679,2,-5.592,0,0.0406,0.133,0.508,0.0564,0.181,163.987
+I Want U - GANZ Flip,00CujlY4ya5p2FNDu9BCZP,alison wonderland,Run (Deluxe Edition - Remixes),0.356,0.753,8,-5.061,0,0.0988,0.0226,3.99e-05,0.178,0.35,76.284
+Games - Hermitude Remix,2jylrc2hTWkGOqjhg36nWl,alison wonderland,Run (Deluxe Edition - Remixes),0.714,0.785,3,-5.507,0,0.126,0.0983,0.00745,0.0888,0.49,82.534
+Games - Jimmy Edgar Remix,38LM5J2oZwj1NvYjezhGJS,alison wonderland,Run (Deluxe Edition - Remixes),0.758,0.549,1,-8.224,1,0.059,0.0572,0.0115,0.211,0.197,151.994
+Run - Jayceeoh & B-Sides Remix,620PKPB6rVjAjh1ApalF5d,alison wonderland,Run (Deluxe Edition - Remixes),0.489,0.867,9,-2.99,0,0.0285,0.000288,2.96e-05,0.357,0.209,144.87
+Run - Sinden Remix,5vf40vkf353jfux8MnrmxG,alison wonderland,Run (Deluxe Edition - Remixes),0.654,0.802,2,-4.381,1,0.0362,0.0111,0.739,0.0737,0.614,126.99
+Take It To Reality - Justin Jay Remix,6FTJ4WnagGmY3S5VbD2X7f,alison wonderland,Run (Deluxe Edition - Remixes),0.827,0.785,10,-6.344,1,0.0627,0.144,0.729,0.56,0.654,123.98
+Take It To Reality - R I T U A L Remix,7FCEDusfoF1AMgffWoUAHO,alison wonderland,Run (Deluxe Edition - Remixes),0.781,0.419,5,-9.47,0,0.0923,0.0311,0.000592,0.128,0.13,77.47
+Run,5uDZdW4e9QwMSIWbzY7oD2,alison wonderland,Run,0.507,0.779,0,-5.763,1,0.0333,0.00389,0.02,0.398,0.109,145.02
+U Don’t Know,0VKZDoQ7vOW6VW61nIvmxq,alison wonderland,Run,0.537,0.707,2,-5.718,0,0.033,0.000635,3.36e-06,0.131,0.187,138.055
+Take It To Reality,1xKAX82ulfphGaeZRlwmJN,alison wonderland,Run,0.591,0.828,5,-4.155,0,0.04,0.00927,0.0,0.328,0.3,154.965
+Naked (Alison Wonderland X Slumberjack),3TxZp44el2BT1LdgrRMTDs,alison wonderland,Run,0.75,0.862,1,-6.179,0,0.0895,0.00177,0.0432,0.132,0.72,150.041
+Carry On,0RVuovI26wYm5CIAMotQEw,alison wonderland,Run,0.516,0.92,9,-4.37,0,0.0942,0.00804,0.614,0.801,0.332,145.027
+I Want U,6wb61u8ayuanWSHZzle5od,alison wonderland,Run,0.606,0.829,1,-3.455,0,0.036,0.00172,5.43e-05,0.276,0.384,140.033
+Games,4WqbHB4JbvdnMHRonuKthy,alison wonderland,Run,0.263,0.926,1,-4.334,1,0.0614,0.00194,0.147,0.154,0.532,164.848
+One More Hit,20Il1CLO9feUtD9e51ft08,alison wonderland,Run,0.581,0.819,5,-4.87,1,0.0423,0.000359,0.909,0.361,0.654,135.041
+Ignore,6ArbQdNmyp4t5aLXmRfO90,alison wonderland,Run,0.692,0.921,2,-4.654,0,0.0632,0.000272,0.405,0.0506,0.17,150.04
+Back It Up (Alison Wonderland X AWE),33yo7vrJgnnxfMDwqbmRjz,alison wonderland,Run,0.607,0.741,10,-4.485,0,0.267,0.000923,0.587,0.57,0.609,190.385
+Cold,7ryZn74jZ5D3FJyj9hC3Oi,alison wonderland,Run,0.478,0.785,6,-5.437,0,0.159,0.0157,0.0657,0.0695,0.532,140.977
+Already Gone,7nhAyS8iFU6njtpXH3slTE,alison wonderland,Run,0.584,0.579,0,-4.307,0,0.0339,0.00168,0.000992,0.201,0.0883,135.088
+No One Does It Like,3tX4wGJbMYgNGZC0Tr5V3t,alison wonderland,No One Does It Like,0.519,0.782,1,-3.426,1,0.0531,0.00476,0.221,0.175,0.104,75.042
+Satellite - Wooli Remix,3tiC6D3N07kUIJXKNDRHjy,alison wonderland,Satellite (Wooli Remix),0.632,0.859,1,-3.327,1,0.0586,0.0561,5.93e-05,0.117,0.16,145.103
+Satellite,4wmunabAb3335pi1axDKAQ,alison wonderland,Satellite (Wooli Remix),0.51,0.961,8,-1.912,0,0.0562,0.137,0.00413,0.619,0.169,171.948
+Satellite - SOTA Remix,1Jpb8bXqRP2ks5zjd0rOt7,alison wonderland,Satellite (Wooli Remix),0.594,0.804,7,-3.812,0,0.11,0.0226,0.000172,0.0919,0.157,173.98
+Wake Up,1WWrLjKKuNeuKGRwSj36ti,alison wonderland,Wake Up,0.606,0.817,11,-8.989,1,0.0448,0.0134,0.848,0.111,0.0713,140.021
+Picture,1sAyfWbmgrT7HganHgLSYQ,alison wonderland,Picture,0.507,0.564,0,-7.058,1,0.045,0.282,0.00106,0.101,0.109,131.986
+Anything - Body Ocean Remix,4piGD6lbuj57rxausi0brN,alison wonderland,Anything (Body Ocean Remix),0.788,0.652,5,-5.753,0,0.0562,0.0398,0.765,0.123,0.281,126.007
+Anything,7zKBAtGpsvw3XmLdOFAEkB,alison wonderland,Anything (Body Ocean Remix),0.768,0.908,5,-5.014,0,0.0486,0.184,0.546,0.0583,0.423,120.042
+Anything - Malaa Remix,2LVMVLS3QG6zDhETZrMqoK,alison wonderland,Anything (Malaa Remix),0.871,0.677,1,-6.185,1,0.0782,0.0183,0.752,0.263,0.161,123.977
+Bad Things - Kaidro Remix,3iMxZLLme2MlJE5RiaAqEH,alison wonderland,Bad Things (Remixes),0.466,0.687,7,-4.992,0,0.0359,0.363,0.000723,0.597,0.139,147.924
+Bad Things - LEXIM Remix,2u5YQ864VSWXDyxMgvEZO9,alison wonderland,Bad Things (Remixes),0.518,0.74,7,-5.305,0,0.0415,0.196,3.01e-05,0.114,0.197,76.519
+Bad Things - ShockOne Remix,3yJPy1wJ5r6FapOyXOzIiF,alison wonderland,Bad Things (Remixes),0.474,0.948,10,-6.349,1,0.13,0.00177,0.103,0.277,0.116,149.734
+Bad Things - Tek Genesis Remix,2AJOTc7Tx0kPcMOyEIUmxx,alison wonderland,Bad Things (Remixes),0.405,0.885,10,-4.195,0,0.494,0.0381,6.1e-05,0.0966,0.147,148.127
+Bad Things - chandler jewels Remix,5HjQmAZfHyWkHNCPsBnTWG,alison wonderland,Bad Things (Remixes),0.369,0.411,10,-9.45,1,0.0321,0.211,0.0118,0.11,0.0629,148.064
+Bummed (feat. Alison Wonderland) - Manila Killa Remix,6UZ1Ro6x8R0J9UiQd3GYJi,alison wonderland,Bummed (feat. Alison Wonderland) [Manila Killa Remix],0.615,0.795,0,-7.108,0,0.0728,0.0257,0.192,0.0583,0.0792,124.975
+W.W.C.B.D.,06Jny6MKdpcF0Z3QRhkZcb,alison wonderland,W.W.C.B.D.,0.718,0.57,7,-7.882,0,0.0457,0.723,4.1e-06,0.593,0.651,111.065
+Bummed (feat. Alison Wonderland),4q4piG49DCSxNPA9E390Wx,alison wonderland,Bummed (feat. Alison Wonderland),0.437,0.759,8,-6.133,1,0.039,0.000371,0.0,0.0872,0.382,160.03
+Peace - Acoustic,1HXQLxqUaUbnQx65qzvMV4,alison wonderland,Peace (Acoustic),0.381,0.18,5,-11.119,1,0.0376,0.906,1.77e-06,0.138,0.163,83.028
+TIME - Alison Wonderland x QUIX,1SxyJi1JT19xVv1wisAekW,alison wonderland,TIME: Remixes (Alison Wonderland x QUIX),0.493,0.895,4,-5.824,1,0.057,0.0975,0.616,0.35,0.152,129.462
+TIME - SLUMBERJACK Remix / Alison Wonderland x QUIX,3zlqieglc9X2sNsVbAaZno,alison wonderland,TIME: Remixes (Alison Wonderland x QUIX),0.507,0.956,4,-3.866,0,0.0777,0.019,0.0527,0.431,0.336,75.048
+TIME - Madnap Remix / Alison Wonderland x QUIX,4ZkIQXlPHaq2L1doZAq0gR,alison wonderland,TIME: Remixes (Alison Wonderland x QUIX),0.693,0.55,4,-9.353,0,0.0366,0.578,0.335,0.238,0.362,114.02
+TIME - Barilan Remix / Alison Wonderland x QUIX,6xNIO5FkR6c2F8udsacTcr,alison wonderland,TIME: Remixes (Alison Wonderland x QUIX),0.912,0.693,9,-4.382,1,0.154,0.0617,0.65,0.101,0.0685,127.992
+TIME - Yvng Jalapeño Remix / Alison Wonderland x QUIX,4HEiPzi61DNIb7QbqFh3yK,alison wonderland,TIME: Remixes (Alison Wonderland x QUIX),0.684,0.974,11,-5.052,0,0.0903,0.0417,0.0919,0.171,0.391,129.964
+TIME - We Rose Remix / Alison Wonderland x QUIX,0ukqpkOWpZShCXNGBpxkSN,alison wonderland,TIME: Remixes (Alison Wonderland x QUIX),0.638,0.83,9,-7.446,1,0.198,0.0417,0.118,0.609,0.226,140.084
+Lost My Mind (NGHTMRE Remix),0RfLYCwSiBjPdWWILorBQU,alison wonderland,Lost My Mind (NGHTMRE Remix),0.554,0.848,0,-2.632,0,0.0467,0.00797,0.00952,0.109,0.137,150.013
+Peace,1hxLDSOHxK5Yf7zIf4sEXZ,alison wonderland,Peace: Remixes,0.362,0.684,2,-5.174,0,0.0854,0.279,1.08e-05,0.165,0.389,85.201
+Peace - Kaivon Remix,0K92KgcnGE6yaAsAEmnhva,alison wonderland,Peace: Remixes,0.594,0.76,0,-3.21,1,0.068,0.376,0.000189,0.289,0.339,80.018
+Peace - Nightcall Remix,1NPGgHgWFzQx163KpFUyuX,alison wonderland,Peace: Remixes,0.693,0.816,0,-6.003,1,0.0545,0.361,0.000207,0.101,0.118,93.052
+Peace - QUIX Remix,6Pi1d4i4HYtf2pxckusD4k,alison wonderland,Peace: Remixes,0.52,0.707,2,-4.361,0,0.0312,0.012,1.64e-05,0.117,0.145,90.005
+Peace - Blaine Stranger Remix,7ztDbIk40oKwofZurQ0jon,alison wonderland,Peace: Remixes,0.623,0.769,2,-4.14,0,0.0426,0.000449,0.27,0.137,0.408,173.933
+Peace - Holly Remix,7LMNrboSdzWUcBI2gaeqAY,alison wonderland,Peace: Remixes,0.535,0.596,2,-8.079,0,0.097,0.0619,0.387,0.102,0.185,179.861
+Lost My Mind (WILDLYF Remix),1UX1kUyIFyPgdmtqbOWSzz,alison wonderland,Lost My Mind (Remixes),0.508,0.935,10,-1.347,1,0.07,0.0107,0.202,0.327,0.123,160.223
+Lost My Mind (HiGuys Remix),5s7Lh51Usf1EQwDr266MDT,alison wonderland,Lost My Mind (Remixes),0.654,0.876,5,-4.173,0,0.09,0.00753,0.0303,0.296,0.351,160.06
+Lost My Mind (Duke & Jones Remix),2ImOC1vnI1wE9vNswnzZ4N,alison wonderland,Lost My Mind (Remixes),0.775,0.855,5,-4.788,0,0.341,0.235,0.0251,0.105,0.0788,79.951
+Lost My Mind (ARMNHMR Remix),5gzurN5yQwzGRfQAzdIILo,alison wonderland,Lost My Mind (Remixes),0.175,0.873,1,-2.118,1,0.0644,0.154,0.0,0.261,0.193,159.056
+Lost My Mind (Bebi & Dead Robot Remix),41Dj912wOWVbKdytPQEjAi,alison wonderland,Lost My Mind (Remixes),0.515,0.857,5,-5.709,0,0.0674,6.02e-05,0.00728,0.165,0.148,159.97
+Lost My Mind (Mom N Dad Remix),7Ia71mSgfgvD8fMocNwztD,alison wonderland,Lost My Mind (Remixes),0.618,0.89,10,-1.611,1,0.048,0.0401,0.0268,0.197,0.271,99.979
+Lost My Mind (Yomi Twice Remix),6VSUW1BeNfxm1kSN9GYMfl,alison wonderland,Lost My Mind (Remixes),0.641,0.783,1,-7.363,1,0.0442,0.0137,0.524,0.125,0.294,124.983
+Lost My Mind,25VGXLN845h8HnOYdOTdKg,alison wonderland,Lost My Mind,0.596,0.665,0,-5.37,0,0.0648,0.016,0.665,0.149,0.183,159.99
+Cry - Rynx Remix,5hZXzIaSjWWBmkOPinoFcU,alison wonderland,Cry (Rynx Remix),0.563,0.871,6,-5.261,0,0.0568,0.0614,0.000149,0.101,0.425,82.009
+Easy - Kaivon Remix,7mSEDCfdIFI7LYIJ2Go0eX,alison wonderland,Easy (Kaivon Remix),0.273,0.565,2,-9.9,0,0.0375,0.0426,1.64e-05,0.115,0.0506,134.781
+Easy - Billon Remix,5BPsVi5g8vMErS8D7oVpC7,alison wonderland,Easy (Billon Remix),0.712,0.739,2,-8.126,0,0.0289,0.00482,0.000199,0.119,0.0674,124.991
+Church - Naderi Remix,2CLVDA3sqhE451HFnPtGG1,alison wonderland,Church (The Remixes),0.544,0.734,10,-7.235,0,0.0433,0.0576,0.000112,0.111,0.267,94.004
+Church - The Presets Remix,7cF07Na4n3r2RP7NAvgdVR,alison wonderland,Church (The Remixes),0.596,0.812,8,-4.903,1,0.0425,0.12,0.144,0.603,0.0701,124.974
+Church - GHOST CHOIR Remix,2oLpbbbqv2dt0T4fHPxXAl,alison wonderland,Church (The Remixes),0.676,0.608,10,-6.822,0,0.089,0.194,4.95e-06,0.148,0.375,92.178
+Church - Party Pupils Remix,0PyWmBr4dpaK6AgB3cKOlC,alison wonderland,Church (The Remixes),0.652,0.721,10,-5.152,0,0.126,0.0422,0.0,0.0591,0.76,103.99
+Church - Hex Cougar Remix,1O8ZaFRNHEse7DgmPI1rZX,alison wonderland,Church (The Remixes),0.575,0.635,8,-3.178,0,0.0476,0.0255,0.0,0.0868,0.325,93.98
+New Rules - Alison Wonderland Remix,5Fx2UrcQobzM1h2ihdhsmm,alison wonderland,New Rules (Alison Wonderland Remix),0.578,0.59,9,-6.162,0,0.0431,0.00721,0.00711,0.077,0.253,128.092
+Messiah - Lido Remix,1XD8WkOQQhBy17UZkuMmCk,alison wonderland,Messiah (Alison Wonderland X M-Phazes) [Lido Remix],0.525,0.676,0,-6.812,0,0.0641,0.00447,4.34e-05,0.131,0.324,136.898
+Messiah (Alison Wonderland x M-Phazes),21X115cKbCkLUH78vlOFYv,alison wonderland,Messiah (Alison Wonderland X M-Phazes),0.554,0.662,8,-8.369,1,0.0667,0.0208,0.000365,0.131,0.373,136.992
+U Don't Know - Daktyl Remix,6A0j7qiYWR7UmKIthn44jJ,alison wonderland,U Don't Know (Remixes),0.555,0.562,9,-6.302,0,0.0584,0.0205,0.401,0.157,0.338,160.008
+U Don't Know - Just A Gent Remix,06lMqmNdP9izDuA03kjuQl,alison wonderland,U Don't Know (Remixes),0.69,0.632,2,-4.266,0,0.0319,0.0117,0.00995,0.109,0.26,137.99
+U Don't Know - THUGLI Remix,0ryuEeXwwwHKZaOqcef1Eb,alison wonderland,U Don't Know (Remixes),0.649,0.716,2,-6.149,1,0.0335,0.000204,0.0733,0.0962,0.287,140.055
+Lies,4vyqPUWo02sBioaar8leyu,alison wonderland,Calm Down EP,0.688,0.645,5,-6.101,0,0.0465,0.000694,0.902,0.243,0.383,155.962
+Sugar High,6QDGl9AD9slEmj1dOTfBib,alison wonderland,Calm Down EP,0.535,0.779,6,-4.934,0,0.0848,0.00118,5.99e-06,0.233,0.545,129.044
+Space,5PoEqkiivlNavA8y1G1gyb,alison wonderland,Calm Down EP,0.62,0.653,2,-8.677,1,0.0409,0.00142,0.476,0.101,0.69,148.015

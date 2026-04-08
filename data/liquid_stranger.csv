@@ -1,0 +1,239 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Super Jam,5vztcIVr9nWcG9UwEC37ZU,Liquid Stranger,BALANCE,0.603,0.791,8,-5.011,1,0.0454,0.000701,4.02e-06,0.224,0.328,137.944
+Higher,2G90bSK4KRKapjkdezCxoU,Liquid Stranger,BALANCE,0.768,0.661,5,-6.32,1,0.0408,0.000813,0.00253,0.204,0.176,135.015
+Take A Trip,7wQCQt96CTbr7snOrIogZU,Liquid Stranger,BALANCE,0.646,0.896,1,-4.255,0,0.0376,0.00103,0.08,0.221,0.242,140.032
+Berserk,2iYIDDMMTYdOaICHKFjfVj,Liquid Stranger,BALANCE,0.77,0.655,8,-3.132,1,0.0542,0.00752,0.0108,0.0937,0.282,80.021
+Low,1YiZMc8DlW52vH3E1n24Oe,Liquid Stranger,BALANCE,0.578,0.665,1,-5.067,1,0.0326,0.00357,0.000804,0.338,0.0722,173.971
+Holla,3tLWJIT3r0wxqlXftBPGU3,Liquid Stranger,BALANCE,0.893,0.55,2,-4.912,1,0.0628,0.00386,2.29e-05,0.132,0.276,95.009
+Mission Control,2PeW522Krm9nzmzXR3rYCx,Liquid Stranger,BALANCE,0.669,0.773,6,-4.676,1,0.0438,0.00155,0.247,0.182,0.0389,130.033
+Shake,06EzP8Y2dBKRgShaTnJdcE,Liquid Stranger,BALANCE,0.779,0.784,1,-4.361,1,0.0449,0.00198,0.118,0.292,0.54,102.023
+Hi Grade,4cE7dCeXpLOSZsoozJM5Ky,Liquid Stranger,BALANCE,0.625,0.611,9,-4.425,0,0.0297,0.00277,0.00394,0.111,0.0822,95.05
+Busy,2hiyyGp9I1Nh1eOgMbc5Ur,Liquid Stranger,BALANCE,0.785,0.671,0,-4.283,1,0.0851,0.0236,0.0102,0.12,0.435,99.978
+Dreams,7lUg1dRYxuZeP8G8jSshKC,Liquid Stranger,BALANCE,0.772,0.574,7,-3.952,1,0.0612,0.0806,0.0,0.319,0.607,144.963
+Keep It Up,25nuf6UHrFgbuwdKd7KF31,Liquid Stranger,BALANCE,0.681,0.567,4,-5.286,1,0.0646,0.00078,0.00393,0.14,0.275,120.0
+Flashback,0hWYX13qRpeP9bmBPVKyBH,Liquid Stranger,BALANCE,0.569,0.598,7,-6.515,1,0.0275,0.00149,0.000139,0.708,0.0539,124.001
+Sinewave Safari,0cnQwmsxU8PFbPGY2hJSRx,Liquid Stranger,INFINITY,0.437,0.817,0,-8.552,1,0.415,0.509,0.0,0.182,0.0294,165.263
+Prime,34efKc1ehTYdjDfwlT4OEf,Liquid Stranger,INFINITY,0.647,0.724,6,-4.376,1,0.0472,0.000107,0.00241,0.231,0.281,144.989
+Ignite,78kT5PGrurTxOIN5nQw6Mv,Liquid Stranger,INFINITY,0.758,0.763,7,-7.577,0,0.297,0.0325,0.0126,0.297,0.392,89.852
+Brain Boi,2MaAgVtsb7LD9hp66i0Nss,Liquid Stranger,INFINITY,0.613,0.56,1,-6.101,1,0.0247,0.0142,0.00145,0.243,0.308,120.035
+Zero Frontier,1QPgLwBmY4P7m67glYA8RN,Liquid Stranger,INFINITY,0.489,0.778,7,-5.436,1,0.415,0.00307,0.00212,0.136,0.308,79.162
+Ceremony,11n5EUoycaoTVUEHdMUCJB,Liquid Stranger,INFINITY,0.644,0.585,8,-5.035,1,0.0545,0.0127,0.211,0.111,0.187,90.018
+PLUR Feat. CoJaxx,1d9dAE9lQuMUFOIUF9qcKx,Liquid Stranger,INFINITY,0.882,0.643,7,-3.841,1,0.282,0.009,0.0,0.445,0.548,82.008
+Carnage Feat. Pistol,4rwbDklwSb0rDjLw5a0HTC,Liquid Stranger,INFINITY,0.923,0.748,2,-3.709,1,0.293,0.0346,6.27e-05,0.132,0.506,131.973
+Run For Cover Feat. MC Shells,52HGmwMFZUQEKo1FLD7Xfx,Liquid Stranger,INFINITY,0.646,0.74,6,-5.329,0,0.102,0.00168,0.000114,0.613,0.54,140.031
+"Hydroplane Feat. Warrior Queen, HARD KNOCK",7wmhkaBzznowCnFkEOlmoY,Liquid Stranger,INFINITY,0.802,0.793,11,-4.578,1,0.198,0.0185,0.0,0.363,0.564,150.143
+Jetpacks Feat. Vern Knows,4hqPAFLfiUGh8669DCZjlT,Liquid Stranger,INFINITY,0.637,0.834,7,-3.267,1,0.349,0.0204,0.0,0.448,0.564,80.79
+Spastic Elastic,6aPIp4bYhaFRDwzyjPOSTZ,Liquid Stranger,INFINITY,0.664,0.862,1,-2.873,1,0.0615,9.36e-05,0.286,0.505,0.426,74.996
+Battleship Feat. Spear,3ZDuNz4I7hyIaiegOvoooL,Liquid Stranger,INFINITY,0.869,0.81,6,-5.141,1,0.149,0.0165,0.000261,0.348,0.349,90.039
+Swollen Beasts,2smNdQjOYdIOVNgTorSuZA,Liquid Stranger,INFINITY,0.473,0.578,8,-8.305,1,0.0659,0.0387,0.52,0.113,0.0396,111.902
+Go Commando,3XqDwNA3Mw0nn6bJhpIIj2,Liquid Stranger,INFINITY,0.795,0.845,1,-4.785,1,0.265,0.00146,0.204,0.374,0.45,83.986
+Wreck,3CMulNKFvkTEchwDX9SjHO,Liquid Stranger,INFINITY,0.675,0.711,1,-4.749,1,0.196,0.00124,0.00331,0.127,0.243,185.007
+Burn Like Sun - Feat. Leah Culver,73b2P1h6d4C5vmhwuCqDYA,Liquid Stranger,INFINITY,0.613,0.498,4,-5.809,0,0.0279,0.16,8.2e-05,0.145,0.2,139.052
+The Pod,6zluQDM5cBfexm7IQOV2mp,Liquid Stranger,INFINITY,0.905,0.72,1,-5.058,1,0.0547,0.00121,0.0301,0.0817,0.258,120.033
+Kevlar,0U6G6emYcv5ZH5uOE9scd8,Liquid Stranger,INFINITY,0.801,0.738,1,-4.515,1,0.153,0.0112,0.048,0.374,0.734,160.186
+Redline Feat. Spear,5uHxjMaNx4woK6u5JjZoYl,Liquid Stranger,INFINITY,0.588,0.759,9,-5.587,0,0.0544,0.00236,0.0159,0.409,0.281,144.953
+Midvinter Feat. Malin Staaf,07dDONb90rhDGT46OQf26L,Liquid Stranger,INFINITY,0.407,0.463,1,-9.716,1,0.0489,0.00114,0.114,0.111,0.26,120.006
+Black Hole Feat. Laura Brehm,30RQ21NOZGPBvue0cSX5De,Liquid Stranger,INFINITY,0.445,0.673,5,-7.804,1,0.0332,0.00311,0.0905,0.235,0.118,140.053
+Falling Away,6hDHlDucFiVK5OHrZ8bJBJ,Liquid Stranger,INFINITY,0.659,0.537,11,-3.665,0,0.0368,0.0143,8e-05,0.349,0.111,144.986
+Jello Stream,72MkQNzImzCrLdcvpzw8pZ,Liquid Stranger,INFINITY,0.483,0.597,0,-6.768,1,0.0386,0.000167,0.653,0.263,0.0735,54.951
+Dunno Feat. Spear,0y14t3i92NAbZ7wUN8bCvq,Liquid Stranger,INFINITY,0.656,0.685,0,-6.783,1,0.0435,0.0097,2.65e-06,0.295,0.259,74.999
+Space Farmer Feat. SoDown,4Ra36ai9msAftC66x1iTC7,Liquid Stranger,INFINITY,0.614,0.634,3,-5.134,0,0.0339,0.0409,0.0454,0.202,0.382,139.982
+"Echo Feat. KJ Sawka, Christian Acamo",1xwRU6TRfY2wI3mAebc8rN,Liquid Stranger,INFINITY,0.484,0.703,1,-5.888,1,0.0298,0.00481,9.04e-06,0.101,0.0739,100.028
+Goodbye,0fmvjiB4UV8npsSF1Nsrng,Liquid Stranger,INFINITY,0.601,0.595,10,-8.275,0,0.032,0.00173,0.806,0.129,0.0876,95.04
+Solar Winds,3Bw5DcBfUyLPoOgImDeyWE,Liquid Stranger,INFINITY,0.684,0.712,2,-4.107,1,0.0434,0.00235,0.442,0.657,0.269,154.018
+"Murder On The Freeway Feat. Christian Acamo, CoJaxx",2r0pcsG7oYqXik32oUuBnw,Liquid Stranger,INFINITY,0.643,0.526,0,-8.419,1,0.0302,0.00287,4.97e-05,0.303,0.0965,103.039
+Meteor Ride,6CzADkxXqeplzfSsc8M6DI,Liquid Stranger,Polarity,0.726,0.712,10,-6.241,0,0.0357,0.00362,0.297,0.287,0.367,140.026
+Creature,3av23uiQqE2tffapd3c769,Liquid Stranger,Polarity,0.758,0.716,1,-3.065,1,0.068,0.00096,0.376,0.853,0.42,140.089
+Paranoid,2Remf3tc0eQbbbi0nHCG0T,Liquid Stranger,Polarity,0.736,0.651,2,-1.999,1,0.462,0.00511,0.0141,0.358,0.62,160.14
+"Gunslinger, Pt. 2",74KOWgfgbYwWFPDXmuLmbG,Liquid Stranger,Polarity,0.62,0.65,1,-5.864,1,0.352,0.00863,0.0225,0.368,0.412,169.924
+Mind Over Matter,1ZAAU7NCNpRleaW2dwxWaS,Liquid Stranger,Polarity,0.65,0.611,1,-6.877,1,0.264,0.0183,0.12,0.0754,0.189,127.949
+Saturn Cruiser,4sc8OApfBTKq5MXkHTf4e3,Liquid Stranger,Polarity,0.714,0.549,4,-6.609,0,0.032,0.00704,0.355,0.161,0.213,132.995
+"Dive (feat. Jahdan Blakkamoore, Messinian, Ohm Daddy)",4rmCOVqVqskXfDldqhc4Km,Liquid Stranger,Anomaly : The Collection,0.478,0.685,9,-6.975,0,0.0609,0.0144,0.0,0.11,0.0626,73.833
+Brass Taxed,6Ea6bqaHBmCfF7G57dQl51,Liquid Stranger,Anomaly : The Collection,0.755,0.757,10,-6.791,0,0.0609,0.0784,0.0108,0.136,0.488,105.01
+Bushwaka,26Sn8fKPV5VZRror7h3G3i,Liquid Stranger,Anomaly : The Collection,0.728,0.84,1,-5.433,1,0.0392,0.00108,0.656,0.0871,0.349,100.004
+Tremor (feat. Ragga Twins),7ulJRJqrX3pO7yNwUvDRek,Liquid Stranger,Anomaly : The Collection,0.664,0.597,6,-5.128,0,0.375,0.0056,4.07e-06,0.3,0.618,128.776
+Congo Bongo,3dHwhBAQVRqphn2XbYft36,Liquid Stranger,Anomaly : The Collection,0.838,0.564,10,-7.536,0,0.0498,0.000659,0.0622,0.114,0.323,102.997
+Mr. Unbreakable (feat. Khadafi Dub),1EPX7t2wKYZJ735CnRDaxI,Liquid Stranger,Anomaly : The Collection,0.609,0.591,11,-8.503,1,0.0846,0.0137,1.35e-06,0.325,0.252,136.949
+"Play (feat. Jazzmin, Ragga Twins)",2ks7Q6acYwqeGAnkAO5QXq,Liquid Stranger,Anomaly : The Collection,0.836,0.745,6,-5.582,1,0.0476,0.0031,3.78e-05,0.0681,0.374,100.034
+Gasm,7wtoXhoNeK9ERRLdgj5Zdq,Liquid Stranger,Anomaly : The Collection,0.656,0.543,2,-5.016,0,0.331,0.00683,0.00335,0.263,0.181,99.956
+Caution (feat. Khadafi Dub),74JgSWlcZPk4Yeq9lXK7BU,Liquid Stranger,Anomaly : The Collection,0.754,0.822,7,-3.782,1,0.0479,0.00119,0.0,0.399,0.382,122.584
+Golden Property (feat. MC Zulu),6j70Jp2ruKnlKX1GdgdEiv,Liquid Stranger,Anomaly : The Collection,0.855,0.597,10,-5.905,0,0.227,0.0234,0.0,0.222,0.318,89.972
+"Warpath (feat. MC Zulu, Messinian, Ohm Daddy)",6lcURCMb0ddxsVkrx1RxUU,Liquid Stranger,Anomaly : The Collection,0.634,0.734,11,-7.989,1,0.115,0.107,0.0,0.578,0.199,70.006
+Trouble (feat. Tzaddi),35vEPEv5waa9eEBFFnfVCc,Liquid Stranger,Anomaly : The Collection,0.694,0.591,1,-7.834,1,0.027,0.00026,0.00838,0.0592,0.326,110.002
+Freedom Bells (feat. Messinian),4i9iyxOmZBzFDA3sZhImcI,Liquid Stranger,Anomaly : The Collection,0.75,0.716,4,-6.907,0,0.24,0.0327,0.0,0.324,0.431,144.983
+Mr. Unbreakable - Instrumental,3Rv4FXJ0Lr0OQO5mSucJAe,Liquid Stranger,Anomaly : The Collection,0.606,0.57,5,-6.955,1,0.0368,0.00031,0.495,0.184,0.128,129.988
+Beacon,2VdQs2G1fD6d0aNMkgZNcJ,Liquid Stranger,Cryogenic Encounters,0.453,0.281,10,-15.465,1,0.0951,0.167,0.782,0.0662,0.0377,83.979
+Burst,54TKa8KmkVEytn0ZhXbWPf,Liquid Stranger,Cryogenic Encounters,0.616,0.622,9,-11.938,0,0.0696,0.0247,0.399,0.315,0.328,140.027
+Zeal,1CluUp9Lgwn3t4P0XhsODX,Liquid Stranger,Cryogenic Encounters,0.543,0.414,4,-14.357,0,0.0288,0.0013,0.412,0.0975,0.0377,109.974
+Cryo,4kOnFdZNpuyGxnr0dlDAc7,Liquid Stranger,Cryogenic Encounters,0.54,0.439,1,-14.475,1,0.0394,0.00992,0.74,0.0549,0.0538,90.011
+Frostbite,1fqoGSSWhxGAjNodUl2ZkB,Liquid Stranger,Cryogenic Encounters,0.506,0.568,9,-15.435,0,0.0633,0.0956,0.435,0.432,0.199,179.956
+Magenta,5tTOklPfH5RFLjpu6qfkFL,Liquid Stranger,Cryogenic Encounters,0.718,0.553,5,-15.491,0,0.0409,0.0933,0.856,0.107,0.746,139.997
+Organism,7ptANXt3TOmAzU9rB3vNjn,Liquid Stranger,Cryogenic Encounters,0.767,0.401,1,-16.043,1,0.055,0.00536,0.897,0.112,0.0498,95.003
+Minimum,5eN2m6BMYC7LNMdX2YdgSk,Liquid Stranger,Cryogenic Encounters,0.506,0.468,2,-19.824,0,0.0417,0.285,0.86,0.387,0.161,89.999
+The Other Dreamers,0En5NZj4sOFcXt2WkHW1OF,Liquid Stranger,Cryogenic Encounters,0.254,0.377,2,-19.767,0,0.0432,0.0377,0.12,0.284,0.106,80.011
+Far and Beyond,2MdV8SGgESNLNGr2wHzBUt,Liquid Stranger,Cryogenic Encounters,0.648,0.512,6,-12.135,1,0.0436,0.00377,0.895,0.581,0.165,89.979
+Fragments,7olijqC0qmoaIbxmh2Flmq,Liquid Stranger,Cryogenic Encounters,0.556,0.418,5,-21.742,0,0.0663,0.56,0.928,0.111,0.0924,120.023
+Ectoplasm,39BVnYP6xjYbvGPue3Z535,Liquid Stranger,Cryogenic Encounters,0.117,0.132,3,-22.682,0,0.0336,0.712,0.86,0.0846,0.0341,83.169
+The Molecule Man,5vetNEtbrbjuVJbTxwQcus,Liquid Stranger,The Arcane Terrain,0.727,0.55,11,-11.567,0,0.0532,0.041,0.222,0.111,0.57,140.03
+Bombaclaad Star,4aCLlP6kT7M66u168tOywv,Liquid Stranger,The Arcane Terrain,0.799,0.485,1,-10.403,1,0.0613,0.00213,0.28,0.0975,0.479,82.501
+Rise,1BkBrvQJHjpoupVce0nr7Q,Liquid Stranger,The Arcane Terrain,0.725,0.57,1,-9.852,1,0.268,0.0388,0.000267,0.528,0.525,90.028
+Babylon Beast,0SqNnY2rLfjRrzXL5HJULK,Liquid Stranger,The Arcane Terrain,0.78,0.683,1,-8.117,1,0.117,0.00894,0.00639,0.12,0.602,98.001
+Steam,7iYbJdRVvBBvM4i8EedrFk,Liquid Stranger,The Arcane Terrain,0.809,0.692,0,-8.093,1,0.0681,0.0486,0.0427,0.216,0.969,79.995
+Timeless,3ChCjGe2n2qnf6rrW3bXWR,Liquid Stranger,The Arcane Terrain,0.869,0.694,8,-9.096,1,0.302,0.18,0.0,0.151,0.777,140.003
+Totem,7Etm14tMhUw1lK6antvFUr,Liquid Stranger,The Arcane Terrain,0.651,0.507,1,-12.522,0,0.0611,0.000613,0.869,0.0956,0.433,90.017
+Laguna,4LTSsoenZ2euYVxRG1XoAc,Liquid Stranger,The Arcane Terrain,0.745,0.506,10,-11.511,0,0.0551,0.00845,0.502,0.118,0.431,140.023
+The Squid Strander,1Eez7FCEGnSt1U3DMQIeAM,Liquid Stranger,The Arcane Terrain,0.794,0.471,11,-10.537,0,0.0438,0.00756,0.849,0.0859,0.533,98.987
+Vigilante,72DiwDbL16bNWYmNMHkfil,Liquid Stranger,The Arcane Terrain,0.753,0.649,2,-10.394,1,0.0901,0.0377,0.0628,0.11,0.618,139.973
+Zero Gravity,7rqUXEVp4dZoTyUNd2U55P,Liquid Stranger,The Arcane Terrain,0.701,0.33,7,-12.655,1,0.0324,0.156,0.485,0.307,0.199,90.013
+Overlord,2B2WUa7t5zktszY82k6Uku,Liquid Stranger,The Arcane Terrain,0.635,0.466,0,-12.86,1,0.0427,0.0281,0.735,0.0963,0.153,140.013
+Unfold,1a0ogz8bIEY2USNZEWC1MC,Liquid Stranger,The Arcane Terrain,0.2,0.194,11,-20.975,0,0.0541,0.67,0.826,0.124,0.0823,100.779
+Bully,3VauEGEfleAO8j1yIbv5NV,Liquid Stranger,Mechanoid Meltdown,0.708,0.891,7,-8.686,1,0.147,0.0101,0.00453,0.103,0.327,139.968
+Rocket Fuel,3qfqVe3oZLypYxup31AvUB,Liquid Stranger,Mechanoid Meltdown,0.823,0.722,0,-7.54,1,0.499,0.0512,0.00174,0.119,0.361,140.063
+Destroy Him My Robots,1dc53sxHhPbIuBNl7QbWEV,Liquid Stranger,Mechanoid Meltdown,0.346,0.945,7,-7.124,1,0.167,0.000914,0.486,0.101,0.0697,170.051
+Jolt,5G3tIoV3b4moyk3WHF1mv3,Liquid Stranger,Mechanoid Meltdown,0.768,0.71,9,-9.03,1,0.145,0.0297,3.98e-06,0.0819,0.136,139.986
+Pressurize,2zdFLFJngRRv2Ed0L5EOZi,Liquid Stranger,Mechanoid Meltdown,0.72,0.87,1,-9.385,1,0.0452,0.000402,0.419,0.135,0.233,140.011
+Shake My Ass,0yooN7AbTaDNDxchGKdi4I,Liquid Stranger,Mechanoid Meltdown,0.681,0.869,1,-7.557,1,0.178,0.000786,0.142,0.151,0.379,170.016
+Blood Suckers,4dG2mpmckG0uvyJNfxeWsf,Liquid Stranger,Mechanoid Meltdown,0.613,0.655,0,-7.978,1,0.0585,0.00391,0.00205,0.18,0.0396,140.083
+Robot Rox,5Rfm5l8ckvirqhIAm4e5b2,Liquid Stranger,Mechanoid Meltdown,0.456,0.706,7,-7.067,1,0.0701,0.0084,0.471,0.0569,0.0571,140.107
+Exit the Vault,19HhS7v6wwYNC8uWEkNy76,Liquid Stranger,Mechanoid Meltdown,0.675,0.646,1,-7.759,1,0.137,0.00184,0.0839,0.359,0.191,140.157
+Step By Step,4JEGiusqg6p0lceTkAqgEh,Liquid Stranger,Mechanoid Meltdown,0.661,0.804,9,-8.607,1,0.0531,0.000134,0.441,0.0665,0.339,140.001
+Nintendo,1YolqizNFTh9y1iwbPm46z,Liquid Stranger,Mechanoid Meltdown,0.677,0.53,10,-8.943,0,0.0433,0.0547,2.1e-05,0.388,0.218,140.005
+Ripple - VIP,30jNpSBu3yIIqK15Lb3wvA,Liquid Stranger,Mechanoid Meltdown,0.659,0.817,7,-8.233,1,0.273,0.00208,5.15e-06,0.149,0.375,140.017
+Alert,426ZxTer4zGw4cPooBMABS,Liquid Stranger,The Private Riot,0.587,0.762,11,-10.312,0,0.29,0.000593,0.0535,0.127,0.0965,69.969
+Mission AD,3cQLVSQtMXHuy3q7qbl2Su,Liquid Stranger,The Private Riot,0.676,0.824,6,-7.728,0,0.178,0.000776,0.666,0.175,0.203,140.026
+Ripple,4K6il43DU1yDyNVjYSwIyH,Liquid Stranger,The Private Riot,0.786,0.772,11,-9.573,0,0.182,0.00034,0.134,0.38,0.298,140.034
+Zero Hour,7KDqfofiIDThSglx5tZwUa,Liquid Stranger,The Private Riot,0.762,0.795,1,-9.384,1,0.137,0.0145,0.0869,0.341,0.121,140.03
+Captain Of Crunch,5vapftCMo9XJqHdZurO2Py,Liquid Stranger,The Private Riot,0.791,0.928,11,-6.613,0,0.111,0.00241,0.587,0.279,0.13,131.007
+Creepers Crawlers,2MzMw0OvqknzJXgN7anVbv,Liquid Stranger,The Private Riot,0.736,0.611,7,-9.629,1,0.0742,0.0362,0.486,0.339,0.131,139.97
+Vibes Machine,1ABmYg1A4UJ3TV6lLwdj97,Liquid Stranger,The Private Riot,0.514,0.745,1,-7.684,1,0.107,0.00419,0.543,0.34,0.308,91.831
+Mucus,1BSyvqttpjj97Vhf73sDne,Liquid Stranger,The Private Riot,0.719,0.81,8,-7.884,1,0.203,0.0115,0.892,0.65,0.368,144.968
+Inspector Gadget,21d46oOvaqKb0YUvDZMRN5,Liquid Stranger,The Private Riot,0.716,0.871,9,-8.378,1,0.1,0.00895,0.758,0.334,0.268,134.047
+Blackout,3hQJIdV4XQTICVZvTH0dLu,Liquid Stranger,The Private Riot,0.823,0.559,6,-6.756,0,0.0947,0.00548,0.537,0.33,0.202,135.011
+Hiding In The Morning Mist,7cY1k5yKGDaRV2Vr2KNKmL,Liquid Stranger,The Intergalactic Slapstick,0.302,0.377,2,-18.546,1,0.0933,0.302,0.0368,0.409,0.195,113.387
+His Fully Automatic Wheelbarrow,21mP05KMXQeTTntXeYzoUh,Liquid Stranger,The Intergalactic Slapstick,0.682,0.462,1,-12.281,1,0.0657,0.0109,0.638,0.274,0.477,88.003
+Dance On the Pettles Avoiding the Nettles,5KtPhPTC1AqagtfSF8Af4M,Liquid Stranger,The Intergalactic Slapstick,0.737,0.42,0,-12.721,1,0.031,0.0211,0.76,0.331,0.501,130.021
+Soundboy Killa,1VAEFkICga6lewTMu7gpDI,Liquid Stranger,The Intergalactic Slapstick,0.696,0.531,11,-12.059,0,0.0516,0.022,0.00316,0.196,0.562,144.983
+Full Metal Jacket,69xR3AcyPAYD1x20POWiqw,Liquid Stranger,The Intergalactic Slapstick,0.745,0.52,6,-10.797,1,0.0404,0.00746,0.186,0.804,0.573,140.016
+Tantrum Feat. Brother Culture,6YPMUS5HVKHL8MGLIUQPxl,Liquid Stranger,The Intergalactic Slapstick,0.747,0.514,10,-11.311,0,0.107,0.0428,0.0753,0.0732,0.69,100.027
+Dub Missile,42L05CbC76CpSxuRmS1xUt,Liquid Stranger,The Intergalactic Slapstick,0.829,0.467,6,-11.936,0,0.0699,0.00274,0.816,0.0646,0.218,139.989
+Mutants Feat. Warrior Queen,1ehEVaI52b51XRQgXC3y5Q,Liquid Stranger,The Intergalactic Slapstick,0.657,0.815,11,-10.21,0,0.223,0.00933,0.000391,0.462,0.822,74.997
+Rough Road Feat. Brother Culture,79tSLehe5r0nEwB90fn0P0,Liquid Stranger,The Intergalactic Slapstick,0.769,0.676,8,-10.208,1,0.12,0.219,2.47e-06,0.166,0.507,145.025
+Hexed and Perplexed Feat. Deeyah,0wKz6aLfNT35lenJCqfGHl,Liquid Stranger,The Intergalactic Slapstick,0.754,0.518,9,-12.531,1,0.0535,0.00404,0.729,0.103,0.527,139.987
+Bodily Needs,7kG2fm2rBrnT0yRRAoE3VX,Liquid Stranger,The Intergalactic Slapstick,0.629,0.669,1,-11.115,1,0.0509,0.0025,0.0547,0.271,0.414,75.01
+Lotus,2PC2vMhJQ9tjRx55FSZ9KR,Liquid Stranger,The Intergalactic Slapstick,0.716,0.512,5,-12.865,0,0.0442,0.00738,0.881,0.068,0.177,95.504
+Dew Point,1BkqpGpIOREkKZgnBKemEB,Liquid Stranger,The Intergalactic Slapstick,0.495,0.257,10,-13.561,1,0.0288,0.932,0.0729,0.232,0.135,140.038
+Vibration Ruling the Nation,7jJ0CwuktnQ74F0xfhgcYm,Liquid Stranger,The Invisible Conquest,0.603,0.639,1,-11.436,1,0.0475,0.046,0.686,0.463,0.288,174.975
+Liquid Stranger on the Run (2007 Mix),6rHq4cv00WRcgqNaY7HjiD,Liquid Stranger,The Invisible Conquest,0.697,0.732,4,-10.191,1,0.11,0.00247,0.611,0.176,0.28,92.489
+Djarum Express,0A1QSkzwxIDjSwle2JtJfy,Liquid Stranger,The Invisible Conquest,0.682,0.673,6,-11.649,0,0.0648,0.0405,0.906,0.205,0.528,94.998
+Familiar and Unknown,4Puce1MYXbOKtWI4nKFuiU,Liquid Stranger,The Invisible Conquest,0.692,0.598,0,-10.382,1,0.0402,0.09,0.869,0.11,0.316,145.024
+Drop Sacrifice,4wd3DrF8JNnIeeZJyOFgSQ,Liquid Stranger,The Invisible Conquest,0.721,0.53,1,-10.888,1,0.0352,0.00491,0.684,0.612,0.614,137.015
+Splash Matters,41f2ZYcFyXksO9s3XPra0H,Liquid Stranger,The Invisible Conquest,0.683,0.78,2,-9.416,1,0.0457,0.0017,0.87,0.112,0.254,93.489
+Cook n Curry,4iwQOgpa3geTbZkiRMblHR,Liquid Stranger,The Invisible Conquest,0.668,0.718,2,-10.9,1,0.0436,0.0412,0.92,0.0938,0.702,144.992
+Wallflower,5160gPwlheB9DPygIZDlD4,Liquid Stranger,The Invisible Conquest,0.3,0.286,2,-20.25,1,0.0406,0.172,0.86,0.105,0.0995,95.051
+Confusion,6av17l2Z5UBuuNKQEnkHkf,Liquid Stranger,The Invisible Conquest,0.71,0.601,10,-10.176,0,0.0868,0.0147,0.705,0.606,0.67,160.003
+Mutants - Sneaky and Adaptable Mix,6iz3Tlj5UOIkCeWKsrw44g,Liquid Stranger,The Invisible Conquest,0.35,0.776,8,-10.27,1,0.0424,0.0101,0.857,0.113,0.0702,170.998
+Doncamatic,3kJ95qWau4HnrNvo0orH5i,Liquid Stranger,The Invisible Conquest,0.85,0.55,10,-12.054,0,0.102,0.169,0.864,0.225,0.519,94.516
+Faun on the Waters,6Q2pd8gGB1MkYwqS8kCVuw,Liquid Stranger,The Invisible Conquest,0.697,0.553,2,-12.567,1,0.0314,0.0919,0.808,0.198,0.315,130.984
+Melt,4x377sp6y3T1zl1wngGV2Y,Liquid Stranger,Melt,0.659,0.981,4,-2.194,1,0.118,0.0025,0.0393,0.0672,0.679,140.09
+Revolution,3DnzrubszBKIYTDzTEfhGg,Liquid Stranger,Revolution,0.635,0.858,1,-2.86,0,0.0287,0.000601,1.56e-06,0.115,0.187,110.024
+Walk to the Sun,6km8dVIGHsi9tUpZKLTRZl,Liquid Stranger,Walk to the Sun,0.476,0.791,4,-5.482,0,0.0359,0.000144,2.18e-05,0.132,0.0763,150.041
+Trailblazer,5psgWqa4cMrANthb7UcfBR,Liquid Stranger,Trailblazer,0.674,0.969,2,-2.818,1,0.0371,0.000234,0.123,0.0884,0.294,87.51
+In My Mind,67lUp5rf0rzq8PhAZ805Lc,Liquid Stranger,In My Mind,0.65,0.876,6,-3.757,1,0.0312,0.00204,8.65e-06,0.115,0.258,118.02
+Restless,2qcatm1Vvi5io4zmIQc2cp,Liquid Stranger,Restless,0.522,0.919,8,-4.428,0,0.0475,0.0121,0.000475,0.0936,0.237,145.193
+Free Range,7sabwbH0YzXOW7kex1yUb3,Liquid Stranger,UNITY,0.487,0.77,6,-5.436,1,0.171,0.318,0.0924,0.0927,0.143,165.081
+Smoke N Hope,0VhOINj8PbdzalQzEHO7OR,Liquid Stranger,UNITY,0.685,0.672,11,-5.418,0,0.0993,0.151,2.09e-05,0.0992,0.526,119.815
+Moon Rover,0yfkhAxeke49hS3wtawnMC,Liquid Stranger,UNITY,0.692,0.756,7,-5.065,1,0.043,0.0616,0.876,0.32,0.546,125.008
+Event Horizon,7zvOuCOsIm1EiKKNVJCamR,Liquid Stranger,UNITY,0.319,0.584,7,-6.24,1,0.0385,0.00267,0.255,0.115,0.0391,119.98
+Arizona,7A2EmGFqGyeXbZ3Gv3ECaP,Liquid Stranger,UNITY,0.532,0.575,4,-4.444,0,0.0259,0.00261,0.179,0.176,0.0636,89.976
+Sunspot,5W9LowPGY6kHoT9HN5YLc9,Liquid Stranger,Sunspot,0.575,0.746,5,-4.809,1,0.0259,0.000356,0.00393,0.0771,0.299,140.014
+Deep Space,0Qt5ZQe7TAZxWzE2AeS3rf,Liquid Stranger,DIMENSIONS,0.612,0.877,1,-3.483,1,0.0378,0.000763,0.0142,0.577,0.102,145.014
+Extraterrestrial,0vg0ErahNuTHH10khQDMcw,Liquid Stranger,DIMENSIONS,0.767,0.797,0,-2.177,0,0.0295,0.00213,0.0031,0.159,0.15,130.023
+Misfits,0bPVuYE7TYzxUCximLan10,Liquid Stranger,DIMENSIONS,0.582,0.974,2,-5.265,1,0.207,0.0128,0.404,0.126,0.326,144.999
+Green Light,6GDmwx8RKuYofAwqLOL9Xd,Liquid Stranger,DIMENSIONS,0.739,0.751,4,-2.75,0,0.0365,0.0066,0.0,0.297,0.0656,125.014
+POTIONS,0sbSqW3gmEy47Z7CGkZVyE,Liquid Stranger,POTIONS,0.716,0.756,2,-4.931,1,0.0323,0.00433,0.169,0.221,0.0628,129.967
+I Will Stay - Liquid Stranger Remix,0Wh0Wi2JAr98oSkHsKt97o,Liquid Stranger,I Will Stay (Remix),0.639,0.756,10,-5.127,0,0.057,0.000846,8.29e-06,0.127,0.236,122.024
+Snow Melt,1QZ6l41n6lJwNzxF4mcRfv,Liquid Stranger,Snow Melt,0.51,0.806,0,-9.631,1,0.124,0.0003,0.0013,0.115,0.298,129.994
+The Drill,3niZgyNUL9c0d39Z5zDKDg,Liquid Stranger,The Drill,0.489,0.731,1,-4.266,1,0.0412,0.000304,0.198,0.256,0.252,173.995
+Psychonaut,0Z4wYAPCL1xsUpWj9lC3kh,Liquid Stranger,Psychonaut (Remixes),0.694,0.809,8,-6.246,1,0.0523,0.00702,0.0584,0.637,0.0765,120.025
+Psychonaut - 12th Planet Remix,5JxcgUwp1Gz5wSVjdkHqqL,Liquid Stranger,Psychonaut (Remixes),0.502,0.938,10,-3.308,0,0.415,0.00761,6.85e-06,0.312,0.484,75.099
+Psychonaut - AstroLizard Remix,46nmhHxYqAFcx0tvgnTMO2,Liquid Stranger,Psychonaut (Remixes),0.748,0.859,10,-5.477,0,0.1,0.00941,0.00606,0.111,0.35,125.033
+Psychonaut - Blanke Remix,2IjbHSeC9BHnDnmiWZ9ULf,Liquid Stranger,Psychonaut (Remixes),0.788,0.88,2,-1.49,1,0.141,0.000209,0.386,0.354,0.362,91.969
+Psychonaut - Hydraulix Remix,07TAE7ChRMen2w5qmY32mC,Liquid Stranger,Psychonaut (Remixes),0.718,0.828,1,-5.673,1,0.0839,0.00511,0.329,0.19,0.0398,125.064
+Psychonaut - Krischvn Remix,3jJl7A84HxQ3yojFxQKsi9,Liquid Stranger,Psychonaut (Remixes),0.613,0.865,7,-6.641,1,0.347,0.0311,0.0778,0.213,0.246,150.035
+Psychonaut - Lick Remix,6CVfrc1oFG2U0JeAqaQY0Q,Liquid Stranger,Psychonaut (Remixes),0.548,0.968,10,-3.619,0,0.0657,0.013,0.0957,0.118,0.316,140.082
+Psychonaut - Luzcid Remix,155AP6RukxsVRaVTXkdtR2,Liquid Stranger,Psychonaut (Remixes),0.782,0.863,1,-3.539,1,0.105,0.0081,0.335,0.147,0.439,100.005
+Psychonaut - Mersiv Remix,18055nGL75YfhTl0A6w0M7,Liquid Stranger,Psychonaut (Remixes),0.635,0.868,1,-4.14,1,0.0779,0.0002,0.452,0.397,0.363,119.974
+Ascend,4322JErIoqCscu7ruKtLhl,Liquid Stranger,ASCENSION,0.688,0.706,5,-6.054,0,0.0305,0.000323,0.453,0.368,0.198,128.009
+The Hammer,1XIlPxzfwFfRjJnVrUOURD,Liquid Stranger,ASCENSION,0.73,0.801,8,-6.355,0,0.0613,0.00507,0.179,0.323,0.177,138.035
+Laser Burn,3fdcMc5wALqQxitGbK54PS,Liquid Stranger,ASCENSION,0.732,0.936,1,-2.984,1,0.262,0.00586,0.438,0.122,0.546,74.91
+Sunken Technology,5EagZjXqP5QCuqdEvSkQEv,Liquid Stranger,ASCENSION,0.763,0.776,5,-5.833,0,0.0559,0.00988,0.0644,0.13,0.205,129.968
+Over n Out,29zxY7FLrcwqyBmGw4adSv,Liquid Stranger,ASCENSION,0.521,0.654,8,-9.429,1,0.0376,0.00159,0.0657,0.17,0.0389,119.979
+Jungle Juice,1VxQboO0KAsIm8MjSShBJv,Liquid Stranger,Jungle Juice,0.645,0.662,10,-5.899,0,0.0446,0.0208,0.227,0.109,0.231,72.533
+Burn Like Sun,4ksR6mSqowiaLJRoW2aw59,Liquid Stranger,Burn Like Sun,0.613,0.498,4,-5.809,0,0.0279,0.16,8.24e-05,0.145,0.2,139.055
+Gunslinger Pt. II feat. Pistol,4g05sL9X0kDos9NvKQhaYs,Liquid Stranger,Polarity,0.619,0.65,1,-5.864,1,0.352,0.00863,0.0225,0.368,0.412,169.924
+Gunslinger,6vhM8hebvQoVV1NJyc8P83,Liquid Stranger,Gunslinger,0.727,0.807,7,-3.309,1,0.103,0.000306,0.0245,0.0792,0.256,82.46
+Hotbox - Remix,2OyyOoepu65war3j9Q6dHK,Liquid Stranger,Hotbox (Remix),0.757,0.992,2,-4.656,1,0.349,0.0161,0.439,0.286,0.529,139.937
+UFO,7i3w3MVpQGMrrV07yziXeO,Liquid Stranger,UFO,0.672,0.889,1,-5.675,1,0.124,0.00198,0.0288,0.136,0.648,150.025
+Who - LUZCID Remix,3osioLnmXtFrKZLrQRsprL,Liquid Stranger,Weird & Wonderful - Remixes,0.529,0.907,2,-5.878,0,0.0541,0.000465,0.336,0.139,0.0854,150.089
+Spaceboss - Protohype Remix,3sRKTvblu0IocuHbzV2inp,Liquid Stranger,Weird & Wonderful - Remixes,0.457,0.927,4,-6.059,1,0.371,0.000769,0.000194,0.325,0.211,150.433
+Frankenskank - Manic Focus Remix,1auii2BRqrxqD2vlx54P2O,Liquid Stranger,Weird & Wonderful - Remixes,0.557,0.722,11,-4.611,0,0.332,0.0295,0.0369,0.169,0.368,112.456
+Hotbox - Shlump Remix,1vxTW6trWrsE1Fm8F4aYxU,Liquid Stranger,Weird & Wonderful - Remixes,0.597,0.835,5,-4.749,0,0.0614,0.00399,0.269,0.122,0.338,145.021
+Get Well Soon Aaron - Yheti Remix,3xjXN5HfeN1Lh8Rl6HpuJy,Liquid Stranger,Weird & Wonderful - Remixes,0.718,0.807,6,-6.208,0,0.0598,0.00039,0.179,0.161,0.188,130.045
+Who - Remix,1Qiqm2xFPGDm1N1UqKAGTv,Liquid Stranger,Weird & Wonderful (Remixes),0.53,0.907,5,-5.878,1,0.0522,0.000471,0.336,0.139,0.0873,150.093
+Spaceboss - Remix,3GnmhC7VsoQ7OQ38PwU0qA,Liquid Stranger,Weird & Wonderful (Remixes),0.45,0.93,4,-6.059,1,0.372,0.00075,0.000185,0.325,0.208,150.096
+Frankenskank - Remix,3ByaUEkYJ9hDdS2sDRnBFT,Liquid Stranger,Weird & Wonderful (Remixes),0.557,0.722,11,-4.611,0,0.332,0.0297,0.0373,0.169,0.368,112.454
+Get Well Soon Aaron - Remix,7rdVG32hfk6u3iRimKws5d,Liquid Stranger,Weird & Wonderful (Remixes),0.718,0.807,6,-6.208,0,0.0598,0.00039,0.179,0.161,0.188,130.042
+Launch,44U7CdLSURm4zPheTgqDeO,Liquid Stranger,Weird & Wonderful,0.745,0.801,1,-6.273,0,0.0551,0.138,0.598,0.139,0.0698,149.988
+Who,4EBsCKp0cDjyIPaJZ301aF,Liquid Stranger,Weird & Wonderful,0.511,0.752,7,-4.553,1,0.0303,0.00152,0.241,0.13,0.225,74.995
+Spaceboss,5pHzX8qyLRXQEjqHNThu8o,Liquid Stranger,Weird & Wonderful,0.725,0.721,9,-4.824,1,0.0713,0.00416,0.191,0.181,0.348,74.999
+Frankenskank,2kVF9n4pfP4PZ2pAWswgzL,Liquid Stranger,Weird & Wonderful,0.597,0.684,6,-4.064,0,0.126,0.111,0.0931,0.197,0.43,140.056
+Hotbox,4eLh1213rAXaMA0RXWVJ0u,Liquid Stranger,Weird & Wonderful,0.728,0.76,7,-4.285,1,0.0395,0.00153,0.00384,0.11,0.691,145.018
+Get Well Soon - Aaron,3WkuZtypTAwEPhxura66zt,Liquid Stranger,Weird & Wonderful,0.548,0.856,5,-5.119,0,0.0529,0.0396,0.539,0.197,0.199,129.957
+Get Well Soon (Aaron),50se9E9G1ix98xdhrTdYnZ,Liquid Stranger,Weird & Wonderful,0.554,0.857,5,-5.109,0,0.0512,0.0392,0.546,0.194,0.176,129.943
+Shatter,3C5OfM6yImycZ7ecyro4Bf,Liquid Stranger,Shatter,0.685,0.8,8,-3.975,0,0.035,0.00299,0.255,0.0726,0.246,142.991
+Dissolve,0Qm14E0Scc9hpGPwhowHEP,Liquid Stranger,Dissolve,0.665,0.601,6,-7.981,1,0.0294,0.0171,0.833,0.208,0.0999,105.002
+Don't Stop,5guWImRfbFiL6huf2CE3N5,Liquid Stranger,Don't Stop / Won't Stop,0.775,0.67,10,-4.676,0,0.04,0.00042,0.0179,0.0951,0.365,140.019
+Won't Stop feat. Esseks,2nd0K8u5m5rMInJTGUwI5C,Liquid Stranger,Don't Stop / Won't Stop,0.773,0.743,5,-4.887,0,0.0551,0.151,0.0758,0.203,0.275,140.113
+Move It,3ew3syCAKCvpKqzUr0CR1L,Liquid Stranger,Move It,0.767,0.638,6,-7.851,0,0.0712,0.0237,0.000117,0.213,0.617,140.03
+Bend,319iQx2d95qtoRJRr7zkq2,Liquid Stranger,Bend,0.649,0.838,9,-5.648,1,0.093,0.000678,0.0493,0.146,0.414,167.996
+Slide,0Z7oIzCuyD6kShH4CtO8DL,Liquid Stranger,Nomad Vol. 3,0.56,0.532,5,-8.655,0,0.0281,0.0284,0.00106,0.441,0.306,140.047
+Stop,4QOQk14EfaNoTiCZOxhAEl,Liquid Stranger,Nomad Vol. 3,0.639,0.721,5,-5.804,0,0.0654,0.00279,0.205,0.12,0.1,87.509
+Haywire,2M2YfAtAnreizYouXwvKLx,Liquid Stranger,Nomad Vol. 3,0.787,0.648,5,-8.155,0,0.0507,0.00264,0.76,0.059,0.233,109.986
+I Don't Think So,3xMyxjFyVzxAS8cCINhATM,Liquid Stranger,"Beyond, Vol. 2",0.803,0.691,5,-7.118,0,0.0644,0.0012,0.925,0.0864,0.514,127.995
+Random,2NTik65iGNy1UiLlK7Cu1i,Liquid Stranger,"Beyond, Vol. 2",0.705,0.842,5,-6.817,0,0.0508,0.000471,0.809,0.18,0.567,169.975
+Work It Out,4IbqMZ283Yfj8hCxjg5J5C,Liquid Stranger,"Beyond, Vol. 2",0.639,0.465,2,-8.14,0,0.0407,0.00163,0.914,0.112,0.0355,119.962
+King of the Hill,1lizpZZbL7vkdgcZBlWKeU,Liquid Stranger,King of the Hill,0.57,0.854,5,-3.84,1,0.0518,0.00595,0.0871,0.218,0.497,179.988
+Bounce,0ciIstNDCfYMRnL9QftsGk,Liquid Stranger,Nomad Vol. 2,0.836,0.486,1,-5.857,1,0.0513,0.00783,0.332,0.128,0.718,96.019
+Freefall,5nbEIAvziUZV2XDSYX44q4,Liquid Stranger,Nomad Vol. 2,0.695,0.408,11,-10.542,0,0.0603,0.0247,0.05,0.353,0.301,94.998
+Zenith,2Q9RY1IkuhzcFSwJ8EP7d6,Liquid Stranger,Nomad Vol. 2,0.704,0.658,6,-6.781,0,0.0322,0.00232,0.857,0.189,0.062,105.036
+This Feeling,4ADllIh7falUraaw3FPswN,Liquid Stranger,Nomad Vol. 1,0.745,0.83,10,-5.773,1,0.0377,0.0173,0.00247,0.317,0.644,104.024
+Get Up,1j8n18lbEQy0rJERgXvoCt,Liquid Stranger,Nomad Vol. 1,0.339,0.496,4,-7.529,0,0.0273,0.000626,0.0103,0.099,0.0383,62.499
+Fuzz,4ZOTkDgulqrqx5Lro7NdM0,Liquid Stranger,Nomad Vol. 1,0.752,0.639,7,-7.1,1,0.0322,0.00925,0.0771,0.15,0.378,105.004
+Weather Change,2QaK7fXovUPEPJFAoWT3ds,Liquid Stranger,Weather Change,0.857,0.903,1,-4.838,0,0.131,0.011,4.27e-05,0.186,0.497,104.996
+Weather Change - Figure Remix,2ytjj1e0S9UpWkah7ee0ee,Liquid Stranger,Weather Change,0.802,0.953,11,-3.701,0,0.251,0.000743,0.272,0.117,0.172,140.098
+Weather Change - Rise At Night Remix,5sa9B0CTM3CicvDZCa4imR,Liquid Stranger,Weather Change,0.732,0.898,1,-3.938,1,0.0499,0.00679,0.00288,0.151,0.29,124.999
+Weather Change - Buku Remix,6OaU5AE73Jmozas5fHY354,Liquid Stranger,Weather Change,0.74,0.853,0,-3.242,1,0.105,0.0102,0.00728,0.806,0.764,90.017
+Weather Change - Algo Remix,790zHXHdblAvBySvGxY3pT,Liquid Stranger,Weather Change,0.6,0.941,6,-3.477,1,0.168,0.00517,0.0002,0.263,0.165,140.165
+Weather Change - Rekoil Remix,27egvzsAznxD7imMOIPwZm,Liquid Stranger,Weather Change,0.515,0.961,5,-4.057,0,0.241,0.00174,0.144,0.209,0.552,173.981
+Liquid Stranger - Dubloadz Remix,7wZZttRbrTGZtkfSAwmqye,Liquid Stranger,Weather Change,0.753,0.832,6,-4.841,1,0.317,0.0173,0.00848,0.804,0.348,129.297
+Spawn,3i9KQohklMa15rckrpljEo,Liquid Stranger,The Renegade Crusade,0.641,0.453,11,-8.466,1,0.0366,0.0101,0.668,0.0918,0.341,170.013
+The Gargon,2mGNO8iLlhRb754sGYUXo1,Liquid Stranger,The Renegade Crusade,0.391,0.614,6,-7.195,0,0.193,0.00245,0.104,0.135,0.268,89.517
+The Molecule Man - Liquid Stranger Remix,1V8nTfxi7q0WLFiqlMcNq6,Liquid Stranger,The Renegade Crusade,0.698,0.679,6,-10.339,0,0.0411,0.134,0.302,0.121,0.647,139.98
+Brace For Impact,3k69uHgoiq6w7dLVwX88GY,Liquid Stranger,The Renegade Crusade,0.712,0.554,0,-10.243,1,0.0617,0.293,7.19e-05,0.15,0.41,129.951
+Dreamer Deluxe,4MWKTnwZ9kmfvreEF1uTmc,Liquid Stranger,The Renegade Crusade,0.579,0.531,0,-9.596,0,0.0792,0.297,0.484,0.1,0.132,105.019
+Bomb the Block,4MOn6JTCiXLRMu9nakdx6k,Liquid Stranger,Elemental,0.49,0.51,6,-8.618,1,0.063,0.00365,0.148,0.087,0.0862,108.719
+Drones,3oDgVnWUXFV9SuccSPS1rW,Liquid Stranger,Elemental,0.793,0.69,11,-5.72,0,0.217,0.00258,7.68e-06,0.0897,0.423,144.944
+Explode,5EtDSuNHvsEeVnslMjL1gg,Liquid Stranger,Elemental,0.689,0.779,5,-7.068,0,0.0332,0.0104,2.37e-05,0.437,0.491,142.04
+Rapture,6Mrx8uGnHwrLCc8SmxlnOW,Liquid Stranger,Elemental,0.788,0.803,1,-8.271,1,0.0487,0.0299,0.0369,0.105,0.2,139.999
+Swarm,0o1gZI2xLLFEBZRwu9VzpL,Liquid Stranger,Swarm,0.494,0.931,7,-4.116,1,0.0464,7.63e-05,0.895,0.132,0.123,87.999
+Rage - Original Mix,4R4F1lslrASFioVEvM6Dc2,Liquid Stranger,Strength In Numbers 2,0.622,0.748,1,-4.261,0,0.0368,3.92e-05,0.0414,0.0962,0.107,140.006
+Fucking Vicious - Original Mix,799NQBSyqkWAHOjZ3PYUpP,Liquid Stranger,Strength In Numbers 2,0.651,0.741,1,-3.725,1,0.05,2.95e-05,0.0291,0.173,0.366,87.454
+Wasted - Original Mix,0oDwY8FBhLLXu0qBiME9Cd,Liquid Stranger,Strength In Numbers 2,0.644,0.946,1,-3.054,1,0.122,3.35e-05,9e-06,0.11,0.253,87.471
+Get to the Point - Cyberoptics Remix,1NyhUyBdd79AdLnGHefUuP,Liquid Stranger,Get to the Point (Cyberoptics Remix),0.596,0.801,7,-5.844,1,0.085,0.000737,0.164,0.322,0.0364,145.107
+Octagon,4x4wv9uDM0kqiCPHaqq0G9,Liquid Stranger,Octagon / Contamination,0.608,0.934,7,-4.776,1,0.0948,0.000512,3.36e-06,0.817,0.364,85.061
+Contamination,583IzJe7F75ofeK9MJgYz0,Liquid Stranger,Octagon / Contamination,0.643,0.871,7,-5.543,1,0.151,0.000621,0.0189,0.147,0.0509,85.024
+Deep Down Below,1wjRWJ3MZLEemCVCEPgQ8U,Liquid Stranger,Steel Trap EP,0.731,0.778,3,-9.716,1,0.0824,0.00691,0.848,0.247,0.868,145.056
+Aftershock,6PVkftsBQqIm4N8etxloSN,Liquid Stranger,Steel Trap EP,0.745,0.841,1,-10.073,0,0.111,0.0614,0.475,0.0537,0.115,144.975
+Full Metal Jacket (175PF Reload),6qmA0GPaIoDC6UNHCRQrM7,Liquid Stranger,Steel Trap EP,0.83,0.699,8,-10.871,1,0.0691,0.00728,0.594,0.378,0.749,140.009
+Rough Road (Fender Bender Fix),1wDbrgn9PDUmOWSc1aBXsz,Liquid Stranger,Steel Trap EP,0.728,0.561,10,-12.298,0,0.101,0.0139,0.596,0.223,0.762,144.985
+Sincerely Yours,4cPBk4Cij4njCvQqYww86E,Liquid Stranger,Steel Trap EP,0.591,0.562,7,-13.638,1,0.0364,0.0493,0.679,0.0829,0.357,139.99

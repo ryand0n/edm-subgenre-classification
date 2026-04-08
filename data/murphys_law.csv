@@ -1,0 +1,84 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Somebody's Gonna Get Their Head Kicked In,3jxtdFRy3VX71AbEPEjKgq,Murphy's Law,Punk Rock Jukebox,0.475,0.922,7,-6.77,1,0.11,0.0341,0.0,0.884,0.617,106.967
+Murphy's Law,08JQjb3PfLzwEUsG3WCR9c,Murphy's Law,Murphy's Law,0.264,0.847,1,-10.045,1,0.032,0.000679,2.47e-05,0.308,0.437,157.798
+A Day in the Life,0WJB8H46x2mRaUQm1S29pg,Murphy's Law,Murphy's Law,0.446,0.762,0,-10.771,1,0.0334,1.99e-05,0.194,0.0741,0.681,138.937
+Sit Home and Rot,0wCdFzkBWUrd1R7NR114yZ,Murphy's Law,Murphy's Law,0.422,0.909,9,-9.363,1,0.0634,0.0299,0.0,0.308,0.62,138.138
+Crucial Bar-B-Q,70ncopLgDF1lUrypZ9NzUf,Murphy's Law,Murphy's Law,0.284,0.936,9,-8.833,1,0.094,0.000128,0.00342,0.101,0.265,143.545
+Skinhead Rebel,5eJGxo8CbUXcwciuVKxo6N,Murphy's Law,Murphy's Law,0.383,0.935,0,-8.222,1,0.0564,3.35e-05,0.0287,0.302,0.64,79.01
+Cavity Creeps,5ln4QS6OyvYyzMzN7Az5k1,Murphy's Law,Back with a Bong!,0.624,0.538,4,-9.219,1,0.106,0.00224,0.0,0.107,0.52,113.892
+Quest for Herb,3QEyN1edpUfPlf0lLdfqts,Murphy's Law,Back with a Bong!,0.257,0.923,6,-8.256,0,0.0578,2.87e-06,0.0106,0.102,0.643,162.05
+California Pipeline,0jspBGVzIFCbtuCZeCVcqu,Murphy's Law,Murphy's Law,0.254,0.87,11,-9.297,0,0.0719,1.76e-05,0.0143,0.0975,0.566,147.321
+Don't Bother Me,23WH0NNeZuFUoGBHhWfVt3,Murphy's Law,Dedicated,0.385,0.951,9,-6.325,1,0.139,7.36e-05,0.0251,0.371,0.406,124.436
+Secret Agent S.K.I.N.,4qgi5KaC8GzemUV7fZkWho,Murphy's Law,Back with a Bong!,0.375,0.956,7,-6.913,1,0.0808,2.21e-05,0.122,0.262,0.507,126.039
+Vicky Crown,0GNMGXwsooOkBflMX4eo2U,Murphy's Law,The Party's Over,0.224,0.986,9,-2.45,1,0.186,0.00497,6.16e-06,0.307,0.303,185.365
+Santa's Got a Brand New Bag,3OCKnh22wUdUV92zJ0WIsC,Murphy's Law,The Best of Times,0.502,0.984,9,-8.148,1,0.0801,0.00468,0.0,0.0611,0.42,98.734
+Beer,1YceiJhNcQp5GsY9KskYJK,Murphy's Law,Murphy's Law,0.242,0.912,11,-9.017,0,0.0811,4.79e-05,0.00375,0.0961,0.227,153.961
+Woke up Tied Up,5HRwoIbXrbBY7MpAof8M0L,Murphy's Law,The Party's Over,0.34,0.997,5,-2.032,0,0.0809,6.29e-05,0.0146,0.0552,0.448,138.568
+Attack of the Killer Beers,65cmsaeeR4C68rnHSxOHWz,Murphy's Law,Back with a Bong!,0.299,0.766,4,-8.912,1,0.0454,4.64e-06,0.319,0.0964,0.754,143.915
+What Will the Neighbors Think?,2GxTXLidcFwqiKH0SAYwM5,Murphy's Law,Dedicated,0.286,0.989,6,-6.138,0,0.135,0.00108,1.16e-05,0.0911,0.171,184.456
+Ska Song,1jySDRWol9u9E4tvdz4TC2,Murphy's Law,Back with a Bong!,0.361,0.852,9,-8.542,1,0.128,4.48e-05,0.00126,0.0781,0.682,92.555
+Fun,5sy6f9rKGLad9emzoHKVON,Murphy's Law,Murphy's Law,0.361,0.843,7,-8.541,1,0.0793,0.00686,0.0,0.935,0.253,99.427
+Panty Raid,3BLrjxit6JKdnKWRREAcaS,Murphy's Law,Back with a Bong!,0.371,0.882,6,-7.908,0,0.0513,2.09e-05,0.0297,0.336,0.81,151.648
+Care Bear,4r0mpviAdjRUQdzXPcZFrq,Murphy's Law,Murphy's Law,0.229,0.917,9,-9.773,1,0.0706,4.33e-06,0.482,0.0835,0.471,98.197
+Bong,1RbyIhkhzTdHYG87XFvdKV,Murphy's Law,Back with a Bong!,0.606,0.732,9,-10.975,1,0.0702,0.000246,0.00401,0.0568,0.639,144.24
+America Rules,7hggvSbCVFQn5orUxTGhBT,Murphy's Law,Back with a Bong!,0.245,0.938,6,-7.08,0,0.0615,6.02e-06,0.00722,0.268,0.619,92.795
+Somebody's Gonna Get - Bonus,51m8rk6hURrTYi1AajIWHx,Murphy's Law,The Party's Over,0.46,0.984,0,-5.139,1,0.145,0.172,0.816,0.351,0.459,106.466
+Sit Home and Rot (Bonus),7LMz39pNuALXkwuLTiwap8,Murphy's Law,Murphy's Law,0.338,0.96,0,-6.588,1,0.196,0.32,0.00437,0.293,0.312,132.845
+Wasting My Time,0f1MIcJeb3HE8h2zfYSvlR,Murphy's Law,The Party's Over,0.396,0.991,2,-1.183,1,0.0658,3.34e-05,0.0419,0.326,0.519,103.827
+Ebony & Ivory,0oCZ7iucPBW9xWRIm0OyMT,Murphy's Law,The Best of Times,0.364,0.939,4,-9.246,1,0.127,0.0121,0.0,0.0789,0.454,112.72
+The Best of Times,40WiS5dvIxhrykrTV7CUum,Murphy's Law,The Best of Times,0.296,0.953,9,-9.547,0,0.182,0.00571,0.000344,0.458,0.573,156.453
+Dysfunctional Family,5Wnl81Na266UMxlPIiZTSV,Murphy's Law,Dedicated,0.339,0.973,2,-6.14,1,0.0793,0.00221,0.0,0.197,0.521,186.183
+Bag of Snacks,2ltbzQBDPCQgpfK8dfMmB5,Murphy's Law,Dedicated,0.417,0.979,11,-6.457,0,0.0935,0.000429,0.0169,0.0901,0.69,137.073
+Frankie,1zdC0YdSkGd6mZ6ZEh5nwK,Murphy's Law,Silver Patron Saints,0.481,0.974,3,-5.148,0,0.0832,0.000122,0.000602,0.246,0.307,123.582
+Rage,251xeXagcNurOahW1OiAle,Murphy's Law,Back with a Bong!,0.354,0.839,6,-7.575,0,0.0406,4.57e-06,0.0526,0.147,0.662,92.206
+Push Comes to Shove,7GhIJqQ8d5yC70XuJHIago,Murphy's Law,Back with a Bong!,0.256,0.935,4,-8.119,1,0.0712,4.08e-06,2.74e-05,0.125,0.908,162.892
+Panty Raid (Bonus),7eOq78gUmSaLNKW9OLMOlL,Murphy's Law,Back with a Bong!,0.147,0.951,4,-4.612,0,0.25,0.0042,0.56,0.802,0.177,153.75
+Walking Alone,6ixCk5FDWtOrDpbdzie7Oa,Murphy's Law,The Party's Over,0.311,0.938,8,-4.016,0,0.0636,0.00138,0.000322,0.176,0.828,166.434
+Fun Song - Bonus,3e8YXETGZlr0ZLsJeK50yt,Murphy's Law,Dedicated,0.409,0.768,1,-7.295,1,0.308,0.148,0.0458,0.3,0.272,127.707
+The Plan,5M9MAsTnQUSoI6si7vtGlF,Murphy's Law,Dedicated,0.523,0.975,6,-6.07,1,0.0789,0.000252,0.00355,0.192,0.441,100.924
+Stay Gold,3z3l7L3oRlCfCnEQoDuL4z,Murphy's Law,Dedicated,0.297,0.894,9,-9.082,0,0.0998,0.0018,3.93e-05,0.139,0.115,171.551
+Redemption Time,1efucA0hvsvdKouv0acFvz,Murphy's Law,The Party's Over,0.326,0.996,5,-2.677,1,0.188,0.00132,5.82e-06,0.0486,0.563,174.791
+Tight,3ZUNCfjEeTDZQA1hVj4prG,Murphy's Law,The Best of Times,0.421,0.962,7,-7.673,1,0.0963,0.00125,0.0199,0.299,0.541,189.509
+Harder Than Who,17t9EIzlZ5QGzERaLZogqG,Murphy's Law,The Best of Times,0.395,0.908,0,-9.502,1,0.058,0.000566,0.000322,0.0838,0.663,163.422
+Still Smokin',7kX070rw76FDMzORKtgWae,Murphy's Law,Dedicated,0.5,0.833,7,-9.39,1,0.052,0.000107,0.786,0.221,0.53,88.81
+Beer Bath,5LQbvAtO6xBuy095yJyy6b,Murphy's Law,The Best of Times,0.313,0.912,0,-8.808,1,0.116,0.000822,0.00388,0.207,0.497,146.547
+Freaktown,0CinrpyazioMBxF8XgSigd,Murphy's Law,The Best of Times,0.367,0.988,2,-8.868,1,0.134,0.000275,1.32e-06,0.206,0.204,133.173
+Bitch,2VY219bZ690P8qdTzymc4h,Murphy's Law,The Party's Over,0.513,0.993,2,-1.256,0,0.119,0.000255,0.0129,0.184,0.158,104.947
+I Got a Right,50YDrlECCCIKVwUu3BqLJ1,Murphy's Law,Murphy's Law,0.246,0.938,11,-7.869,0,0.0703,5.85e-05,0.0129,0.0787,0.575,132.421
+Maximum Lie,4HlNvocnEqmCKaaazNVd3o,Murphy's Law,The Party's Over,0.219,0.988,2,-3.654,1,0.0842,0.000578,0.00171,0.0791,0.659,161.472
+Skinhead Girl,1Bn9I2z7KAdfhZHJZdaqyW,Murphy's Law,The Party's Over,0.536,0.945,9,-4.154,1,0.0874,0.000485,3.9e-05,0.0327,0.745,151.174
+Yahoo!,07NegjYzrPeJjOddpzVyhD,Murphy's Law,Back with a Bong!,0.426,0.906,0,-8.715,1,0.0956,7.62e-05,0.0301,0.203,0.65,130.147
+Sarasota,0EOjw8TkP0vICwIJI5p40A,Murphy's Law,Dedicated,0.364,0.984,9,-7.107,1,0.0837,7.18e-05,0.000248,0.0597,0.256,79.6
+Wall of Death,1YXQ9QxO6djQBzocKwYw1k,Murphy's Law,Back with a Bong!,0.344,0.863,11,-9.792,1,0.0463,0.00154,0.000311,0.106,0.248,97.378
+Intro,2V9mCayVGZN23GwVC2KJId,Murphy's Law,Back with a Bong!,0.138,0.83,1,-9.046,0,0.0628,3e-06,0.779,0.102,0.487,71.314
+Ilsa,4GLslSQFB5nXzAczibr5nT,Murphy's Law,Murphy's Law,0.333,0.796,11,-8.52,1,0.043,3.44e-05,0.225,0.322,0.633,95.44
+Greenbud,4ZcmCKwUrxfIepVmDrAx3M,Murphy's Law,Dedicated,0.491,0.984,9,-6.877,1,0.0753,0.002,0.0,0.219,0.284,104.313
+Wahoo Day,47nIozU8z5DkTV7tBN2sit,Murphy's Law,Murphy's Law,0.585,0.9,11,-10.939,0,0.0545,0.000225,0.648,0.0879,0.372,120.582
+Exile,5o9gv2VWsa9maQNm2GgV5G,Murphy's Law,The Party's Over,0.351,0.996,9,-2.611,1,0.0911,0.000182,0.00766,0.0909,0.385,141.527
+Faith,0QbzfUIyKKoTVnSLXdsmtk,Murphy's Law,The Party's Over,0.279,0.995,2,-2.865,1,0.18,0.00116,0.00136,0.26,0.336,158.182
+Burnt Toast,16OEKgTVd3FI8SgHCBrYzW,Murphy's Law,The Best of Times,0.441,0.819,9,-9.389,1,0.16,0.0441,0.0,0.551,0.458,137.941
+The Wreck off Point Amour,6uV8jxZlIm7KZAv9nwyITL,Murphy's Law,Homebrew,0.691,0.633,7,-8.771,1,0.0306,0.437,4.94e-05,0.105,0.937,116.756
+Ilsa - Bonus,5hE0eFRZZM7Fsol7I5vQzQ,Murphy's Law,The Best of Times,0.271,0.76,6,-8.663,1,0.422,9.58e-05,0.00583,0.322,0.661,187.409
+Did You Play War,08AdZ8SNfzAEJGZNyfIToF,Murphy's Law,The Best of Times,0.246,0.969,4,-7.844,1,0.177,0.00772,0.00341,0.455,0.518,146.873
+Big Spliff,4M7tNkRzGwGVktxDe5KrWR,Murphy's Law,The Best of Times,0.438,0.867,10,-8.98,0,0.0484,0.0264,3.88e-05,0.158,0.636,102.616
+Mission,3IrzdpQdm5opP1NyEVQ9ND,Murphy's Law,The Party's Over,0.447,0.982,2,-2.748,1,0.0894,0.000449,2.87e-05,0.0398,0.539,105.692
+Bitter,0h6ebGC214Sngp9zODsJVN,Murphy's Law,Dedicated,0.232,0.98,2,-6.896,1,0.0601,0.000952,0.00023,0.111,0.418,149.138
+C-Low,3NNAkhgTN1a3fpCBoo0zXL,Murphy's Law,The Party's Over,0.44,0.996,5,-1.323,0,0.163,0.00757,0.307,0.953,0.353,104.721
+Stressed Out,7bPEX0OnmJKfG41Hhapd1c,Murphy's Law,The Party's Over,0.279,0.993,9,-1.95,1,0.115,0.00327,0.018,0.332,0.465,165.136
+Shut Up,72Q1IqFNFkyVaNiYKNdRwU,Murphy's Law,Dedicated,0.371,0.977,9,-5.78,1,0.123,0.00057,2.68e-06,0.0471,0.609,154.9
+Hipocrite,7sIZyqvllXgfsuJEaG1Mob,Murphy's Law,The Party's Over,0.296,0.985,0,-1.482,1,0.132,0.00177,0.0129,0.0758,0.7,177.019
+0.01,3zYAD67L0FYLUv0DR0MzBW,Murphy's Law,The Best of Times,0.539,0.885,8,-10.062,1,0.0457,0.000613,0.411,0.195,0.629,98.689
+No Line On the Horizon,3YtMX02nPWmy2ZsdfbiwKx,Murphy's Law,Losing All Hope Was Freedom,0.521,0.471,7,-10.937,1,0.0287,0.772,0.0841,0.111,0.343,148.183
+Panty Raid - Bonus,517HzNxV6z7b1dN3nK4KBk,Murphy's Law,Back with a Bong!,0.128,0.952,4,-4.612,0,0.262,0.0037,0.462,0.721,0.193,163.098
+Time Is Slipping By,0uXON21skc5AEQTdcjpJN3,Murphy's Law,Losing All Hope Was Freedom,0.684,0.446,5,-11.699,1,0.0278,0.38,1.11e-05,0.362,0.471,100.046
+Pay Stubs,5sw07cMTNTk9e94wZW2lVz,Murphy's Law,Pay Stubs,0.632,0.612,2,-7.167,0,0.143,0.287,0.0,0.362,0.654,143.876
+Know Loyalty,1LZu0FrF9SL2LxqZoMmtsC,Murphy's Law,The Party's Over,0.445,0.984,0,-1.62,1,0.136,0.000978,0.324,0.159,0.561,78.779
+So Addicted - Original Edit Mix,6NTKTGoOaVdcyV0kKjq7t0,Murphy's Law,"Tech House Factory, Vol. 41",0.829,0.668,9,-8.048,1,0.0725,0.00692,0.751,0.111,0.688,128.003
+Car Song,6zyZN37tsqak65Auwu60uV,Murphy's Law,The Best of Times,0.408,0.978,0,-7.773,1,0.182,0.00286,0.0105,0.176,0.371,146.644
+Hemp for Victory,0zTK99bO8rrpqkQByDceWf,Murphy's Law,The Best of Times,0.673,0.677,6,-12.344,1,0.373,0.227,0.000209,0.458,0.851,128.011
+The Rambles of Spring,4jcUExa5V2nFBFboRmBIOO,Murphy's Law,Downhome Irish Favourites,0.738,0.387,7,-13.348,1,0.0436,0.45,0.0,0.142,0.893,121.907
+Cathy's Clown,6hISyl8deq9MRPq2Sv7QZq,Murphy's Law,Losing All Hope Was Freedom,0.544,0.288,0,-17.333,1,0.0383,0.985,0.82,0.142,0.0863,127.494
+Imagine the Fire,37dSezST0ocM2Gapmb6LTX,Murphy's Law,Losing All Hope Was Freedom,0.429,0.214,2,-14.299,1,0.0382,0.813,0.0784,0.132,0.277,152.951
+Excursion Around the Bay,0q43OMwLS5CZTgCKspUAAA,Murphy's Law,Johnny Burke Songbook,0.775,0.466,2,-8.08,1,0.329,0.449,0.0,0.234,0.638,102.581
+Pussy Galore - Original Mix,22Tp42Nx7e59ZRoC7QC2mV,Murphy's Law,Variety Music Pres. V,0.78,0.946,10,-8.91,1,0.0603,0.00396,0.494,0.127,0.749,128.01
+The Last Dance,2xW9jqvCdD6csPxaIT1NqT,Murphy's Law,Losing All Hope Was Freedom,0.435,0.124,5,-16.005,1,0.0427,0.974,0.884,0.114,0.0808,79.454

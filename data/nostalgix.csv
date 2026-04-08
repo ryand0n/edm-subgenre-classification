@@ -1,0 +1,64 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Need You,4KKbFhWTG5tstCC1g5cOVy,Nostalgix,Star City,0.838,0.821,10,-3.275,0,0.0878,0.0823,0.356,0.628,0.79,127.011
+Lockdown,6EdnmlpuR9O7ZpUwonIih4,Nostalgix,Lockdown,0.879,0.786,8,-4.895,1,0.127,0.00499,0.0632,0.105,0.777,128.03
+WAR,4lb8Lp96diNynBi5yri1dC,Nostalgix,WAR,0.974,0.687,2,-6.113,1,0.196,0.0206,0.00076,0.146,0.529,128.041
+DEMONS,52AUre8Z3EJUxC9SRalfeF,Nostalgix,Star City,0.886,0.823,8,-2.889,1,0.254,0.186,0.0553,0.23,0.653,140.045
+Look At Me,03T8F9SOv7aeJX7QKvV1eN,Nostalgix,Look At Me,0.802,0.999,11,-1.744,1,0.0573,0.00285,0.893,0.0999,0.512,130.016
+LIMIT,76IbCTgkgm0t8PaX5x488g,Nostalgix,LIMIT,0.707,0.789,2,-4.765,0,0.0316,0.0212,0.0203,0.0983,0.331,126.021
+Real Girls,0OIr6KOWCt5C6VxLJq08vy,Nostalgix,Star City,0.846,0.759,4,-5.993,0,0.0597,0.0173,0.051,0.119,0.419,145.058
+My Type,2Ul9dI4IRn9zIAGFwMqWj9,Nostalgix,My Type,0.812,0.878,5,-7.306,1,0.0952,0.000631,0.0969,0.828,0.628,130.058
+Step Back,7opSc1BeR7P8v0i3QYUi0W,Nostalgix,Step Back,0.884,0.807,11,-4.631,0,0.0984,0.000683,0.201,0.111,0.406,127.959
+Mind Tricks,2DJT25dODB03V0DOQoAJDf,Nostalgix,Night Bass Freshmen Vol 3,0.897,0.573,2,-9.189,1,0.157,0.00106,0.000558,0.0585,0.447,125.028
+Bassline Drip,4Pfh31AmB48s8Psf0bpSnh,Nostalgix,Famous,0.868,0.816,0,-6.047,1,0.0575,0.00261,0.00684,0.071,0.436,126.022
+I AM A GOD,25v3NCfgs0QGwcZ4cekGhg,Nostalgix,I AM A GOD,0.71,0.882,7,-3.696,1,0.0591,0.000582,0.809,0.0998,0.177,128.009
+Heat Rush,1c1bXK9Ez12AX3HRIc2CuM,Nostalgix,Heat Rush,0.687,0.839,7,-6.815,1,0.0313,0.000174,0.032,0.106,0.207,126.001
+Power (feat. Bipolar Sunshine),23Yme7RmpgqUxpllJUkHkl,Nostalgix,Power (feat. Bipolar Sunshine),0.693,0.886,2,-5.574,1,0.0405,0.0161,0.0271,0.35,0.38,131.965
+Gimme Bass,1rkWQHebn0mI7VPDTiIwBP,Nostalgix,Gimme Bass,0.874,0.871,1,-5.187,1,0.109,0.00533,0.261,0.0546,0.307,126.017
+Snitches,1xnvmZRDcBOzqNisPB5MmH,Nostalgix,Confession X Night Bass: The Album,0.884,0.743,6,-5.772,1,0.0637,0.000853,0.0314,0.245,0.913,124.969
+Bust It,502COqrXP6gX279I2QR0Lk,Nostalgix,Bust It,0.858,0.682,9,-3.502,0,0.0623,0.0124,0.00895,0.137,0.574,127.988
+WAR - CHYL Remix,7JIQa1w6o7KfEqQisbDAiE,Nostalgix,WAR (CHYL Remix),0.703,0.995,11,-2.142,1,0.0888,0.00149,0.0343,0.286,0.518,145.007
+Don’t Keep Me Waiting (feat. Mila Falls),0iRxPHydedV81XOsc3JWu7,Nostalgix,Don’t Keep Me Waiting (feat. Mila Falls),0.63,0.543,10,-12.502,1,0.039,0.00442,0.000143,0.0771,0.178,131.991
+Realest,1wJRq7QMyBeDfZddBvIvh6,Nostalgix,Realest,0.903,0.699,2,-5.743,1,0.0556,0.00184,0.0103,0.133,0.401,127.005
+Boiler,2YS6nWgjIGeHgshFfVpbX0,Nostalgix,Boiler,0.855,0.714,10,-4.195,0,0.236,0.0949,0.00838,0.164,0.903,126.066
+Mess With Me,6ysyqU1qMpKlP7bqK1s3tk,Nostalgix,Mess With Me,0.881,0.824,6,-6.786,0,0.0513,0.0131,0.787,0.0798,0.251,126.031
+The Plug,0q00Mhbuq1t0TXv3V7Aa9B,Nostalgix,The Plug,0.903,0.666,0,-5.158,1,0.0558,0.0159,0.000351,0.308,0.559,128.024
+OG Sins,50kwqHu4pDxW36bWkBKcDV,Nostalgix,OG Sins,0.846,0.739,0,-6.498,1,0.0819,0.0038,0.582,0.0562,0.693,125.033
+Dangerous,4XO3SbdAnk3kN0bSyhGKmq,Nostalgix,Act Out,0.835,0.952,10,-6.092,0,0.0594,0.00145,0.298,0.0211,0.925,128.991
+Act Out,4sbTtthQnL7Af8fSAj4dIX,Nostalgix,Act Out,0.866,0.851,1,-3.706,1,0.0929,0.0034,0.167,0.0568,0.603,127.009
+Locked & Loaded,3GL3dwGwoPm0a9nu5BhmvQ,Nostalgix,Locked & Loaded,0.913,0.617,6,-5.572,0,0.184,0.00693,0.0474,0.0896,0.593,125.974
+Brat,3auZDuqmhOPOynUZLimeRX,Nostalgix,Brat,0.826,0.876,1,-4.048,1,0.0787,0.00851,0.872,0.0224,0.719,124.007
+By Myself,7MU4LVWmPVabDdBdYsiIDe,Nostalgix,By Myself,0.881,0.573,0,-4.47,1,0.137,0.0125,0.0175,0.131,0.262,125.985
+Black Mirror,2In7kMut7VwdJI0lVPPLJu,Nostalgix,Black Mirror,0.918,0.837,6,-3.084,0,0.209,0.0553,0.000741,0.37,0.327,128.089
+Don’t Keep Me Waiting (feat. Mila Falls) - Levex Remix,0kFnR2iXkxWxYSaZbrfyUy,Nostalgix,Don’t Keep Me Waiting (feat. Mila Falls) [Remixes],0.67,0.897,2,-4.382,1,0.0488,0.00134,0.00808,0.132,0.253,131.997
+Power (feat. Bipolar Sunshine) - Manila Killa Remix,2TlVLE0lnbH0xxHzOLSmfo,Nostalgix,Power (feat. Bipolar Sunshine) [Remixes],0.712,0.909,2,-3.656,1,0.0719,0.00417,0.165,0.0683,0.485,134.016
+Don’t Keep Me Waiting (feat. Mila Falls) - Basstrick Remix,0xuqfqKQ6AAs6YWksxSRe1,Nostalgix,Don’t Keep Me Waiting (feat. Mila Falls) [Remixes],0.712,0.874,5,-3.672,1,0.0552,0.0039,0.000116,0.0948,0.318,142.047
+Don’t Keep Me Waiting (feat. Mila Falls) - KEEL Remix,3Gs28L8xVthzgzDd7ztopB,Nostalgix,Don’t Keep Me Waiting (feat. Mila Falls) [Remixes],0.639,0.991,2,-5.311,1,0.35,0.00294,0.699,0.0911,0.35,150.001
+Power (feat. Bipolar Sunshine) - SPORTMODE Remix,4FEjeTMzrSguI5KPspwx4Q,Nostalgix,Power (feat. Bipolar Sunshine) [SPORTMODE Remix],0.681,0.934,2,-2.195,1,0.0462,0.0105,0.089,0.331,0.173,140.072
+Don't You Wanna Play? - Nostalgix Remix,3HxKUSRmFOrcpN9TCVYjeI,Nostalgix,Sad in Scandinavia (Remixes),0.757,0.651,0,-5.81,1,0.0472,0.00172,3.97e-05,0.354,0.576,124.929
+Boiler - Cave Studio Remix,0MhV0TeNs7mkqaP2MDfrM0,Nostalgix,Boiler (Remixes),0.893,0.953,8,-5.259,0,0.115,0.00488,0.0871,0.556,0.597,126.967
+Boiler - Dave Summit Remix,6lZznPwEtxTyPJ7ruffCCT,Nostalgix,Boiler (Remixes),0.776,0.977,6,-2.554,0,0.0975,0.0165,0.519,0.482,0.711,124.987
+The Plug (feat. NOISES),2VuLcVP3JfmpdCt567yh0P,Nostalgix,Best of IN / ROTATION: 2020,0.903,0.666,0,-5.158,1,0.0558,0.0159,0.000351,0.308,0.559,128.024
+Boiler - Lodgerz Remix,43AjCkjCxshhgm7M0Is62e,Nostalgix,Boiler (Remixes),0.834,0.835,1,-6.925,1,0.11,0.00565,0.128,0.663,0.656,127.989
+Bad For Me,0xSpzUGAlkwiqOn46vm2MS,Nostalgix,OG Sins,0.803,0.52,11,-8.185,0,0.043,0.00606,0.816,0.15,0.361,130.018
+Alien Invasion,7FzoLw2LPvDEZoW44TOGZ2,Nostalgix,Alien Invasion,0.706,0.98,1,-2.427,0,0.0512,0.000578,0.156,0.158,0.0355,126.025
+Pourin Shots,5FuFdJNbb5k5xOYfG0naHI,Nostalgix,Pourin Shots,0.866,0.97,11,-4.829,0,0.0986,0.000497,0.803,0.0307,0.797,127.989
+Basics,5ffn8xl30M8FryrZe42xO6,Nostalgix,Basics,0.717,0.922,0,-5.334,1,0.111,0.000443,0.0233,0.613,0.386,128.035
+Downtown,0uXxXJPRdTHNteGGCF1nHu,Nostalgix,Act Out,0.87,0.829,1,-3.671,1,0.082,0.0905,0.024,0.229,0.456,127.079
+Who's She - Nostalgix Remix,6jf66D1Xocd4K50QoHojmz,Nostalgix,Night Bass Remixed Vol. 3,0.872,0.802,4,-3.435,0,0.162,0.00454,0.0374,0.0505,0.549,129.006
+Bust It - Extended,69bsLoyB2uyk9oGCL5iTxV,Nostalgix,Bust It,0.866,0.693,7,-3.541,1,0.0503,0.00387,0.0216,0.0917,0.551,127.998
+Robot Disco,2IvaBYi79ne7EsEWYbDODa,Nostalgix,Robot Disco,0.858,0.598,7,-5.4,1,0.124,0.00284,0.0535,0.0899,0.607,127.012
+Rebellion,3qqSc2s1sP3E0bGmjJbVMk,Nostalgix,Ghetto Ghetto Miami II,0.735,0.919,5,-3.65,0,0.0488,0.00676,0.647,0.0741,0.665,126.042
+Mind Your Biz,4HhCcfxibg26q0y3M6DMOh,Nostalgix,Unlocked Vol. 1,0.822,0.713,7,-5.534,1,0.0592,0.0102,0.0153,0.0814,0.629,126.036
+Heist,2W5TEKs50ZZuto6DXZNFeG,Nostalgix,OG Sins,0.728,0.88,1,-5.312,1,0.0475,0.000232,0.599,0.0486,0.331,125.984
+Chat,0cN2DTsGGWy5ZOmjNzWl62,Nostalgix,Countdown,0.824,0.88,11,-3.998,0,0.138,0.000415,0.289,0.108,0.452,128.026
+Low Key,0cyslzmLvlSm3d3Bsjr1y2,Nostalgix,This is Night Bass: Vol. 12,0.802,0.953,10,-5.335,0,0.0535,0.00114,0.231,0.0845,0.856,125.984
+Don’t Keep Me Waiting (feat. Mila Falls) - Haus of Panda Remix,2SjLtrGDB9nwO0dFvyGxZc,Nostalgix,Don’t Keep Me Waiting (feat. Mila Falls) [Remixes],0.551,0.973,11,-3.277,0,0.0363,0.000315,0.294,0.281,0.319,144.988
+Don't Really Care (feat. Nostalgix),1LA0msdThp0fnQteblouuE,Nostalgix,Don't Really Care (feat. Nostalgix),0.863,0.936,5,-3.806,0,0.168,0.00442,0.451,0.0147,0.456,124.014
+Spice Girl,3G97Yq7OqWCuHpCM3obMzk,Nostalgix,Spice Girl,0.822,0.777,2,-8.104,1,0.043,0.000135,0.742,0.0705,0.339,126.005
+Don’t Keep Me Waiting (feat. Mila Falls) - Merow Remix,2t3uQR29PPq0APKbJTad1C,Nostalgix,Don’t Keep Me Waiting (feat. Mila Falls) [Remixes],0.674,0.798,0,-4.95,1,0.0325,0.00656,0.0725,0.102,0.216,130.008
+Run It Up,67NKmUzYdwXECjW7wyprrm,Nostalgix,Act Out,0.865,0.898,0,-3.598,1,0.257,0.00475,0.418,0.111,0.307,128.04
+Undercover,00SgfOlzSmLtCoQ4mcvUNi,Nostalgix,Black Mirror,0.844,0.736,2,-4.755,1,0.0974,0.00118,0.000658,0.128,0.227,127.981
+Famous,6nd0lfeTsDc5Feyngr01aU,Nostalgix,Famous,0.88,0.754,9,-5.721,1,0.0654,0.00217,0.0418,0.0947,0.674,126.025
+Westside - Nostalgix Remix,5RSzHmC3466kVVdUGbE2HY,Nostalgix,Diamond City (Remixed),0.905,0.822,9,-4.248,1,0.0509,0.002,0.000475,0.0386,0.456,127.958
+Boiler - William Luck Remix,58TBJIEjsdvyYcOVM8cgxL,Nostalgix,Boiler (Remixes),0.737,0.998,7,-3.706,0,0.0959,0.0652,0.853,0.299,0.307,125.966
+Stop Calling,3kwbVdPfqfxu4Qn9MXMcOF,Nostalgix,"We Are OKNF, Vol. 12",0.887,0.761,1,-9.344,1,0.0893,0.00809,0.836,0.0526,0.503,125.982

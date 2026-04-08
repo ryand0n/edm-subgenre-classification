@@ -1,0 +1,88 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Weltschmerz,5dV8v9sGqh0qt4eGdoJzKg,Klangkuenstler,Weltschmerz,0.43,0.994,9,-6.816,0,0.105,4.28e-06,0.875,0.17,0.0907,139.999
+Toter Schmetterling,4LsYdWDeumtYjMndQVcA94,Klangkuenstler,Toter Schmetterling,0.627,0.931,6,-4.54,0,0.48,0.000403,0.815,0.246,0.119,156.007
+Sonne Geht Auf,6bs1myCEARQoI7oOLxqHkp,Klangkuenstler,Sonne Geht Auf,0.523,0.906,6,-5.43,1,0.341,0.00304,0.0848,0.491,0.516,155.979
+Toter Schmetterling - Single Edit,6IDywtwTrAkEsmJkPSNs27,Klangkuenstler,Toter Schmetterling,0.549,0.909,6,-4.822,0,0.584,0.00121,0.443,0.575,0.0884,155.958
+Deine Angst,6C3vS3o69ZX3JvX0onzFkT,Klangkuenstler,Deine Angst,0.463,0.995,5,-7.162,1,0.081,1.79e-05,0.938,0.0707,0.0576,143.994
+Mein Wille,6X7kFQAv7hTVh8hbmkL5ki,Klangkuenstler,Die Welt Brennt,0.401,0.997,9,-6.328,1,0.101,2.56e-05,0.392,0.216,0.0362,150.001
+Untergang,2lYxJyemy6xyccCLknXMcY,Klangkuenstler,Weltschmerz,0.399,0.999,6,-6.039,0,0.142,4.71e-06,0.823,0.124,0.0496,141.971
+Das Ende Der Isolation,7BB5gcz4C28nsRblTF79oS,Klangkuenstler,Deine Angst,0.454,0.99,1,-7.676,1,0.0781,6.43e-06,0.917,0.0766,0.102,144.009
+Alte Zeit,67wpgNP46NIoSSTAk6dBWF,Klangkuenstler,Himmelreich,0.379,0.999,7,-4.874,1,0.0942,6.1e-06,0.837,0.101,0.0359,139.994
+Man on the Moon (Bonus Track) - Miguel Campbell Remix,7vlL1ied7PzzE8tLGBfEEM,Klangkuenstler,That's Me,0.901,0.303,10,-10.809,1,0.0524,0.00335,0.0504,0.0851,0.766,121.992
+Sonne Geht Auf - Extended Mix,6u4vSqVun6ZkJeRp8t2Rdn,Klangkuenstler,Sonne Geht Auf,0.592,0.95,11,-5.129,1,0.34,0.00171,0.312,0.455,0.465,156.004
+Ihr Werdet Weinen,385poZDk3lEmonwvCr5XUl,Klangkuenstler,Armageddon,0.442,0.961,10,-6.652,0,0.0399,4.23e-06,0.828,0.146,0.551,136.977
+Die Welt Brennt,7oAM2GxHCTKTLU3gXvkuuj,Klangkuenstler,Die Welt Brennt,0.497,0.997,4,-7.161,0,0.0783,0.00103,0.815,0.203,0.0604,149.997
+Himmelreich,727wYwHcq5pXeN9GNyWJUk,Klangkuenstler,Himmelreich,0.38,1.0,11,-3.817,1,0.135,5.35e-06,0.73,0.081,0.137,139.998
+Hexenmeister,5HG6r7VZTrPq5AHHI9qIt7,Klangkuenstler,Hexenmeister,0.501,0.975,2,-4.872,1,0.0494,0.00155,0.749,0.196,0.0608,136.001
+Wechselspannung,3eGE5o9pzEGgIahB4lrqvX,Klangkuenstler,Deine Angst,0.443,0.999,1,-4.126,1,0.18,1.14e-05,0.87,0.0793,0.35,140.982
+In Ketten Gelegt,3G2COhep3eLrLv7ypXx5LR,Klangkuenstler,"Fight Club, Vol. 1",0.548,0.988,9,-7.103,1,0.182,4.73e-05,0.672,0.135,0.324,141.972
+Ehre Und Gewalt,3D2z5t946Ykvge7hgJYiAW,Klangkuenstler,Armageddon,0.39,1.0,9,-4.508,0,0.0711,7.72e-06,0.923,0.136,0.202,139.008
+Armageddon,57Z7OOlDvNhseKxhbYTsve,Klangkuenstler,Armageddon,0.427,0.999,0,-5.327,1,0.129,3.94e-06,0.931,0.0315,0.148,137.999
+Man on the Moon,1lIKQT5IGedHjAvAkgLTvK,Klangkuenstler,That's Me,0.752,0.72,0,-7.468,0,0.0365,0.0378,0.646,0.102,0.492,118.989
+Jugend Ohne Gott,0cHyKxMnyI8BTrQZ12pE8R,Klangkuenstler,Himmelreich,0.539,0.992,5,-6.605,0,0.0668,3.9e-05,0.903,0.0905,0.0375,139.965
+Balthazar,6egKlzcoIcwOy9hy0PiMLA,Klangkuenstler,Balthazar,0.682,0.963,7,-7.527,1,0.0403,0.00127,0.862,0.15,0.369,132.007
+Strom der Welt,6x7IsH95sCnSGcInOw3orI,Klangkuenstler,Hexenmeister,0.54,0.933,11,-7.262,0,0.0545,0.0026,0.895,0.179,0.286,134.994
+Die Sonne bebt,74qb3JkPrM1cBHfYi4eeOH,Klangkuenstler,Hexenmeister,0.587,0.915,11,-7.761,0,0.0746,0.00177,0.897,0.109,0.0899,135.008
+Das Schattenreich,2v2Br2dgPgJ9LuRVXR4bk8,Klangkuenstler,Balthazar,0.623,0.924,6,-6.845,1,0.0941,0.000283,0.853,0.0372,0.272,133.001
+Der letzte Tanz,2EtffjLSaDhqZ8z9fAGmcX,Klangkuenstler,Hexenmeister,0.442,0.978,0,-5.0,1,0.0499,0.000488,0.129,0.625,0.459,161.988
+Block Party,3vKk2tTuHzU8VJzZMepT1f,Klangkuenstler,Close the Door EP,0.652,0.944,3,-5.839,1,0.0361,0.000481,0.388,0.101,0.516,124.017
+Spiel mir das Lied vom Glück,2U6MFgxcdCxPnmCCKVe2U4,Klangkuenstler,Glücks EP,0.811,0.486,9,-10.434,0,0.1,0.000632,0.534,0.0753,0.947,123.981
+Supernova,4gg6qYC4v7PHn221f7mGuS,Klangkuenstler,Outworld 001,0.59,0.948,11,-8.556,1,0.0403,4.73e-05,0.881,0.0515,0.186,129.999
+Barfuß auf Wolken - Radio Mix,1VfwWPtWsoA0nLqgTISRAn,Klangkuenstler,Barfuß auf Wolken,0.642,0.845,0,-5.882,0,0.0388,0.105,0.867,0.111,0.49,119.973
+Jenseits,3g8Sw0oSCd4bXWNFnY2c4l,Klangkuenstler,Balthazar,0.598,0.93,11,-7.673,0,0.0316,0.000213,0.92,0.0682,0.0341,131.988
+Zorn Amons,164UBnHDcE6ZFOUiiZlpZ0,Klangkuenstler,Balthazar,0.696,0.97,8,-7.325,1,0.0961,0.00151,0.926,0.197,0.171,131.991
+Amsterdam,3Qs4wqEXaUpTXIGSICFqHD,Klangkuenstler,That's Me,0.811,0.546,2,-5.109,1,0.0466,0.125,0.0061,0.0978,0.445,111.993
+Delion,5XV4mCsy9w0V6EzwrjJ2tO,Klangkuenstler,Rise of the Phoneix,0.705,0.945,7,-8.253,1,0.0565,0.00062,0.842,0.11,0.0672,129.982
+Jam Master Jack,477R1I8qg7DzXVnCGPgKZW,Klangkuenstler,Jam Master Jack,0.819,0.954,11,-7.584,1,0.0671,0.00184,0.794,0.0637,0.646,122.989
+Hand in Hand,6Hy8wUcCi8stBB2cZQDt9e,Klangkuenstler,That's Me,0.667,0.616,9,-7.158,0,0.037,0.000673,0.142,0.0671,0.531,121.013
+Rise Of The Phoneix,7DoF0Lv0G9Zhvt9uGBnsg7,Klangkuenstler,Rise of the Phoneix,0.744,0.867,1,-11.289,0,0.0416,0.0126,0.887,0.106,0.195,130.005
+Spiel mir das Lied vom Glück - Geschwister Schumann Remix,3TAx5eTgKSfw2IIzmxVIsI,Klangkuenstler,Glücks EP,0.797,0.503,9,-12.949,0,0.0607,0.139,0.841,0.101,0.62,124.023
+Goldblaeserdirigentin - Drauf & Dran Remix,2QNtQPuoEQY4FrqIxWgnSu,Klangkuenstler,Goldblaeserdirigentin,0.901,0.514,9,-11.412,0,0.0666,0.318,0.737,0.365,0.69,128.009
+Goldblaeserdirigentin - Arts & Leni Remix,3IE17yHcYlnj0hmHZq6JV4,Klangkuenstler,Goldblaeserdirigentin,0.807,0.916,0,-5.74,1,0.117,0.00102,0.911,0.02,0.875,126.024
+Thinkin' Bout You (feat. Linda Muriel),6PnbfOOqFgBAxUovXWKd3B,Klangkuenstler,Thinkin' Bout You (feat. Linda Muriel),0.79,0.861,7,-8.544,1,0.0586,0.0494,0.0719,0.131,0.665,123.011
+Goldblaeserdirigentin - Original,2wcg495MuVWtQQliUOSweL,Klangkuenstler,Goldblaeserdirigentin,0.945,0.602,2,-8.284,0,0.0473,0.0604,0.673,0.099,0.863,127.003
+Feel The Power - Original Mix,5Sg53VhqXKQSS8gI6gAu2Q,Klangkuenstler,Feel The Power,0.747,0.824,9,-11.24,0,0.0558,0.00745,0.924,0.0724,0.475,123.997
+House Nation - Original Mix,24XVPJ1XergpZJYY99BgpW,Klangkuenstler,House Nation EP,0.683,0.929,7,-6.737,1,0.0531,0.00357,0.866,0.0964,0.478,124.0
+Heat It Up - Danny Serrano Remix,6Jda1oIxYiH0oMv6EvgvVH,Klangkuenstler,Ghetto Heat,0.783,0.971,7,-7.901,1,0.0563,0.000353,0.941,0.0725,0.877,123.999
+Gonna Leave - Original Mix,7A9AiBBg2WazlojjgzckXa,Klangkuenstler,Feel The Power,0.758,0.989,7,-10.049,0,0.0634,0.0219,0.943,0.0955,0.503,123.003
+Man on the Moon - Sokool Remix,31e8MJQ0UuqzQ4yFQLKYnR,Klangkuenstler,Man on the Moon,0.802,0.5,8,-12.927,1,0.0827,0.262,0.722,0.0845,0.31,115.008
+Dance with Me - Original Mix,0tKySHQ957LP1jyqS2ptub,Klangkuenstler,Dance with Me,0.745,0.892,11,-8.955,0,0.0364,0.000105,0.754,0.0524,0.242,123.0
+Man on the Moon - Radio Edit,10ixSf4OYAKUQqz2gIF2K2,Klangkuenstler,Man on the Moon,0.757,0.707,10,-8.1,1,0.0367,0.0827,0.541,0.128,0.52,119.006
+It's My Man - Klangkuenstler Remix Edit,7gEohqlhdlhp2ZE7Moxurd,Klangkuenstler,It's My Man (Klangkuenstler Remix Edit),0.618,0.971,6,-6.543,1,0.0551,0.00103,0.911,0.0612,0.58,123.992
+It´s The Inside - Radio Edit,6VfriSVBoPN7Y0f5sRajTT,Klangkuenstler,The People,0.49,0.993,8,-3.739,0,0.0797,0.00923,0.648,0.133,0.73,123.983
+Girlfriend Mentions,5LiIwaas3MrStHfQ1B0y1N,Klangkuenstler,Pop Dem Bottles Ep,0.819,0.905,7,-8.565,1,0.0928,0.00731,0.67,0.0655,0.315,124.012
+Barfuss Auf Wolken,4vm8wwRUIwsJkwR1AQpgKk,Klangkuenstler,Saint-Germain-des-Prés Café Vol. 16 by KlangKuenstler,0.776,0.772,0,-7.1,0,0.0728,0.0233,0.896,0.0451,0.864,120.005
+Whistle Weapon,33GLgzjtk7G8swZOEEMadB,Klangkuenstler,Whistle Weapon,0.773,0.929,10,-8.411,0,0.0639,0.00205,0.919,0.0546,0.425,123.006
+Barfuß auf Wolken - Club Mix,2M5fhNs6C6uZHbVGYzm5vM,Klangkuenstler,Barfuß auf Wolken,0.775,0.798,0,-6.198,0,0.0698,0.023,0.903,0.0442,0.869,120.01
+Be - Klangkuenstler Remix,7q7BOJDs2FEmMz1WHcMSqn,Klangkuenstler,Be (Klangkuenstler Remix),0.654,0.94,1,-7.404,1,0.0384,0.000509,0.919,0.0344,0.109,123.994
+Tuba Liebre,2TqMZ7m9TI56sXeS1B2kkk,Klangkuenstler,Darling/Tuba Libre,0.928,0.726,3,-8.939,0,0.0556,0.00987,0.747,0.0394,0.783,128.028
+Soul Digger,5f1p99kGXZUcszt3iIkRsr,Klangkuenstler,Jam Master Jack,0.83,0.904,6,-7.144,1,0.0735,0.00942,0.882,0.245,0.627,123.009
+Emma's Liebe,1FzB0NXDuSECYluGI7wgXI,Klangkuenstler,"We Love Vinyl, Part 4",0.688,0.479,7,-14.832,1,0.053,0.0613,0.77,0.1,0.397,121.003
+The People,22lMCpTVYEjNZPxUyFYHl6,Klangkuenstler,The People,0.771,0.996,10,-4.461,0,0.0531,0.0283,0.701,0.256,0.559,123.986
+Remember Way Back,0EA5KLgy1SYJbtHa5pFM3r,Klangkuenstler,Remember Way Back EP,0.702,0.978,11,-6.337,0,0.0496,0.00865,0.858,0.0372,0.795,123.001
+House Your Body,6H7lZveAElPhy8a6eaKgbe,Klangkuenstler,Pop Dem Bottles Ep,0.782,0.972,9,-6.814,1,0.067,0.0172,0.336,0.469,0.841,123.989
+Calypso,1BsRRlE9uHDcE4n2zw1cXQ,Klangkuenstler,Golden,0.821,0.726,7,-8.057,1,0.05,0.0038,0.851,0.0479,0.316,122.013
+State of Mind,3YytDrnpBT6sVjj7NBisHx,Klangkuenstler,State of Mind,0.866,0.547,0,-8.197,1,0.038,0.0198,0.684,0.0599,0.315,122.999
+Save the Rave,6TGmEkTXtYmDIMLcmOfdxq,Klangkuenstler,Klangkuenstler | Jiggler,0.737,0.978,8,-6.586,1,0.0595,0.0423,0.771,0.109,0.365,125.002
+Pop Dem Bottles,5J8wskVx8OGxAJG6pjw3IY,Klangkuenstler,Pop Dem Bottles Ep,0.824,0.888,0,-6.77,1,0.053,0.0141,0.614,0.0677,0.306,123.005
+Man on the Moon - Miguel Campbell Remix,5VMrEqThneHNaLhbQiCh42,Klangkuenstler,Man on the Moon,0.901,0.303,10,-10.809,1,0.0524,0.00335,0.0504,0.0851,0.766,121.992
+It´s The Inside,4TtjN7T8YwgzrKxbYXQUt1,Klangkuenstler,The People,0.801,0.995,6,-4.531,0,0.0622,0.00553,0.832,0.114,0.598,123.997
+Eternum,0qxwnBZB1ZCGVpGcTRHZIo,Klangkuenstler,Dimension Null,0.774,0.937,11,-7.125,0,0.041,0.106,0.946,0.103,0.111,130.0
+Dimension Null,1CaBDbL18ssME0V0VuH8G3,Klangkuenstler,Dimension Null,0.706,0.896,2,-9.422,1,0.042,0.0894,0.869,0.105,0.0304,128.004
+One Day at Mauerpark,2TLrDQwIAlZaJURKCos2MH,Klangkuenstler,That's Me,0.696,0.597,8,-6.244,1,0.0867,0.251,0.12,0.0923,0.126,121.993
+Nuts,3CafhWTaP7rBsT4cq9eXqG,Klangkuenstler,Mother Knows Best 4,0.725,0.852,3,-5.289,1,0.069,0.0179,0.692,0.105,0.487,123.008
+1990,0HqqsdzsxleztXGxnrRd4J,Klangkuenstler,That's Me,0.751,0.716,9,-5.633,0,0.0375,0.00539,0.853,0.0875,0.49,124.002
+Pfoetchentango - Mollono.Bass Remix,2jDtQdkp7E7JwbYOA5SS6s,Klangkuenstler,Mollono.Bass Remix Collection II,0.81,0.459,9,-12.75,0,0.123,0.000358,0.767,0.1,0.625,124.986
+Ego Death - Klangkuenstler Remix,2fEMGsxbomxvcIV4bLI8Lh,Klangkuenstler,The Unfinished Fight Against Humanity Remixed EP,0.465,0.967,6,-5.978,1,0.111,5.13e-06,0.875,0.0478,0.0728,142.005
+Disco Sunset,3hGlenByQwFTsC4ORgkQoG,Klangkuenstler,That's Me,0.791,0.72,11,-6.332,0,0.0624,0.0843,0.148,0.133,0.307,123.028
+Satisfaction,02TpkdnapcAog3rhCHo2JZ,Klangkuenstler,House Nation EP,0.729,0.833,4,-4.709,0,0.0911,0.00314,0.0357,0.0556,0.0961,123.978
+Yoruba,6Vf1GuUMV9wGCHCTnn0OG2,Klangkuenstler,Remember Way Back EP,0.674,0.95,0,-5.352,1,0.0442,0.00213,0.912,0.624,0.621,123.985
+Satisfaction - Original Mix,4RAAzansdZRTKeUnWYaoAE,Klangkuenstler,House Nation EP,0.857,0.823,11,-7.199,0,0.0808,0.00156,0.231,0.0647,0.197,123.984
+Heaven in Your Arms,2hPPOruoY9R571pE51iG1r,Klangkuenstler,State of Mind,0.748,0.392,9,-8.717,1,0.039,0.0418,0.891,0.0574,0.159,121.001
+This Is Awesome,4Oh8c0oasnNcFDmsop4HKn,Klangkuenstler,Kallias Only 001 by Bebetta,0.805,0.808,10,-7.894,0,0.0686,0.000477,0.828,0.0616,0.736,124.003
+Ghetto Gospel,66V9TiOl6HW3MKdnYXaBl1,Klangkuenstler,Ghetto Heat,0.816,0.961,0,-8.527,1,0.0486,0.000632,0.963,0.0617,0.743,124.011
+Dance With Me,2bfcrM3KZrlzqonlfVToZU,Klangkuenstler,Organic Underground Issue 31,0.745,0.892,11,-8.955,0,0.0364,0.000105,0.75,0.0524,0.241,123.001
+Close the Door,1nyU1aiuEHnIyY1Q9AujbS,Klangkuenstler,Close the Door EP,0.74,0.929,0,-6.511,1,0.058,0.0845,0.0355,0.147,0.623,123.001
+Golden,0QaiRoE8wfIjrDfHS6q2Y1,Klangkuenstler,"Ingenious Sounds, Vol. 3.6",0.861,0.872,2,-7.903,1,0.0787,0.000133,0.885,0.0224,0.131,123.017
+Exodia,02tS5cFRVS0jFc5c7Vgkhf,Klangkuenstler,Klangkuenstler | Jiggler,0.794,0.931,7,-7.558,1,0.108,0.0154,0.886,0.115,0.388,124.014
+The Faith,4hkCoOtn9x6ynwEYvZCWPS,Klangkuenstler,State of Mind,0.906,0.332,3,-8.015,1,0.0612,0.218,0.262,0.26,0.344,121.009

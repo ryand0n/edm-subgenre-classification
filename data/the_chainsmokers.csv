@@ -1,0 +1,96 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Sick Boy,58kZ9spgxmlEznXGu6FPdQ,The Chainsmokers,Sick Boy,0.663,0.577,11,-7.518,0,0.0531,0.109,0.0,0.12,0.454,89.996
+#SELFIE,1HOlb9rdNOmy9b1Fakicjo,The Chainsmokers,#SELFIE,0.789,0.916,0,-3.262,1,0.249,0.0135,8.09e-06,0.077,0.658,127.956
+High,09AvsbivV1FQBRAEBJh7UL,The Chainsmokers,So Far So Good,0.601,0.787,0,-6.178,1,0.031,0.0492,0.0,0.142,0.525,134.981
+Hope,4BiiOzZCrXEzHRLYcYFiD5,The Chainsmokers,Sick Boy,0.773,0.699,1,-5.982,0,0.0958,0.488,3.6e-06,0.0814,0.513,104.941
+Split (Only U),1Q4jb2UjtWUDUojHsB8mLY,The Chainsmokers,Split (Only U),0.634,0.927,1,-3.282,1,0.136,0.048,0.687,0.0864,0.35,128.016
+This Feeling,4NBTZtAt1F13VvlSKe6KTl,The Chainsmokers,Sick Boy,0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049
+All We Know,2rizacJSyD9S1IQUxUxnsK,The Chainsmokers,All We Know,0.662,0.586,0,-8.821,1,0.0307,0.097,0.00272,0.115,0.296,90.0
+Jungle,0OvO2X2Q3i98dc5RcgEN3x,The Chainsmokers,Jungle,0.596,0.667,6,-5.651,0,0.0295,0.0524,0.000109,0.205,0.217,140.002
+Takeaway,3g0mEQx3NTanacLseoP0Gw,The Chainsmokers,World War Joy,0.528,0.511,3,-8.144,1,0.0324,0.126,0.0,0.101,0.351,100.1
+Who Do You Love,2fVHrSxsQbJUuj9MW9zG1e,The Chainsmokers,World War Joy,0.51,0.846,3,-4.595,1,0.0461,0.0101,0.0,0.208,0.475,139.927
+Closer,7BKLCZ1jbUBVqRi2FVlTVw,The Chainsmokers,Closer,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01
+Don't Let Me Down - Illenium Remix,15BlympuVSfZFROojEMY2M,The Chainsmokers,Don't Let Me Down (Remixes),0.428,0.656,11,-3.712,1,0.075,0.0751,0.181,0.15,0.355,79.648
+Roses,3vv9phIu6Y1vX3jcqaGz5Z,The Chainsmokers,Roses,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001
+White Wine & Adderall,1AApldBkudH6jZAE9ucdUF,The Chainsmokers,White Wine & Adderall,0.613,0.936,9,-1.064,0,0.0496,0.0171,0.386,0.0973,0.254,134.981
+Call You Mine,2oejEp50ZzPuQTQ6v54Evp,The Chainsmokers,World War Joy,0.585,0.696,4,-5.6,0,0.0307,0.204,0.0,0.344,0.522,104.01
+Spaces,1r4gQdNHdAJfUpREI0ywiu,The Chainsmokers,Spaces,0.592,0.934,10,-4.739,0,0.0433,0.0186,0.305,0.871,0.333,132.042
+Don't Let Me Down,1i1fxkWeaMmKEB4T7zqbzK,The Chainsmokers,Don't Let Me Down,0.533,0.869,11,-5.093,1,0.173,0.156,0.00538,0.136,0.425,159.805
+Paris,72jbDTw1piOOj770jWNeaG,The Chainsmokers,Memories...Do Not Open,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99
+Something Just Like This,6RUKPb4LETWmmr3iAEQktW,The Chainsmokers,Memories...Do Not Open,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019
+The Fate of Ophelia - The Chainsmokers Remix,3JNaLxAymiSUMrmjOarjeo,The Chainsmokers,The Fate of Ophelia (The Chainsmokers Remix),0.712,0.881,5,-3.748,1,0.0597,0.0135,0.003,0.217,0.306,131.991
+Addicted,5ZUIPLoTLJZrPQh2kFZEUM,The Chainsmokers,Addicted,0.771,0.741,5,-7.132,0,0.0374,0.0245,0.000163,0.111,0.19,120.064
+fault in the stars,585DJiJ7LPSNBSUEE4TxNo,The Chainsmokers,fault in the stars,0.625,0.565,1,-6.272,1,0.0389,0.207,1.04e-06,0.131,0.318,126.049
+Self Destruction Mode,05e1CoIPmXLy6aPBotZlTZ,The Chainsmokers,Self Destruction Mode,0.623,0.633,9,-6.15,0,0.0653,0.161,0.0,0.214,0.549,160.045
+Celular,0LUG9jzDNXcIdIWeSx9g2C,The Chainsmokers,Celular,0.661,0.834,7,-4.687,1,0.0394,0.0279,0.0,0.157,0.72,139.99
+Don't Say,1pJQAHpD51J7GYaFrrFO9S,The Chainsmokers,Memories...Do Not Open,0.567,0.464,5,-9.66,1,0.0302,0.0199,9.31e-06,0.269,0.309,99.806
+New York City,4v1CvZazmdpxQLEt3sCeKH,The Chainsmokers,New York City,0.564,0.639,4,-6.828,0,0.038,0.0127,0.0,0.133,0.0624,126.062
+Breathe,66Pb9LmThReBZf9qcmtr5W,The Chainsmokers,Breathe,0.29,0.428,11,-7.462,1,0.042,0.846,0.0113,0.206,0.072,128.605
+See You Again,1tKUFSLuJCSlzBXm2l4HRo,The Chainsmokers,Summertime Friends,0.478,0.497,4,-4.992,1,0.0304,0.0844,0.00118,0.178,0.209,144.046
+It Won't Kill Ya,5xhJmd0I15jFcEdqxfCzKk,The Chainsmokers,Memories...Do Not Open,0.572,0.53,6,-8.521,0,0.0654,0.0647,0.000169,0.127,0.12,170.138
+Habits (Stay High) - The Chainsmokers Radio Edit,2D20D6gxMn8iJV4ij30DIV,The Chainsmokers,Habits (Stay High) [The Chainsmokers Radio Edit],0.678,0.825,10,-5.923,1,0.0367,0.00422,0.00235,0.131,0.0388,128.018
+Young,1KeZgPUr54C8iz3FjqzVoz,The Chainsmokers,Memories...Do Not Open,0.615,0.564,9,-6.384,1,0.0291,0.0105,0.0,0.148,0.454,103.006
+Break Up Every Night,6cPyTS0Kk2sc4xQwC93kOg,The Chainsmokers,Memories...Do Not Open,0.624,0.806,1,-5.957,1,0.0437,0.00411,0.0,0.0872,0.528,149.999
+Roses (feat. ROZES) - Zaxx Remix,5MgBUUjbkQ27Kd9CbeZFLo,The Chainsmokers,Roses (Remixes) (feat. ROZES),0.677,0.881,1,-3.534,0,0.054,0.00445,0.0146,0.359,0.566,128.121
+Somebody,0fTiDOXRNEN0lUeYGoSHml,The Chainsmokers,Sick Boy,0.32,0.63,10,-7.019,0,0.0493,0.192,0.0,0.102,0.323,203.443
+Friday,03bOA3BAjZiqJOGyFmWYFz,The Chainsmokers,Friday,0.657,0.832,1,-6.006,1,0.0408,0.0586,0.0,0.0824,0.365,103.029
+Dreaming - The Chainsmokers Remix,6lOsjTvgGL08uRf2nKrSed,The Chainsmokers,Dreaming Remix EP,0.628,0.978,5,-3.739,0,0.0771,0.0132,0.0336,0.0494,0.453,127.04
+Setting Fires,2PC9Tl8SWVO2yhDDtJcrAi,The Chainsmokers,Collage EP,0.626,0.717,8,-5.751,0,0.0375,0.017,0.0,0.261,0.56,105.039
+Inside Out,7sG2bWi2eDtvX9vX8yC1Gn,The Chainsmokers,Inside Out,0.545,0.65,7,-5.853,0,0.0315,0.00308,7.98e-06,0.122,0.121,143.937
+The Fall,5FvGI8KtImlEbOsvEW3pfX,The Chainsmokers,So Far So Good,0.664,0.939,0,-4.699,0,0.0354,0.011,0.0142,0.167,0.285,121.979
+Bloodstream,26AuyrZGzWWiYZPSd3XBIg,The Chainsmokers,Memories...Do Not Open,0.62,0.627,9,-5.889,1,0.0259,0.0317,0.0,0.172,0.164,90.955
+Beach House,2bQhVQbV7VBzSOPo8mbkUR,The Chainsmokers,Sick Boy,0.4,0.838,0,-4.491,1,0.0526,0.174,0.0,0.341,0.533,179.945
+Push My Luck,4h8Pmw3RELdsanPjssyJoB,The Chainsmokers,World War Joy,0.563,0.645,2,-6.422,1,0.0428,0.293,0.0,0.202,0.523,89.976
+Air,71QKcBjRSoGBMNPByY715u,The Chainsmokers,Breathe,0.691,0.469,9,-8.069,0,0.0612,0.0703,0.000187,0.135,0.569,140.11
+Veins,2YWM5VD6467jKZR67ffnLJ,The Chainsmokers,Breathe,0.762,0.726,6,-3.801,0,0.0389,0.0148,0.103,0.0791,0.225,128.04
+Riptide,7dTd00X8Mc5iErfQQyBA6B,The Chainsmokers,So Far So Good,0.717,0.734,5,-5.712,1,0.0426,0.28,0.000101,0.147,0.894,91.014
+My Type,6V9kwssTrwkKT72imgowj9,The Chainsmokers,Memories...Do Not Open,0.604,0.603,7,-6.324,0,0.0389,0.0357,0.0,0.126,0.15,94.989
+Everybody Hates Me,6ufrOaf4v6Qady6GiIpQ0s,The Chainsmokers,Sick Boy,0.475,0.752,11,-6.596,0,0.0467,0.00703,0.0,0.406,0.515,154.957
+Don't Let Me Down - W&W Remix,4s2rzq6ZpCfg5ODq0z79QG,The Chainsmokers,Don't Let Me Down (Remixes),0.431,0.877,8,-5.677,0,0.121,0.041,0.00128,0.126,0.484,159.897
+Side Effects,0bGLvHd0ApdT4t0shCfpzG,The Chainsmokers,Sick Boy,0.669,0.711,8,-6.758,1,0.033,0.00217,0.0,0.466,0.544,110.01
+Don't Lie,5is9ECympHEpAyTw22IDC5,The Chainsmokers,Don't Lie,0.823,0.826,9,-3.858,0,0.0414,0.0653,0.0065,0.066,0.843,135.046
+Until You Were Gone,12MqM3S0fTvR6X4Jt1Xvn6,The Chainsmokers,Until You Were Gone,0.577,0.698,1,-4.773,1,0.0451,0.0541,0.0,0.131,0.324,128.061
+Do You Mean,5vDCp6yZAikAoJ6NOEEFdp,The Chainsmokers,World War Joy,0.356,0.661,11,-9.818,1,0.0633,0.129,0.0,0.114,0.551,99.951
+The Cure,6cHmI8DzAJthaPWHLxv9OM,The Chainsmokers,Breathe,0.257,0.847,0,-3.209,1,0.0618,0.0769,3.54e-06,0.0672,0.271,128.045
+If You're Serious,07DqkQrhTC0HmQWewLnax9,The Chainsmokers,So Far So Good,0.695,0.752,11,-8.988,1,0.0295,0.000702,0.00902,0.101,0.424,111.023
+I Love U,2FqkTu4FhwDWn9hzEaWWCE,The Chainsmokers,So Far So Good,0.651,0.719,8,-5.804,1,0.0318,0.143,3.62e-05,0.0948,0.81,103.981
+The One,0wfbD5rAksdXUzRvMfM3x5,The Chainsmokers,Memories...Do Not Open,0.76,0.303,2,-11.362,1,0.0284,0.238,8.09e-06,0.294,0.15,99.991
+Kanye,5brMyscUnQg14hMriS91ks,The Chainsmokers,Kanye,0.599,0.614,10,-6.573,1,0.0517,0.00203,1.56e-06,0.117,0.122,128.044
+Summertime Friends,2lOY5Ah2pRRMdjA6yBRgwW,The Chainsmokers,Summertime Friends,0.522,0.69,2,-5.574,1,0.0325,0.011,7.81e-06,0.4,0.28,160.054
+iPad,4edHoZerfvMGeLz3ohZit6,The Chainsmokers,So Far So Good,0.665,0.628,2,-6.297,1,0.026,0.00502,2.02e-05,0.0947,0.551,121.979
+Honest,6KjbNLbRjuoa8rEq5yNA6H,The Chainsmokers,Memories...Do Not Open,0.673,0.514,0,-10.772,0,0.0465,0.0121,8.5e-05,0.385,0.312,100.035
+Addicted - Zerb Acid VIP,4iezPr4cPTjAbrcDLoQx4X,The Chainsmokers,ADDICTED: REFRESHED,0.882,0.786,0,-5.93,0,0.0549,0.0295,0.00612,0.491,0.841,120.006
+Let You Go - Radio Edit,2Mh0jU5IyRTQfpyMnvki5Z,The Chainsmokers,Let You Go (Radio Edit),0.598,0.882,5,-2.894,1,0.0954,0.27,0.0,0.0793,0.25,125.979
+Family,3TKpJrY9q49Mj1JOsM9zGL,The Chainsmokers,World War Joy,0.584,0.607,11,-6.605,1,0.0356,0.426,0.0,0.101,0.374,117.817
+Roses (feat. ROZES),3FWPoYBDserKdzcattMFGa,The Chainsmokers,Bouquet,0.718,0.808,4,-7.652,1,0.0473,0.0299,0.00414,0.225,0.309,100.033
+Last Day Alive,6GeD5g9vZTz25Egf8kxoIY,The Chainsmokers,Memories...Do Not Open,0.435,0.706,0,-8.197,1,0.0425,0.0571,4.15e-05,0.0903,0.24,144.913
+See The Way,6VWz99969QmNc2gWo21ktl,The Chainsmokers,World War Joy,0.558,0.456,2,-8.118,1,0.0945,0.129,0.0,0.189,0.566,94.851
+The Reaper,0g8Dq6OpSmWengqtLrVr77,The Chainsmokers,World War Joy,0.633,0.564,8,-7.789,0,0.0701,0.135,0.0,0.201,0.648,164.008
+You Owe Me,3CgTgHLI8qHAqLoZkz1BdQ,The Chainsmokers,Sick Boy,0.675,0.445,6,-8.317,0,0.0394,0.222,0.0,0.231,0.348,89.98
+Kills You Slowly,2PgMUAn2bBpm8gz6yAXvVL,The Chainsmokers,World War Joy,0.696,0.439,1,-8.77,0,0.055,0.0636,0.0,0.127,0.229,149.923
+Wake Up Alone,0dj1CtyRxZ4bnIT4Q20jNT,The Chainsmokers,Memories...Do Not Open,0.643,0.52,9,-5.968,0,0.0334,0.0102,0.0,0.11,0.23,75.168
+Think Of Us,4jpNmNXMzO3aVgJhy8sdxL,The Chainsmokers,Summertime Friends,0.747,0.7,0,-6.563,1,0.0904,0.488,0.0,0.154,0.721,95.033
+Pumpin Blood - The Chainsmokers Remix,1lhWdmgKs69XbvCHQs9OXR,The Chainsmokers,We Are Only Remixes,0.639,0.915,4,-4.112,0,0.0327,0.0176,0.223,0.227,0.219,128.017
+P.S. I Hope You're Happy,5GemR0Lr9CEUJVH14mAsDO,The Chainsmokers,World War Joy,0.583,0.802,1,-4.312,1,0.0367,0.00883,0.0,0.0615,0.649,100.054
+Up & Down,2R7xKsStJ9hNeZKoD9W5Nv,The Chainsmokers,Up & Down,0.728,0.796,1,-5.427,0,0.0584,0.01,0.000192,0.687,0.858,130.064
+Why Can't You Wait,09EVL34Hr8e1jzFF5Hjb0v,The Chainsmokers,So Far So Good,0.707,0.582,0,-6.308,1,0.0268,0.0153,4.78e-06,0.104,0.272,115.017
+Jungle - Arcando Remix,3tFq8IZqLaqnZO0rxbcanH,The Chainsmokers,Jungle (Remixes),0.582,0.87,1,-3.805,0,0.0595,0.0461,1.19e-05,0.126,0.15,170.17
+We Own The Night - The Chainsmokers Edit,6h9xi8i9zVOXk5FqGqcBNH,The Chainsmokers,We Own The Night,0.602,0.839,8,-3.561,0,0.0389,0.0141,0.0083,0.0897,0.402,126.001
+Don't Let Me Down - Hardwell & Sephyx Remix,1JI70l1lE5IF2tgJm5TnMD,The Chainsmokers,Don't Let Me Down (Hardwell & Sephyx Remix),0.509,0.897,8,-3.418,0,0.0454,0.0861,0.000634,0.0625,0.283,149.864
+Let You Go - A-Trak Remix,3YmiIqDgrq1zPVF2uPMKpo,The Chainsmokers,Let You Go (A-Trak Remix),0.333,0.638,5,-4.946,1,0.0842,0.366,1.36e-05,0.101,0.296,62.479
+I Can't Stop Drinking About You - Chainsmokers Remix,56T1QA7202iW7fZes2PTUe,The Chainsmokers,I Can't Stop Drinking About You Remix EP,0.637,0.664,3,-7.335,0,0.0388,0.0451,8.57e-06,0.0976,0.361,128.009
+Save Yourself - NGHTMRE VIP REMIX,0xCdQ9jYFDENkE2ck73CAc,The Chainsmokers,Save Yourself (NGHTMRE VIP REMIX),0.458,0.928,4,-3.776,0,0.0602,0.000982,0.0257,0.14,0.0637,146.043
+Something Just Like This - Don Diablo Remix,15MTd64KUMG7CF6mOyovsQ,The Chainsmokers,Something Just Like This (Remixes),0.72,0.746,11,-5.567,0,0.0983,0.125,0.000476,0.0929,0.511,124.039
+Closer - R3hab Remix,0Ye1olMyvB2rLjZ4vlYVWI,The Chainsmokers,Closer (Remixes),0.775,0.559,8,-5.89,1,0.0417,0.081,0.0,0.219,0.408,100.042
+Roses (feat. ROZES) - The Him Remix,4ZsjbipIP09tLf6gdURakt,The Chainsmokers,Roses (Remixes) (feat. ROZES),0.629,0.888,1,-4.925,0,0.0519,0.12,0.0528,0.255,0.563,121.953
+My Bad,5ZsaCdte7URxwAy4PWHLM4,The Chainsmokers,Summertime Friends,0.727,0.763,2,-4.147,0,0.0341,0.1,0.0,0.0763,0.554,126.071
+Closer - T-Mass Remix,33ecyF2OHCK4HFUSp1hItE,The Chainsmokers,Closer (Remixes),0.7,0.821,8,-4.338,1,0.0444,0.115,0.0,0.0796,0.608,94.952
+Save Yourself,27i7Afdxq40V7qCqHnRTt6,The Chainsmokers,Sick Boy,0.618,0.871,4,-5.154,0,0.0385,0.000989,0.00921,0.0742,0.0907,146.033
+I Hope You Change Your Mind,5fWBKbbsXFSgCpCQ69YhOi,The Chainsmokers,So Far So Good,0.486,0.73,2,-7.412,1,0.0267,0.0115,1.1e-06,0.126,0.546,184.038
+Cyanide,2h4HvAKEVp9eehdkGb5Jpm,The Chainsmokers,So Far So Good,0.583,0.707,0,-6.303,1,0.0638,0.0181,0.0,0.105,0.279,104.022
+Take Me Home (feat. Bebe Rexha) - The Chainsmokers Remix,1J2t9vScBNspTclqwHNjAO,The Chainsmokers,"Blood, Sweat & 3 Years (Remixes)",0.666,0.743,7,-4.695,1,0.0384,0.0787,0.000556,0.568,0.186,127.963
+Make Me Feel,2i6FWcstV4Ct72L4ORnfwZ,The Chainsmokers,Make Me Feel,0.651,0.986,1,-3.755,1,0.0541,0.0735,0.898,0.271,0.513,123.969
+Who Do You Love - R3HAB Remix,5QkVPG2Hf3MmAarireF6lh,The Chainsmokers,Who Do You Love (R3HAB Remix),0.529,0.698,8,-6.87,1,0.0456,0.2,0.0,0.185,0.357,142.012
+Addicted (ਆਦੀ),7CsARx4aBRnx7r76rPMuuL,The Chainsmokers,Addicted (ਆਦੀ),0.739,0.663,5,-8.286,0,0.04,0.0429,0.0,0.11,0.364,120.061
+Maradona,5D8JdpIbqKKmeQf4FXT614,The Chainsmokers,So Far So Good,0.435,0.653,1,-6.604,1,0.0582,0.0283,0.00279,0.14,0.149,101.019
+Goodness Gracious - The Chainsmokers Extended Remix,0x92a1Q003y7I9uo9sjtkE,The Chainsmokers,Sport,0.574,0.853,1,-2.491,0,0.0388,0.0207,0.000372,0.128,0.247,127.999

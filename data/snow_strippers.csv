@@ -1,0 +1,65 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Sabotage,7pVCgzMqsnh2hggEtpErnv,Snow Strippers,April Mixtape 2,0.533,0.952,11,-5.757,0,0.0354,0.00385,0.0,0.283,0.31,137.03
+Heroes Don't Exist,4CEcy4bOP3v3DQTklHxhXp,Snow Strippers,April Mixtape 2,0.6,0.958,1,-4.988,1,0.148,0.00148,0.25,0.227,0.785,142.995
+Almost A Threat,7wwbhQHNWPO8sopRaaY9dB,Snow Strippers,April Mixtape 2,0.677,0.676,1,-6.185,0,0.144,0.0826,0.0,0.0823,0.723,130.024
+You've Done It This Time,2RtMoeYPLDy8CeTxezhZzL,Snow Strippers,April Mixtape 2,0.437,0.985,11,-5.067,1,0.117,0.033,2.8e-05,0.34,0.386,145.138
+A Little Bit Now,2ahVr4i49IW0LM1ACWx7Ym,Snow Strippers,April Mixtape 2,0.593,0.99,0,-5.602,0,0.055,0.0304,0.953,0.233,0.333,131.979
+My Own Mistakes,48jdqvxgzqlOHNTaZY7GXj,Snow Strippers,April Mixtape 2,0.52,0.958,7,-6.446,0,0.0329,0.251,0.325,0.328,0.538,128.053
+It's A Dream,0FU08bwlUwnHLkONUV4aHy,Snow Strippers,April Mixtape 2,0.685,0.953,1,-4.847,1,0.078,0.0681,0.848,0.0636,0.338,146.073
+Sad World,296eT2gXUYOnwg4eNeR4ME,Snow Strippers,April Mixtape 2,0.616,0.867,6,-4.401,1,0.092,0.0383,0.0,0.387,0.874,140.999
+Already Dead,1BxkjEjc4fkmaf3VTpCbsx,Snow Strippers,April Mixtape 2,0.523,0.952,10,-4.827,0,0.0851,0.0906,0.000675,0.315,0.569,137.06
+Throw Myself,6fKP97AOK2iFKUpLbgSjKT,Snow Strippers,April Mixtape 2,0.5,0.963,7,-4.274,0,0.171,0.00842,4.13e-05,0.133,0.524,142.999
+Don't Make Sense Anymore,6HPDCFueSmLHGBF1s60mBU,Snow Strippers,April Mixtape 2,0.567,0.882,7,-4.969,0,0.133,0.176,0.0218,0.343,0.6,111.956
+You Could Be The One,0rJvdHXHV9xOXAsq8bna7Q,Snow Strippers,April Mixtape 2,0.513,0.985,1,-5.029,1,0.0806,0.229,0.832,0.114,0.841,155.987
+Bang Bang Mess,6YZXgNrf60v0BhvAMcBL7J,Snow Strippers,April Mixtape 2,0.474,0.997,0,-3.85,1,0.122,0.152,7.68e-06,0.176,0.159,149.013
+In My Head,1MIKmAUOndg822y6CzuiHA,Snow Strippers,April Mixtape 2,0.548,0.983,1,-5.135,1,0.159,0.163,1.83e-06,0.401,0.743,142.099
+We Both Suffocate,3cBqLB1xFut1np2r3c0ueO,Snow Strippers,April Mixtape 2,0.491,0.81,10,-3.889,0,0.0323,0.00474,0.000471,0.0939,0.623,120.078
+Hurt So Good,61BRbDVw44CVNMfMvYX3ct,Snow Strippers,April Mixtape 2,0.707,0.906,5,-6.515,0,0.102,0.0559,0.00612,0.1,0.309,120.024
+Know My Name,7JmJp9PARHAgJIo4Fd0kUl,Snow Strippers,The Snow Strippers,0.505,0.897,1,-4.393,1,0.0357,0.144,1.37e-06,0.4,0.342,89.511
+Time Warp Angels,4GseKFKkXBf64JGKtrHtxj,Snow Strippers,The Snow Strippers,0.496,0.866,5,-8.023,0,0.0363,5.34e-05,0.00717,0.172,0.367,129.062
+Keep Holding On,16WlDLBXcTIjoWBw4tGABH,Snow Strippers,The Snow Strippers,0.499,0.837,5,-6.553,0,0.0418,0.000258,0.0,0.285,0.404,145.962
+Every Night,4Fwm0dU6UDAKVbKMkiTVin,Snow Strippers,The Snow Strippers,0.54,0.734,3,-6.73,1,0.0289,0.0111,0.0,0.061,0.776,125.997
+Tragic Surprise,6l29X3RtcndQexIlsHOvuI,Snow Strippers,The Snow Strippers,0.522,0.824,8,-7.633,1,0.0461,0.0864,0.0,0.277,0.763,123.885
+Together,4VlnTVWszjtAXSg9XIX9ia,Snow Strippers,The Snow Strippers,0.502,0.97,5,-3.224,0,0.092,0.000109,0.000735,0.728,0.544,120.009
+Genocide,5rbZZWQoVql2K35mhsUPtI,Snow Strippers,The Snow Strippers,0.598,0.814,0,-7.21,1,0.0466,0.165,2.53e-05,0.165,0.818,119.964
+Fantasy,59WDUxuy4lvvzSGgXRhAu6,Snow Strippers,The Snow Strippers,0.595,0.902,6,-6.321,0,0.0301,0.00933,5.63e-05,0.797,0.198,123.989
+Haunting Me,7zHehwGCfT6befxyOenhgE,Snow Strippers,The Snow Strippers,0.51,0.689,0,-6.792,0,0.0312,0.00386,0.0,0.269,0.463,121.004
+Killing,0HEYZJ6LhqMjeUd3amUjdC,Snow Strippers,The Snow Strippers,0.56,0.918,1,-7.279,0,0.0325,0.000318,0.0,0.131,0.331,120.972
+Hospital Radio,6GvvYHcpbOwG0TueDwbdE7,Snow Strippers,The Snow Strippers,0.481,0.979,0,-4.721,1,0.0861,0.00262,0.0,0.331,0.337,127.054
+Insane Like Me,0I36yk6CpJfrQW1XERR8p3,Snow Strippers,The Snow Strippers,0.117,0.947,0,-5.38,1,0.352,0.000167,0.00265,0.396,0.111,169.35
+Monster,5XSekkMBJgX3NaGoblYPul,Snow Strippers,The Snow Strippers,0.525,0.762,9,-6.781,1,0.0274,0.00181,0.0,0.106,0.296,119.944
+Wont Be Back Again,212qi9aDDRD0tSCnEwpBFf,Snow Strippers,The Snow Strippers,0.512,0.694,6,-5.294,0,0.0286,0.000504,0.0,0.319,0.372,109.918
+All The Time,4xQSKB4sB45F3tKVeCBh2F,Snow Strippers,The Snow Strippers,0.601,0.953,8,-4.528,1,0.0383,0.0136,0.862,0.257,0.64,129.963
+Colliding Walls,1nGvkQ9zz1YeAiWXabTYT1,Snow Strippers,The Snow Strippers,0.589,0.974,6,-6.278,0,0.0373,0.00784,0.00733,0.106,0.276,125.012
+Passionate Highs,6zOiNodZimu0Ol5czdUEaJ,Snow Strippers,The Snow Strippers,0.521,0.944,5,-5.672,0,0.0442,0.00318,0.0,0.657,0.766,115.934
+Anthems,3FQzsNLZWcsGJB9zLtzHVk,Snow Strippers,The Snow Strippers,0.523,0.84,1,-6.323,0,0.0449,0.0031,8.67e-05,0.133,0.852,160.109
+I Know What You Are Thinking,6tFwzKeXWquh85F80ci9kU,Snow Strippers,The Snow Strippers,0.558,0.784,0,-11.432,1,0.0427,0.00503,0.19,0.0715,0.653,120.039
+TV Sex,05enhLq9gJY7SuguIh1YZZ,Snow Strippers,The Snow Strippers,0.582,0.747,1,-8.474,1,0.0613,0.176,0.0609,0.139,0.804,119.906
+Chained Up,4v3LkPH31MOIh2MFp8niuU,Snow Strippers,Night Killaz Vol. 2,0.376,0.905,9,-4.361,1,0.0565,6.12e-05,0.429,0.21,0.326,99.87
+Favorite Lifeline,6rHBKKhVw5pANLuynFxQjp,Snow Strippers,Night Killaz Vol. 2,0.474,0.91,4,-3.182,0,0.0782,0.14,0.0,0.185,0.276,85.589
+So What If I'm A Freak,1QtnG5cri4ZeYQd20bDlCg,Snow Strippers,Night Killaz Vol. 2,0.548,0.948,4,-1.131,0,0.0583,0.0504,0.000249,0.363,0.374,134.043
+Back N Forth,0L4dXJnz7HHnnqtfOoDUbE,Snow Strippers,Night Killaz Vol. 2,0.446,0.968,7,-3.886,0,0.313,0.0952,0.0,0.648,0.552,94.716
+Draw A Heart,52k1yKl2F0RD48jcenwPKn,Snow Strippers,Night Killaz Vol. 2,0.496,0.956,7,-3.144,1,0.0701,0.0165,0.0,0.227,0.24,125.929
+Need To Know,6qMEgI3Q98leMOlFeAKqmW,Snow Strippers,Night Killaz Vol. 2,0.54,0.919,5,-3.956,1,0.0552,0.0174,0.00574,0.356,0.478,104.077
+Throw It Back Away,3hlbMZoeYUllnXVnE9OnLh,Snow Strippers,Night Killaz Vol. 2,0.64,0.944,7,-2.647,1,0.0435,0.161,0.0,0.106,0.684,123.027
+Video Games 2,6OcdE1JNrGx3ONvMbrVds3,Snow Strippers,Night Killaz Vol. 2,0.424,0.969,6,-3.312,1,0.281,0.00424,0.0,0.392,0.63,157.068
+Luctus Mane (Snow Strippers Remix),7DiuKRfZhiuxFZoF54hk3A,Snow Strippers,Luctus Mane (Snow Strippers Remix),0.464,0.965,8,-2.619,0,0.0944,0.0363,0.0,0.0972,0.318,104.002
+Aching Like It's,6N45bcEjjzdXqFRjECG32x,Snow Strippers,Night Killaz Vol. 1,0.654,0.996,11,-1.696,0,0.272,0.567,0.0,0.21,0.67,147.028
+Cautious,0dNLgNa4IiwsiebqEz5UZ5,Snow Strippers,Night Killaz Vol. 1,0.423,0.998,3,-1.315,1,0.467,0.0181,0.0,0.492,0.312,154.926
+Just Your Doll,2VhIrOqGmhSuTKhKG2KCux,Snow Strippers,Night Killaz Vol. 1,0.478,0.819,1,-1.822,1,0.0312,0.0374,0.000125,0.191,0.26,141.109
+Touching Yours,7vTKFevDv6L2gry4PAdDxl,Snow Strippers,Night Killaz Vol. 1,0.497,0.986,6,-1.181,0,0.277,0.0306,0.113,0.51,0.557,148.858
+Just A Hint,7hE0JjXftoo3euDhjwgNIQ,Snow Strippers,Night Killaz Vol. 1,0.642,0.924,5,-2.715,0,0.0584,0.0344,0.0,0.322,0.472,118.068
+Comin Down,3jPx5zrRYIQgp3Llweicyp,Snow Strippers,Night Killaz Vol. 1,0.553,0.986,6,-2.445,0,0.168,0.00839,2.12e-05,0.358,0.632,145.041
+Another High,7r3a3qfIejvsNbzYfASg5t,Snow Strippers,Night Killaz Vol. 1,0.652,0.708,1,-3.373,1,0.0376,0.013,0.0,0.226,0.335,99.042
+Parking Lot (Snow Strippers Remix),16CKInjYkndBYTX8aaZwGr,Snow Strippers,Parking Lot (Snow Strippers Remix),0.805,0.916,4,-7.688,0,0.0806,0.0392,0.00752,0.674,0.771,134.002
+Passionate Highs - Fast,6GCZiQcQmxIWs9IxifGsgM,Snow Strippers,"Fast & Slow, Vol. 1",0.425,0.993,0,-5.134,1,0.0926,0.00247,3.37e-06,0.406,0.831,144.926
+In My Head - Slow,6dNxPNYqYgECooW6Jhsi2N,Snow Strippers,"Fast & Slow, Vol. 1",0.585,0.976,6,-5.353,1,0.179,0.27,5.33e-06,0.369,0.38,125.565
+Hurt So Good - Fast,7DFGtkUt8AMC7k9QmGwa5F,Snow Strippers,"Fast & Slow, Vol. 1",0.651,0.986,8,-5.209,0,0.156,0.0773,9.44e-05,0.337,0.592,140.018
+My Own Mistakes - Slow,7yV3jSgZ1oj4uyQuRx9Spy,Snow Strippers,"Fast & Slow, Vol. 1",0.544,0.936,5,-6.836,0,0.0329,0.303,0.386,0.206,0.439,112.016
+TV Sex - Fast,6sPqMMiSQtcbAJVGAiLmHd,Snow Strippers,"Fast & Slow, Vol. 1",0.53,0.87,4,-7.964,1,0.123,0.271,0.0109,0.32,0.894,145.046
+Know My Name - Slow,71yInHYFCvGokbYQUnim84,Snow Strippers,"Fast & Slow, Vol. 1",0.521,0.913,10,-4.664,1,0.0326,0.163,2.91e-06,0.29,0.53,150.014
+My Wounds,4sQDzmcLTU2WP4SU15Kv8p,Snow Strippers,April Mixtape,0.572,0.874,2,-6.839,0,0.0451,0.142,0.00148,0.821,0.358,127.984
+Private Angels,6rl8joFXaznDTIGeCnO5LR,Snow Strippers,April Mixtape,0.45,0.988,11,-6.185,1,0.108,0.0264,4.41e-06,0.414,0.664,155.96
+Only Way Out,2lL08cAqhlJXPjCakP4LCF,Snow Strippers,April Mixtape,0.487,0.911,6,-5.795,0,0.0693,0.101,0.0,0.311,0.146,120.056
+Drench,4bK0QEJ0lRQfjdrk7ldRnr,Snow Strippers,April Mixtape,0.639,0.89,5,-5.731,0,0.0484,0.272,0.000283,0.101,0.398,145.013
+Simplify,3QlUvdZ3VR41vs9YHApJ3T,Snow Strippers,April Mixtape,0.485,0.972,10,-6.697,0,0.0686,0.00234,1.84e-05,0.429,0.425,141.988

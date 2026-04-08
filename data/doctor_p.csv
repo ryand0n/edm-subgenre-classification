@@ -1,0 +1,85 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Flying Spaghetti Monster,4xR8WarYFHHgQ7S9SyR3Gn,Doctor P,Animal Vegetable Mineral Pt. 1,0.665,0.913,1,-2.301,1,0.0461,0.000148,0.412,0.384,0.439,100.004
+Lions - Doctor P Remix,6exH1RP0wkEQgfHJ3rd2mP,Doctor P,Lions (Doctor P Remix),0.603,0.964,2,-1.987,0,0.123,0.00265,0.23,0.173,0.399,150.125
+Tetris,2MeRaA1Q1Y0bd0JYO4dLCQ,Doctor P,Tetris (Dirt Monkey Remix),0.352,0.948,4,-1.58,0,0.0351,0.000705,0.244,0.0692,0.37,140.084
+Won't Let Go,0SsqHQVCCjnQH4tH3LLEgJ,Doctor P,Won't Let Go,0.583,0.8,5,-3.656,1,0.0412,0.00801,4.03e-05,0.223,0.136,150.012
+Bulletproof,2f3PsWY8hRvA9ESrLQPBei,Doctor P,Animal Vegetable Mineral Pt. 1,0.579,0.861,5,-2.987,0,0.0336,0.00104,0.0645,0.278,0.265,139.973
+Flashback,63ZSvQjMKRnk8Gea15vymN,Doctor P,Doctor P & Flux Pavilion,0.715,0.986,5,-0.79,0,0.053,0.0545,0.0251,0.212,0.475,145.053
+Going Gorillas,71u1D3efaLyqDOWZI6agYe,Doctor P,Going Gorillas,0.527,0.94,10,-1.895,0,0.0453,0.00264,0.509,0.686,0.0913,173.962
+The Pit,5v7DY1Aopsv1aqOmKsIqPw,Doctor P,The Pit,0.62,0.899,1,-2.364,1,0.223,0.00181,0.0,0.0941,0.765,87.54
+Wider,6DuO020f3wHhtCuCtaWRFT,Doctor P,Doctor P & Flux Pavilion,0.649,0.98,1,-1.49,1,0.0631,0.00212,0.168,0.24,0.21,145.04
+Party Drink Smoke,0HOsAMV1IcuQXGe0dJze9J,Doctor P,Party Drink Smoke,0.76,0.843,4,-4.364,1,0.231,0.00208,0.0335,0.224,0.336,74.984
+WDGAF,5Z3kCJv6U3hQ6Ti7ujd8Fj,Doctor P,WDGAF,0.628,0.985,6,-0.695,0,0.0862,0.145,0.221,0.729,0.314,75.005
+Big Boss - Zomboy Remix,0cSLGHLEuJmyBRPgWw7usr,Doctor P,Circus Four,0.455,0.973,5,-2.125,1,0.281,0.00125,0.349,0.152,0.0772,75.05
+The Feeling,7DXRgg3EGIKaH7OwCpOnI7,Doctor P,Circus Four,0.464,0.977,4,-0.951,0,0.0523,0.000239,0.881,0.092,0.231,145.017
+Wasabi,0bm5Knfk6RmT9aluocj1rY,Doctor P,Wasabi,0.456,0.978,11,-2.198,0,0.0404,8.32e-05,0.829,0.355,0.0399,145.024
+Rubber Dub,5ExRGge6pYzTpzxICY0euO,Doctor P,Doctor P & Flux Pavilion,0.499,0.932,8,-3.406,1,0.0422,0.00157,0.0539,0.0842,0.186,72.492
+Fluffy Cowboy,0SHYdo3jV5o6ns9J54bPAS,Doctor P,Fluffy Cowboy,0.388,0.943,11,-3.2,0,0.124,0.00201,0.024,0.269,0.266,145.028
+Feel Good Ltd,17Zx4iKhPhyovKzL1UM1yN,Doctor P,Feel Good Ltd,0.664,0.979,2,-1.373,1,0.0565,0.0436,0.0428,0.12,0.505,144.96
+Galaxies and Stars,6eoexhkdG1RyxSSq8hpud8,Doctor P,Animal Vegetable Mineral Pt. 1,0.622,0.848,3,-2.108,0,0.0361,0.00238,4.29e-06,0.402,0.274,110.044
+Arcade Fire,6oXQKW4cXq2c1HaTycVIlF,Doctor P,Arcade Fire,0.469,0.987,1,-3.371,1,0.154,0.000517,0.349,0.753,0.362,144.886
+The Champagne Böp,5SodulGtVYpE54Pki40MPv,Doctor P,The Champagne Böp,0.461,0.948,2,-1.32,1,0.0412,0.00106,0.000773,0.0418,0.255,70.01
+OD - VIP,6EVLJCD7mlODx8IrnwdJ6V,Doctor P,OD (VIP),0.596,0.98,4,-1.204,1,0.094,0.012,0.0386,0.14,0.213,150.026
+Turbo Time,0HVkrwWYM1zU492p17ykoP,Doctor P,Turbo Time,0.605,0.959,10,-1.935,0,0.0737,0.00218,0.84,0.112,0.56,75.04
+Fuego Con Fuego,2fIPSSLSG1vFX80Gn0UZis,Doctor P,Doctor P & Flux Pavilion,0.799,0.978,2,-2.17,1,0.0622,0.0108,0.00497,0.0577,0.0995,145.003
+Last Ones Standing - Doctor P Remix,7FGvm1cAbiftl1o2rCdPQ7,Doctor P,Last Ones Standing (Remixes),0.542,0.951,7,-3.693,1,0.0501,0.00576,5.36e-05,0.113,0.17,140.052
+Sweet Shop - Shlump Remix,32Sg90bqQR0aaOYDNFuYBU,Doctor P,The Remixes,0.617,0.971,9,-2.425,0,0.0434,0.000484,0.621,0.429,0.245,139.993
+Tetris - Dirt Monkey Remix,3EudaN6oPKU6PZ2ObUEVNV,Doctor P,Tetris (Dirt Monkey Remix),0.596,0.915,6,-3.012,0,0.0489,0.00424,0.0407,0.632,0.403,144.955
+24/7,0ai5YvHe7fjW1siaDf5LDH,Doctor P,Fluxiverse Vol. 1,0.457,0.97,1,-4.622,1,0.0884,0.000381,0.0953,0.111,0.184,144.791
+Way To You,73nYzeai67LuuJSuMfrAiZ,Doctor P,Way To You,0.585,0.928,1,-2.5,1,0.0414,0.057,0.000594,0.37,0.493,145.951
+Rekt Together (Every Single Night),0UzzEsG0OQr6mgePUVgA1I,Doctor P,Rekt Together (Every Single Night),0.504,0.95,4,-1.592,1,0.0518,0.00198,0.0324,0.117,0.568,75.057
+Rekt Together (Every Single Night) - Bebi remix,46y4z4r9qr8VNMRdrUh5hp,Doctor P,The Remixes,0.415,0.927,2,-3.479,1,0.0376,0.17,1.41e-05,0.147,0.417,149.991
+Going Gorillas - Doctor P's Bananas Remix,3Cvr4eW46fRb3QGhfSRmgX,Doctor P,Going Gorillas (Doctor P's Bananas Remix),0.749,0.921,2,-0.792,1,0.0358,0.073,0.0434,0.0792,0.424,100.05
+Keep On Dancing,7bNNfqyoLYULrXqqZfTAns,Doctor P,Animal Vegetable Mineral Pt. 1,0.557,0.86,10,-2.48,0,0.0286,0.000617,0.0139,0.16,0.365,139.996
+Sweet Shop - Hamdi Remix,61aqRPHpqpy3HScBCaBZdJ,Doctor P,Sweet Shop (Hamdi Remix),0.576,0.886,11,-4.11,0,0.0368,0.0341,3.66e-05,0.341,0.422,140.012
+Pen Island,46k7lgwEMV6ZJDRrwqiy8j,Doctor P,Doctor P & Flux Pavilion,0.584,0.966,1,-1.393,1,0.0426,0.00053,0.827,0.126,0.483,145.016
+Without You - Doctor P & Flux Pavilion Remix,7ymMizaXkuzDP7GpwQI6Lg,Doctor P,Without You,0.615,0.992,0,1.314,1,0.045,0.000286,0.0499,0.317,0.389,140.013
+No Escape (Doctor P Remix),54txLD5WxfSvC6H4xXWPIb,Doctor P,No Escape (Doctor P Remix),0.482,0.974,1,-2.66,1,0.0762,9.81e-05,0.267,0.743,0.329,173.988
+Flying Spaghetti Monster - Spag Heddy Remix,6YpcqOHKlcG0MZr7PBviZE,Doctor P,The Remixes,0.578,0.992,1,-1.401,1,0.0849,0.000622,0.00526,0.236,0.718,145.109
+Big Boss - Mark The Beast Remix,20xiatHzepqFaXwJ00k3JO,Doctor P,Big Boss (Mark The Beast Remix),0.513,0.882,1,-4.185,1,0.0833,0.000631,0.568,0.113,0.0663,145.002
+Party Drink Smoke - Cookie Monsta VIP,1PWB5siRoIBU4BML4Wi3o7,Doctor P,Party Drink Smoke (Remixes),0.76,0.919,9,-3.629,1,0.255,0.00276,0.00849,0.124,0.406,75.007
+Yim Yam - Teddy Killerz Remix,1iIIOPWpanzHg1HlSqTEyN,Doctor P,Yim Yam (Teddy Killerz Remix),0.493,0.983,10,-0.743,0,0.14,0.00426,0.142,0.225,0.31,173.963
+Bulletproof - Chime Remix,1cdvSFoCdTpNbAgpEzlh6W,Doctor P,Bulletproof (Chime Remix),0.363,0.74,5,-3.432,0,0.14,0.0327,0.0,0.0776,0.518,150.715
+Something To Believe In,0uNpMa0l0eJH4BvqTNjPwI,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.584,0.961,9,-2.099,1,0.151,0.000295,0.000984,0.313,0.171,145.015
+Big Boss - DirtySnatcha Remix,39skrV6W6l7EmAALa7HL4E,Doctor P,Big Boss (DirtySnatcha Remix),0.656,0.906,10,-2.861,0,0.0495,0.0316,0.559,0.553,0.153,139.953
+Won't Let Go - longstoryshort Remix,0HzEHazFhzeTOehF8YC1b7,Doctor P,Won't Let Go (longstoryshort Remix),0.669,0.622,7,-2.08,0,0.204,0.0327,0.0361,0.0841,0.11,174.029
+Overheater,6uwEoaqltBmsseb8XA0iPT,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.578,0.993,1,-0.267,1,0.393,0.000456,0.0347,0.619,0.346,150.009
+Star - Doctor P Remix,0chkY1L0aKd0b9TtTVXeaJ,Doctor P,Star,0.569,0.973,6,-3.761,0,0.0972,0.00168,0.0371,0.349,0.264,140.055
+Big Boss - Gladez Remix,0NTGIGBV6fpxKXAmTAE9jH,Doctor P,Big Boss (Gladez Remix),0.618,0.994,1,-1.523,1,0.181,0.0484,0.368,0.52,0.606,144.984
+Truth or Consequences,5roD398uJnn5oTn1saXWz6,Doctor P,Truth or Consequences,0.696,0.984,1,-0.493,1,0.062,0.0933,0.791,0.0749,0.553,150.013
+Smoke & Flames,2QDGA9e0rl1dxRoZf4rgrF,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.781,0.921,4,-0.292,1,0.164,0.00328,2.06e-05,0.17,0.348,150.126
+24/7 - DOIL Remix,1q4F806zpPoTeMr9sZ2UFZ,Doctor P,24/7 (Remixes),0.594,0.989,2,-1.586,1,0.0843,0.00381,0.263,0.0724,0.102,144.987
+Fuckers,2oO8fgqVNtCckvKUyFJpDV,Doctor P,Party Drink Smoke,0.55,0.935,8,-3.175,1,0.178,0.00189,0.207,0.314,0.358,69.942
+No Gravity,1DB7f0nDMTvCuiEv5wf7Ny,Doctor P,No Gravity,0.376,0.922,1,-1.096,1,0.0493,0.0874,0.000669,0.0949,0.124,145.178
+Nicotine Baby,1Ds9pHUqjhQRQCeIxsRJAr,Doctor P,Nicotine Baby,0.534,0.937,4,-2.61,0,0.0391,0.000467,0.017,0.22,0.228,149.989
+Love Goes Down - Doctor P Remix,3YxUZz9AOSFduucy7SSJN9,Doctor P,Love Goes Down,0.426,0.874,0,-5.188,0,0.0725,0.00032,0.43,0.397,0.134,89.964
+Water,418CfvmooXbPlfDPB0N1f6,Doctor P,Doctor P & Flux Pavilion,0.627,0.945,7,-2.047,1,0.194,0.00398,0.302,0.699,0.0397,139.928
+Hot Piss,7a3IjU0yPgCfUeT3PGfAlS,Doctor P,Doctor P & Flux Pavilion,0.623,0.946,1,-4.158,1,0.0618,6.79e-05,0.937,0.307,0.427,140.039
+Vegemite,1rEe06vddP5wGwUlANMxZF,Doctor P,Doctor P & Flux Pavilion,0.506,0.995,1,-2.089,1,0.106,0.0195,0.754,0.486,0.438,140.038
+Death Anxiety,78MrvvWvabgw1FOE7unzN2,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.654,0.841,1,-4.49,1,0.156,0.00242,0.162,0.218,0.177,75.281
+The Pit - DONKONG Remix,1zmb7cWqHtu6wlkdE58AQH,Doctor P,The Pit feat. Method Man (DONKONG Remix),0.791,0.847,10,-5.71,0,0.338,0.0143,0.0135,0.381,0.761,159.009
+One Step Beyond,5DfUUFKSRCwiDvvtat0Vti,Doctor P,Doctor P & Flux Pavilion,0.671,0.967,7,-3.179,1,0.0377,0.000606,0.428,0.0912,0.329,149.944
+Voices,0iKQ6leEfKiQ0DVW4eeYat,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.483,0.962,7,-1.825,1,0.0526,0.000276,0.124,0.27,0.524,173.971
+Give It Up,7B1Ayk5Ca4F6I9RwLTmvJc,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.506,0.949,8,-3.461,0,0.0744,0.000406,0.0538,0.115,0.47,146.009
+The Minotaur,1HIcSdOAfA7tc85j5OTb3H,Doctor P,The Minotaur,0.397,0.99,11,-0.949,0,0.349,0.000598,0.637,0.349,0.193,111.985
+Cold Individual,47waogb0WQorMg8C8jDHPm,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.691,0.946,1,-5.212,1,0.0425,0.000769,0.646,0.247,0.143,135.989
+stinkypoopy,1EXCk9dLn8evYJenfoh2dS,Doctor P,stinkypoopy,0.457,0.931,2,-1.076,1,0.0751,0.00479,0.141,0.146,0.14,145.084
+Business - Doctor P Remix,0OjilEICDMZfau3CaPhWJl,Doctor P,Business (Remixes),0.661,0.804,11,-2.023,0,0.0427,0.000755,0.00135,0.443,0.394,149.959
+Air Raid,7dh0PN2JFugPvg0WpSNz4F,Doctor P,Air Raid / Streets Of Rage (Flux Pavilion Remix),0.639,0.868,7,-4.671,0,0.0603,0.000365,0.267,0.0565,0.0589,141.968
+Rasputins Gold,2icWS3sLhQdsnCiZlCsqFh,Doctor P,All Stars EP,0.674,0.926,11,-7.014,0,0.0388,0.0097,0.0176,0.222,0.532,140.002
+Somebody Scream,6llwWdKL4yrJ3gNAZ0OgLX,Doctor P,Somebody Scream,0.478,0.99,11,-1.109,1,0.0853,0.000954,0.857,0.0241,0.683,150.0
+Repetition - LAXX Remix,02z0mwsUvfOXxarnneSk7d,Doctor P,Repetition (LAXX Remix),0.59,0.899,11,-2.665,0,0.201,0.00171,0.000981,0.0397,0.38,149.922
+Alone,5eyuLUCCOov6eTzmdZWdvX,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.587,0.946,2,-2.467,1,0.104,0.00501,0.000327,0.429,0.364,144.985
+Serious Sound,2XBj6HqrVmHUC5R4DHq0w4,Doctor P,Serious Sound / Pizza!,0.668,0.991,1,0.833,1,0.0539,0.00294,0.0245,0.606,0.668,149.951
+Nicotine Baby - Blosso Club Mix,1EbSBkMa9nOhV0G8zEXlCC,Doctor P,Nicotine Baby (Blosso Club Mix),0.552,0.966,4,-2.719,0,0.0621,0.0172,0.00921,0.177,0.433,149.862
+24/7 - Cloud. Remix,7FhAjiDipo6822B8LKrGoD,Doctor P,24/7 (Remixes),0.478,0.702,5,-6.02,0,0.125,0.0834,0.000222,0.0818,0.303,149.94
+Destroyed,0wybJLW4vbN2BOh5PWPx6L,Doctor P,Destroyed,0.631,0.916,2,-0.521,1,0.0835,0.00545,0.11,0.193,0.119,75.016
+Hard as Fuck,3dCTQmS4e6lfhF4PJoUMXI,Doctor P,Hard as Fuck,0.733,0.901,5,-2.832,1,0.357,0.0141,0.000191,0.067,0.473,74.996
+Snakes & Ladders,5Goziwf2Z8rGZxqFkg0e3w,Doctor P,Show Me Love / Snakes & Ladders,0.587,0.992,1,-0.642,1,0.0906,6.53e-05,0.8,0.0677,0.033,75.026
+Business - Mark The Beast Remix,1nn3mkWvekb6ryUlISpWBc,Doctor P,Business (Remixes),0.691,0.959,11,-3.122,0,0.419,0.0165,0.213,0.0564,0.905,149.97
+Going Gorillas - Jessica Audiffred Remix,3kpdjw6jMvFF4mhmfb7qnb,Doctor P,Going Gorillas (Jessica Audiffred Remix),0.648,0.904,7,-5.683,0,0.0645,0.0134,0.451,0.146,0.234,160.009
+Take Me Away,04j6fSEwoHngnD0k9JPa97,Doctor P,Take Me Away,0.577,0.98,10,-2.014,1,0.0373,0.000302,0.156,0.161,0.105,139.989
+Lose Control - Doctor P Remix,4GQOly7FPrSunitfiiGSam,Doctor P,Lose Control feat. Danyka Nadeau (Doctor P Remix),0.519,0.954,4,-1.762,0,0.136,0.0218,0.56,0.204,0.175,149.809
+Business,5RVlgHoL8zIdbvd6NYfsRx,Doctor P,Business,0.708,0.911,2,-3.947,1,0.117,0.0143,0.000597,0.123,0.647,150.002
+Back Where I Started,3LjVJhtf5sffu0eJreZ8rD,Doctor P,"Animal Vegetable Mineral, Pt. 2",0.584,0.972,1,-0.893,1,0.198,0.0104,0.0326,0.0869,0.842,174.01
+The Champagne Böp - Audigy Remix,60tSmVMXpSaSzfjmlZuIFF,Doctor P,The Champagne Böp (Audigy Remix),0.466,0.945,11,-0.205,0,0.237,0.0117,6.93e-06,0.194,0.241,149.579

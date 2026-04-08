@@ -1,0 +1,60 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+I Wanna Be,1JESk0EWqy5rgvienwJH7c,Chris Lorenzo,Honey,0.754,0.717,1,-6.998,0,0.0448,0.317,0.153,0.219,0.348,120.02
+California Dreamin' (feat. High Jinx),4ASOMWcJUrwEpjJy4GEijz,Chris Lorenzo,California Dreamin' (feat. High Jinx),0.685,0.911,9,-4.977,1,0.144,0.00552,0.0247,0.285,0.351,128.02
+Pizza,7f2zGbGUnghatkHLiOSoRf,Chris Lorenzo,Pizza,0.699,0.837,6,-5.159,0,0.0492,0.000676,0.00217,0.0962,0.62,125.987
+Mami - SOSA Remix,3BelLDoNYxRWMJQ8fImu55,Chris Lorenzo,MAMI (SOSA Remix),0.79,0.882,11,-5.313,0,0.0454,0.00893,0.119,0.127,0.865,129.993
+Back Seat - Chris Lorenzo Remix,6ZbJz7FWWa3m5QbTudts8K,Chris Lorenzo,Back Seat (Chris Lorenzo Remix),0.783,0.939,5,-6.577,0,0.0515,0.00272,0.877,0.327,0.797,128.017
+Bongos,02iUOsajHXDI4ncxVT6u27,Chris Lorenzo,Bongos,0.755,0.889,11,-7.629,1,0.0551,0.0716,0.491,0.0913,0.359,125.043
+Here - Chris Lorenzo Remix,43IERoI7NDFaL3BlhTwq6V,Chris Lorenzo,Here (The Remixes),0.847,0.408,2,-6.161,1,0.058,0.0196,0.00013,0.0629,0.527,121.506
+Break The House Down,06Spq2VfQFwngHsRyvnUqA,Chris Lorenzo,Break The House Down,0.851,0.901,11,-4.603,1,0.0818,0.0126,0.669,0.0733,0.766,129.988
+MAMI - AC Slater Remix,3SmRFCZCqbsFUl4yhNDCGW,Chris Lorenzo,MAMI (AC Slater Remix),0.738,0.969,6,-5.049,1,0.0501,0.00458,0.832,0.0787,0.861,128.011
+MAMI - LUCATI Remix,5SJdHBp6KT5dXrOqSQL48W,Chris Lorenzo,MAMI (LUCATI Remix),0.747,0.803,10,-7.125,0,0.0406,0.00249,0.218,0.119,0.197,126.995
+Dope Slinger,6btHNCtTcWuruQy8HNclOF,Chris Lorenzo,Outsiders,0.907,0.633,2,-7.516,1,0.107,0.22,0.142,0.0585,0.146,128.004
+Run,16iHE1uKRvAKd1Mt13udlV,Chris Lorenzo,Substance,0.755,0.809,9,-2.904,1,0.175,0.0152,0.166,0.048,0.471,135.059
+Bota Bota,6btglV5XNwzpOtDmOclBwI,Chris Lorenzo,Bota Bota,0.805,0.731,1,-5.636,0,0.0405,0.118,0.199,0.065,0.681,130.014
+U Should Not Be Doing That,3IRUnD7KOB6rSoEsxBG5oC,Chris Lorenzo,U Should Not Be Doing That,0.809,0.935,1,-6.026,1,0.0527,0.00906,0.0123,0.077,0.802,129.982
+Shrine Banger,3a3YhO3gL4WaiQCkLVAY01,Chris Lorenzo,Shrine Banger,0.787,0.88,10,-5.473,0,0.0717,0.00514,0.131,0.116,0.356,128.047
+Pump (AC Slater Remix),3Vax2tVN84lRW9Xl0DyPjs,Chris Lorenzo,Pump (AC Slater Remix),0.676,0.953,11,-4.312,1,0.0597,0.00274,0.473,0.363,0.314,128.026
+In Da Getto - Chris Lorenzo Remix,3O9BNmxmQ5M02TFGMWptJt,Chris Lorenzo,JOSE (Deluxe Edition),0.847,0.91,8,-3.515,0,0.0569,0.0012,0.000417,0.0619,0.586,127.958
+Pump,37Jh3OXqliOxKjtl1aO49y,Chris Lorenzo,Pump,0.604,0.987,9,-5.666,1,0.0496,0.0229,0.717,0.574,0.549,127.982
+Fly Kicks - Wax Motif Remix,26xlCgHpcF4GE0FFVsS6Oy,Chris Lorenzo,Night Bass Remixed Vol. 1,0.897,0.692,11,-4.985,0,0.0492,0.0187,0.725,0.0603,0.607,125.023
+Gammy Elbow,4R1ucIN3cgWBcHxbeSmgzB,Chris Lorenzo,Gammy Elbow,0.838,0.737,11,-5.094,0,0.155,0.00138,0.897,0.123,0.799,130.024
+Seismic,7pZJ7jGR6skYEkIYpjIE8b,Chris Lorenzo,Seismic,0.508,0.729,10,-6.424,0,0.207,0.0508,0.867,0.161,0.335,128.031
+Flip The Switch,7rBUiBC1mXwNYzn53foDUB,Chris Lorenzo,Flip The Switch,0.827,0.88,9,-3.188,1,0.0411,0.0202,0.685,0.074,0.101,127.015
+WORD - Chris Lorenzo Remix,2JB8ohu4iJ5MlFwHa80zQ4,Chris Lorenzo,WORD (Chris Lorenzo Remix),0.774,0.81,11,-5.999,0,0.0615,0.00104,0.56,0.0699,0.732,124.978
+Giant Mouse,1OV9TWo4CLP8fufwVFjilx,Chris Lorenzo,Undefeated Champions,0.937,0.779,9,-5.296,0,0.238,0.0809,0.0813,0.0301,0.668,127.063
+Rhymes,5QTlj4L7ODIKNnTkhDE16p,Chris Lorenzo,Rhymes,0.895,0.561,5,-7.813,1,0.0766,0.0209,0.00315,0.199,0.678,125.989
+MAMI,6JjSoJ2laV4ZbKNb9nybvh,Chris Lorenzo,MAMI,0.758,0.944,3,-4.901,0,0.0623,0.0308,0.103,0.0438,0.826,126.022
+Concentrate,5oXkfuwL7HieiHzvmWsaGo,Chris Lorenzo,Concentrate,0.851,0.866,6,-5.078,1,0.0532,0.00356,0.415,0.111,0.609,125.994
+Fly With Us,0qOmGg55Xzv8xBBJa1rBEI,Chris Lorenzo,Fly With Us,0.864,0.913,1,-3.094,1,0.0721,0.0323,0.201,0.0901,0.702,128.011
+California Dreamin' (feat. High Jinx) (Cages Remix),22IHvYGLzNZe0w69ereC9D,Chris Lorenzo,California Dreamin' (feat. High Jinx) (Cages Remix),0.725,0.818,1,-5.073,0,0.0558,0.0168,0.182,0.346,0.583,124.999
+Take Me As I Am,5UjccMIJkNhont0TGSU0iD,Chris Lorenzo,None Of Us Are Getting Out Of This Life Alive,0.816,0.879,11,-3.082,0,0.326,0.0488,1.67e-06,0.0494,0.926,88.096
+California Dreamin’ (feat. High Jinx) (Vintage Culture Remix),19lT0l1OBkLtWI5iE5zORl,Chris Lorenzo,California Dreamin’ (feat. High Jinx) (Vintage Culture Remix),0.674,0.778,1,-5.341,1,0.0356,0.00123,0.224,0.0955,0.13,128.042
+California Dreamin' - Vintage Culture Remix,2nj9jdK34mn0nZ4a5F1kVG,Chris Lorenzo,California Dreamin' (Vintage Culture Remix),0.674,0.778,1,-5.341,1,0.0356,0.00123,0.224,0.0955,0.13,128.042
+Pump (1991 Remix),2P9gcR3x8u0QzRAxybo4up,Chris Lorenzo,Pump (1991 Remix),0.53,0.996,8,-2.472,0,0.136,0.0305,0.442,0.0511,0.265,174.013
+Ghosts,3nAYEZFHbgbWyR9ztORqlm,Chris Lorenzo,Ghosts,0.822,0.839,0,-6.216,1,0.0712,0.0855,0.0605,0.126,0.733,134.972
+NEW WIP - Chris Lorenzo Remix,24DQClJOxaAMl1ETu2sqgT,Chris Lorenzo,NEW WIP (Remixes),0.922,0.919,11,-3.457,0,0.0963,0.00692,0.0232,0.0232,0.76,130.001
+Storm (feat. Chris Lorenzo),6Y6fo7BjyFOFUdANzbxCMV,Chris Lorenzo,Storm (feat. Chris Lorenzo),0.725,0.882,10,-7.87,0,0.0648,0.067,0.862,0.183,0.61,124.003
+I Believe,2ey9rkpEY1xSt4RL1DpT9Q,Chris Lorenzo,Together,0.697,0.936,10,-4.592,0,0.0543,0.000629,0.407,0.0645,0.35,127.976
+Pree Me (Chris Lorenzo Remix),6X6LIhmk6XVblq7meVQ4Kn,Chris Lorenzo,Pree Me (Chris Lorenzo Remix),0.869,0.647,8,-8.857,0,0.0472,0.00207,0.819,0.0746,0.434,130.001
+Bad Behaviour,41vCShgrFpdZzK2s0E1W97,Chris Lorenzo,Hi8,0.78,0.969,11,-6.294,1,0.0682,0.0193,0.00741,0.137,0.781,128.007
+Dash,2SypYjOhrp26CCEUKs1qMP,Chris Lorenzo,One Hundred,0.9,0.857,11,-5.175,0,0.229,0.0119,0.486,0.0403,0.891,130.026
+Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Extended Mix,6KNPvi68u8FT44s1hZT02j,Chris Lorenzo,Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix),0.823,0.775,9,-7.088,0,0.108,0.00392,0.091,0.0964,0.3,127.023
+Introspective,0WchJRveRiL9xttkBzYchU,Chris Lorenzo,Introspective,0.595,0.885,9,-5.012,0,0.0578,0.00286,0.00676,0.172,0.189,83.017
+Full of Love,62UaGLT1sKYQhhudWjcAjq,Chris Lorenzo,Full of Love,0.715,0.73,7,-5.378,1,0.0556,0.000656,0.446,0.0738,0.605,127.969
+What I Do / Sleep Talk - Mixed,6gBwGwf9zuwq0JBDnFBJjj,Chris Lorenzo,Defected Radio Episode 070 (hosted by Sam Divine) [Mixed],0.817,0.918,3,-5.347,0,0.156,0.0667,0.0538,0.113,0.785,122.997
+Dash - AC Slater Remix,7M7K5yGxb3HR6qVEDpFVDP,Chris Lorenzo,Night Bass Remixed Vol. 3,0.838,0.903,11,-5.017,1,0.0561,0.0427,0.58,0.0984,0.818,127.991
+Back to the Jungle (feat. Will Clarke) - Chris Lorenzo Remix,0XdhTnf9WeL1Um41pTlauc,Chris Lorenzo,Hello Clouds Remixes,0.638,0.925,0,-7.384,1,0.0635,0.00969,0.717,0.137,0.381,124.012
+Shutdown - VIP,35xR6522rGgnZPGeGVXuKN,Chris Lorenzo,Globes,0.828,0.942,6,-6.154,1,0.172,0.0067,0.263,0.464,0.376,130.032
+Flip The Switch - Drezo Remix,2QQGsJSA4IY83xXOIsTGVJ,Chris Lorenzo,House Party (Remixes),0.919,0.839,5,-4.457,0,0.295,0.0572,0.447,0.177,0.422,127.033
+California Dreamin’ (feat. High Jinx),6yg7HUIF0YCrmApsv2sey3,Chris Lorenzo,California Dreamin’ (feat. High Jinx) (Vintage Culture Remix),0.685,0.911,9,-4.977,1,0.144,0.00542,0.0248,0.286,0.343,128.025
+Fly Kicks,291x5vnuKTNoVG0mmBNQfR,Chris Lorenzo,This is Night Bass: Vol 1,0.882,0.883,11,-6.459,0,0.0609,0.00467,0.684,0.0667,0.852,127.692
+Girls,1cEoDA3PzxWIwyysVjzGPv,Chris Lorenzo,Girls / Breathe,0.801,0.697,6,-8.354,1,0.084,0.0064,0.839,0.18,0.566,125.999
+California Dreamin',0H7OHdqTZaRLhcrAa2qxUv,Chris Lorenzo,EDM Party,0.685,0.911,9,-4.977,1,0.144,0.00552,0.0247,0.285,0.351,128.02
+Ectomorph,2XdegAr0aNuC2WDvU6irgp,Chris Lorenzo,Ectomorph,0.802,0.905,6,-4.886,1,0.0505,0.000387,0.399,0.094,0.554,126.002
+I Was There,3C8L997w1R8N0ncNkDsQKJ,Chris Lorenzo,Deeper,0.753,0.954,8,-7.177,1,0.0461,0.00205,0.888,0.096,0.886,128.023
+Horn Porn,7CwhYjwHGjM2QmDmdVMBWH,Chris Lorenzo,Dead End,0.803,0.82,6,-5.906,1,0.0445,0.00259,0.886,0.0996,0.573,127.02
+Conditioning,57Nou9SJ75aLWDCZIJILWO,Chris Lorenzo,Conditioning,0.745,0.935,10,-1.926,1,0.0377,0.00518,0.195,0.19,0.368,127.956
+Dope Slinger - VIP,1DpBHQi3YMzA3lATIUcHSy,Chris Lorenzo,This is Night Bass Vol. 6,0.946,0.604,1,-6.927,1,0.196,0.122,0.0239,0.0716,0.239,127.998
+Many Girls - Original Mix,4v5mwAKGaf4P3vrVJ0udaO,Chris Lorenzo,Defect (Volume Two),0.801,0.562,1,-6.982,1,0.0963,0.000622,0.392,0.0662,0.45,126.005
+Flacid,6AF93WrJhzXUcZuWq7yDp8,Chris Lorenzo,Bass Inside,0.796,0.858,9,-6.552,1,0.0488,0.000459,0.845,0.0367,0.725,128.003

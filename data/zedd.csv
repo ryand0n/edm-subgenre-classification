@@ -1,0 +1,164 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Out of Time (feat. Bea Miller),05nNwJQSvfjaAmJRcjWJKy,zedd,Telos,0.452,0.618,2,-6.594,0,0.0327,0.0798,0.000328,0.122,0.156,129.917
+Tangerine Rays (feat. Bea Miller),5D5UVZe2jPOiYrmPjjBhNa,zedd,Telos,0.504,0.421,1,-5.532,1,0.0342,0.302,0.00208,0.617,0.271,109.92
+Shanti,6OGlyV2uRCOcluvtswkvd2,zedd,Telos,0.652,0.677,11,-6.57,1,0.0446,0.0729,0.318,0.196,0.167,123.99
+No Gravity (feat. Bava),6r4ual3l2rTXnxp6T8WM1g,zedd,Telos,0.602,0.753,9,-5.931,0,0.029,0.175,0.696,0.202,0.337,101.014
+Sona (feat. the olllam),57B0KiRu388xFAHKYYJWiP,zedd,Telos,0.442,0.825,11,-6.695,0,0.0297,0.0412,0.724,0.747,0.671,90.637
+Lucky (feat. Remi Wolf),6DtU5J0xK0Law03cXT6ar5,zedd,Telos,0.815,0.474,2,-4.077,1,0.0459,0.265,0.0,0.0749,0.72,95.989
+Dream Brother,4wsCp4k8t9y9e3RMzNPHPe,zedd,Telos,0.587,0.833,7,-6.69,1,0.0395,0.0125,0.00703,0.362,0.124,122.045
+Descensus (feat. Dora Jar),37qlyulYbvMAdwFnhw4Czl,zedd,Telos,0.634,0.695,0,-5.748,0,0.0445,0.0152,0.00267,0.225,0.285,122.957
+Automatic Yes (feat. John Mayer),6oAwQp0fXsZObpl5PLl2GN,zedd,Telos,0.687,0.828,2,-5.68,0,0.077,0.0487,0.0301,0.175,0.723,97.836
+1685 (feat. Muse),6vgc41jaY9ed6TbQUp8ccd,zedd,Telos,0.235,0.745,0,-8.281,1,0.0582,0.0776,0.19,0.306,0.2,90.163
+Addicted To A Memory,0xTGfdrWzJLKRD4U6hxSsg,zedd,True Colors,0.663,0.763,1,-4.94,0,0.0437,0.00098,0.0249,0.145,0.0699,128.001
+I Want You To Know,1JDIArrcepzWDTAWXdGYmP,zedd,True Colors,0.579,0.846,9,-2.876,0,0.0574,0.00537,6.88e-06,0.145,0.367,129.999
+Beautiful Now,2ISSQPb9LHHiV6ng2NXosL,zedd,True Colors,0.628,0.832,11,-4.126,0,0.0282,0.0079,1.46e-05,0.074,0.56,128.003
+Transmission,1Bh8jtOXIBIRUUghbrwUTX,zedd,True Colors,0.543,0.874,7,-3.467,0,0.0537,0.105,0.0,0.135,0.408,100.03
+Done With Love,0qlAureWHln3vDCsqnkyRE,zedd,True Colors,0.58,0.759,2,-5.584,0,0.0386,0.0591,0.000143,0.117,0.129,127.877
+True Colors,2KTsF6TFius01SCYmnIkJG,zedd,True Colors,0.623,0.739,2,-4.947,0,0.0342,0.376,1.95e-05,0.0949,0.44,125.952
+Straight Into The Fire,1Aw0wPIW70GsV9KoD8m7Ps,zedd,True Colors,0.583,0.86,8,-4.347,1,0.0839,0.0238,1.33e-06,0.0977,0.288,127.024
+Papercut,62hWYjPL57rbUd5rhvI3Of,zedd,True Colors,0.647,0.921,5,-4.556,0,0.041,0.046,0.00583,0.357,0.242,126.0
+Bumble Bee,0L2tjlCReyNfmL37wZh6kF,zedd,True Colors,0.593,0.964,1,-5.359,1,0.0563,0.00319,0.727,0.113,0.0368,127.957
+Daisy,4ccQmBycgXDYtIA7Z1i32V,zedd,True Colors,0.587,0.598,2,-5.774,1,0.0363,0.124,0.0,0.151,0.2,112.056
+Illusion,3ID8CH6UCMCIhcGg4Yfy4d,zedd,True Colors,0.753,0.725,7,-5.898,1,0.0299,0.253,0.00734,0.115,0.35,128.012
+Hourglass,6NwrXtcFbc8OX7wJyBqE89,zedd,Clarity,0.646,0.832,8,-5.008,1,0.0778,0.0319,0.00147,0.0947,0.0468,127.025
+Shave It Up,4mtCNSfEwcwvm9iLG1bADY,zedd,Clarity,0.539,0.965,5,-4.213,0,0.0379,0.000176,0.83,0.334,0.293,129.942
+Spectrum,1dFkD1JfRMzwO6hwUsE8aS,zedd,Clarity,0.609,0.801,0,-4.417,0,0.034,0.0137,0.00349,0.127,0.407,129.99
+Lost At Sea,3Gwq0zKnMWluOEPKh93BeC,zedd,Clarity,0.567,0.796,6,-3.534,1,0.0364,0.0247,0.0,0.124,0.305,127.983
+Clarity,60wwxj6Dd9NJlirf84wr2c,zedd,Clarity,0.509,0.781,8,-3.48,1,0.072,0.0398,0.0,0.0749,0.176,128.0
+Codec,25erct5EXEr421xrRI6eOW,zedd,Clarity,0.755,0.74,7,-4.928,1,0.0468,0.00287,0.355,0.0762,0.506,128.009
+Stache,0HSLQNyOkBZupUBurCHZdC,zedd,Clarity,0.572,0.921,7,-4.219,0,0.12,0.00122,0.564,0.315,0.371,127.976
+Fall Into The Sky,6xzCQrXrn0uOOKBQZK1zsF,zedd,Clarity,0.656,0.956,7,-3.635,1,0.0699,0.0362,0.0384,0.138,0.54,128.001
+Follow You Down,2VtX9viww814jnWFERUhAS,zedd,Clarity,0.688,0.694,9,-5.335,0,0.0451,0.00792,0.0117,0.365,0.576,128.009
+Epos,2XtiJWLCPzR9AyUKMEgu3a,zedd,Clarity,0.505,0.629,8,-6.404,1,0.0674,0.000186,0.758,0.0541,0.382,127.993
+NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Full Length),5Agpy9NpA42diOdIoSoJsJ,zedd,NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Full Length),0.523,0.851,5,-5.339,1,0.0451,0.0207,0.0,0.18,0.501,131.906
+NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Anime ver.),7BQT0ocIntZfVxUTKymQJ6,zedd,NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Full Length),0.545,0.812,5,-3.807,1,0.0618,0.035,0.0,0.251,0.686,131.907
+NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme – Instrumental ver.),0YbIN90ByEdBUvkS0ukitM,zedd,NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Full Length),0.593,0.801,2,-6.343,0,0.0376,0.000322,0.218,0.158,0.323,131.963
+Jaka Jaan feat. C&K (Dragon Ball DAIMA Opening Theme - Full Length),1aC2oUiR4Ans2kQp84zvaO,zedd,Jaka Jaan feat. C&K (Dragon Ball DAIMA Opening Theme - Full Length),0.505,0.892,4,-4.302,0,0.0604,0.00889,0.0,0.326,0.38,130.048
+Jaka Jaan feat. C&K (Dragon Ball DAIMA Opening Theme - Anime ver.),3jKnnvhvaV1hSVABtBrHfN,zedd,Jaka Jaan feat. C&K (Dragon Ball DAIMA Opening Theme - Full Length),0.514,0.856,4,-4.154,0,0.063,0.0119,0.0,0.273,0.682,129.979
+Jaka Jaan feat. C&K (Dragon Ball DAIMA Opening Theme - Instrumental ver.),7k15zhjw7HPP1fME4VGrYF,zedd,Jaka Jaan feat. C&K (Dragon Ball DAIMA Opening Theme - Full Length),0.496,0.839,2,-5.833,1,0.0378,0.000116,0.906,0.309,0.416,130.044
+Out of Time (feat. Bea Miller) - Instrumental,4AcULQdtXsUo3JurtPIC9J,zedd,Out of Time (feat. Bea Miller),0.485,0.578,2,-7.929,0,0.0301,0.0152,0.821,0.0984,0.134,129.952
+Out of Time (feat. Bea Miller) - Acapella,3wsNqj1KIqP1blfPKkEziY,zedd,Out of Time (feat. Bea Miller),0.624,0.157,7,-10.511,1,0.0445,0.917,0.0,0.153,0.32,129.874
+Tangerine Rays (feat. Bea Miller) - Instrumental,452AlmTgdt5oQfIoiC84SO,zedd,Tangerine Rays (feat. Bea Miller),0.655,0.444,1,-7.489,1,0.037,0.321,0.824,0.164,0.251,109.984
+Tangerine Rays (feat. Bea Miller) - Acapella,66zqrFWKWDNTXjC4Vg4a9J,zedd,Tangerine Rays (feat. Bea Miller),0.487,0.169,5,-8.355,0,0.053,0.891,0.0,0.0602,0.4,97.424
+Shanti - Instrumental,3UqkTOTf6tGe1BKZz3aoHo,zedd,Shanti,0.686,0.668,1,-7.386,0,0.0438,0.0641,0.853,0.107,0.0956,124.029
+Shanti - Acapella,1m7KKtDAwFmdOEAMF4c4s4,zedd,Shanti,0.426,0.428,4,-9.901,1,0.378,0.734,0.00169,0.323,0.559,83.269
+No Gravity (feat. Bava) - Instrumental,5wWC4JnEDpPB2eguOAS1j8,zedd,No Gravity (feat. Bava),0.705,0.796,9,-7.11,0,0.0331,0.14,0.841,0.108,0.322,101.013
+No Gravity (feat. Bava) - Acapella,5cdcYz8FOkvHfd8srk98ek,zedd,No Gravity (feat. Bava),0.523,0.152,9,-11.21,0,0.0722,0.803,1.97e-05,0.104,0.653,101.056
+Lucky (feat. Remi Wolf) - Instrumental,25LYfosNRscWLJCBLdr9e6,zedd,Lucky (feat. Remi Wolf),0.836,0.494,2,-6.796,1,0.0605,0.128,0.769,0.102,0.265,95.995
+Lucky (feat. Remi Wolf) - Acapella,43r3Hdp8eLoeq4w0yDeVR7,zedd,Lucky (feat. Remi Wolf),0.826,0.0695,9,-7.384,1,0.048,0.567,0.0,0.213,0.879,95.85
+Dream Brother - Instrumental,0AQkPDsU2EEPF1IwlR0rqX,zedd,Dream Brother,0.626,0.877,7,-7.44,1,0.0362,0.00311,0.826,0.0812,0.17,122.009
+Descensus (feat. Dora Jar) - Instrumental,4yjj11KwOLAKvYD3Vt9OE7,zedd,Descensus (feat. Dora Jar),0.627,0.716,5,-6.812,0,0.0375,0.00896,0.803,0.168,0.181,123.038
+Descensus (feat. Dora Jar) - Acapella,3fNl2n5rQPYcRGxSeHCao1,zedd,Descensus (feat. Dora Jar),0.297,0.262,0,-8.783,0,0.141,0.834,0.0,0.0938,0.312,212.301
+Automatic Yes (feat. John Mayer) - Instrumental,1doR03RqOoSqbTRIkIMuee,zedd,Automatic Yes (feat. John Mayer),0.766,0.694,2,-6.985,1,0.0608,0.055,0.939,0.13,0.651,97.986
+Automatic Yes (feat. John Mayer) - Acapella,3eK9nXHcztZUSTLme8vOJu,zedd,Automatic Yes (feat. John Mayer),0.834,0.462,5,-8.439,1,0.9,0.541,0.0,0.294,0.313,129.909
+1685 (feat. Muse) - Instrumental,1k7OG4HzrmLyXy76yWw6Qz,zedd,1685 (feat. Muse),0.326,0.764,0,-8.148,1,0.0431,0.0486,0.738,0.302,0.315,126.017
+1685 (feat. Muse) - Acapella,057OkrnHFZcqdroBEiYDTz,zedd,1685 (feat. Muse),0.255,0.47,0,-10.055,1,0.0583,0.906,0.0,0.369,0.0918,141.601
+Make You Say - ellis Remix,67Y5TUpVRkdEqnnhpXUTp1,zedd,Make You Say (ellis Remix),0.478,0.82,1,-4.292,1,0.113,0.0967,0.00788,0.0749,0.69,128.364
+Where You Are - Zedd Remix,6hI3PnULFXwkOQSHLHNfOO,zedd,Where You Are (Zedd Remix),0.547,0.616,9,-6.451,0,0.043,0.0396,0.000144,0.13,0.0661,129.979
+Where You Are,5pSUxTYDsOoGhzyCW4aXCL,zedd,Where You Are (Zedd Remix),0.567,0.83,9,-6.402,0,0.0349,0.00879,0.0105,0.529,0.0726,126.04
+Make You Say,1elhmWW7Bv0MOQj2gAsyoV,zedd,Make You Say,0.687,0.61,8,-4.713,0,0.0499,0.351,0.0,0.175,0.649,128.15
+Follow,5aXTfpNOqLj35ydEiLio67,zedd,Follow,0.588,0.78,11,-6.102,0,0.0432,0.0333,0.193,0.0728,0.201,127.085
+Inside Out (feat. Griff) - Maliboux Remix,3GOLdvGmGfJ64R0meSCVD5,zedd,Inside Out (feat. Griff) [Remixes],0.872,0.533,0,-4.406,1,0.204,0.524,6.86e-05,0.298,0.704,124.029
+Inside Out (feat. Griff) - 3SCAPE DRM Remix,30fFoEhZX88S4p0mhcxJXb,zedd,Inside Out (feat. Griff) [Remixes],0.6,0.802,11,-6.51,0,0.0366,0.00773,2.62e-05,0.215,0.153,152.916
+Inside Out (feat. Griff) - Dominuscreed Remix,0O1ZvJ97FcnDZxqqi8njkU,zedd,Inside Out (feat. Griff) [Remixes],0.661,0.743,4,-7.951,0,0.0471,0.476,0.000423,0.18,0.676,155.024
+Inside Out (feat. Griff),6IiCb4PCrDgqLuDWgHhFi7,zedd,Inside Out (feat. Griff),0.64,0.683,2,-4.309,1,0.0434,0.169,0.0,0.109,0.4,146.058
+Funny - Breathe Carolina Remix,5qFxwk3aRCzq0U8HKLfWRB,zedd,Funny (Remixes),0.658,0.805,5,-5.522,1,0.0438,0.509,0.0,0.147,0.296,114.917
+Funny - Marc Benjamin Remix,2dAZeZ4j5W5YPnOA5pCd6L,zedd,Funny (Remixes),0.658,0.764,2,-4.984,0,0.0355,0.00687,4.8e-05,0.371,0.23,124.078
+Funny - Ellis Remix,4G1TF5lAQFhAJ6KjduKC0g,zedd,Funny (Remixes),0.718,0.669,0,-4.805,1,0.0505,0.104,0.0,0.575,0.597,113.937
+Funny,7lOXRCqbGVMQjd0autdlA3,zedd,Funny (Remixes),0.664,0.66,5,-4.646,1,0.0243,0.512,0.0,0.26,0.355,99.946
+Funny - Stripped,3Y7OKgEqnFTAH61TSHBpyo,zedd,Funny (Stripped),0.659,0.439,5,-4.18,1,0.0257,0.886,0.0,0.124,0.266,99.948
+Good Thing (feat. Kehlani) - Osrin Remix,4wiCv6q3xqtiaRsQ5sOTSc,zedd,Good Thing (with Kehlani) [Remixes],0.725,0.689,1,-6.915,0,0.356,0.29,1.69e-05,0.0815,0.567,185.863
+Good Thing (feat. Kehlani) - Marc Benjamin Remix,1IdnTCh4GlzkjoceN6LVpQ,zedd,Good Thing (with Kehlani) [Remixes],0.615,0.802,1,-7.565,0,0.0832,0.067,0.00308,0.192,0.191,127.937
+Good Thing (feat. Kehlani) - Grant Remix,3d7W9cysz9P6RpmuNkDnnb,zedd,Good Thing (with Kehlani) [Remixes],0.778,0.695,1,-5.696,0,0.0377,0.0645,4.03e-05,0.195,0.353,105.026
+Good Thing (feat. Kehlani) - Soulji Remix,0DMq8xPRJGcVLTjffpLdAd,zedd,Good Thing (with Kehlani) [Remixes],0.635,0.631,8,-8.426,0,0.0294,0.0185,7.52e-05,0.261,0.501,99.91
+Good Thing (with Kehlani) - LIVE,3Az17YYYgTLN4k4KcBazcy,zedd,Good Thing (with Kehlani) [LIVE],0.565,0.653,1,-3.319,0,0.0607,0.477,0.0,0.0552,0.613,185.861
+Good Thing (with Kehlani),5aUSEPNd3m5xliFK4pn5mU,zedd,Good Thing (with Kehlani),0.693,0.564,1,-3.857,0,0.0378,0.399,0.0,0.0409,0.574,185.913
+365 - Zedd Remix,0ywzvARVqoxQOJpaswRe9E,zedd,365 (Remixes),0.784,0.595,2,-6.816,1,0.0413,0.00476,0.00727,0.059,0.183,124.019
+365 - Jonas Aden Remix,70gUpEnhuX4OxklDsYewHY,zedd,365 (Remixes),0.74,0.802,2,-3.967,1,0.0531,0.0112,0.000385,0.187,0.502,123.987
+365 - Ellis Remix,25hzDByizJNuGTRChXMkFj,zedd,365 (Remixes),0.77,0.798,2,-3.327,0,0.0492,0.165,1.35e-06,0.13,0.518,112.033
+365 - KUURO Remix,1yUSziR5DTtZgcxWcJLD2w,zedd,365 (Remixes),0.767,0.876,2,-3.072,1,0.0514,0.0114,8.91e-05,0.356,0.38,125.994
+365,2XWjPtKdi5sucFYtVav07d,zedd,365,0.745,0.693,2,-5.479,0,0.034,0.339,0.0,0.123,0.248,98.039
+Lost In Japan - Remix,575NJxNUVDqwJGdzBrlLbv,zedd,Lost In Japan (Remix),0.706,0.855,10,-5.378,1,0.221,0.0898,0.0,0.347,0.299,107.184
+Happy Now - Marc Benjamin Remix,73V0nE9PTpQ65goZTqv10O,zedd,Happy Now (Remixes),0.672,0.778,1,-4.794,0,0.0916,0.0446,0.000866,0.0753,0.38,161.956
+Happy Now - BEAUZ Remix,6gd1yNyevcirDWXelk2mfN,zedd,Happy Now (Remixes),0.374,0.882,1,-2.785,0,0.221,0.116,0.0,0.264,0.494,161.942
+Happy Now - Duke & Jones Remix,7ir8cXuMAfXx9BCYkvYCz0,zedd,Happy Now (Remixes),0.799,0.52,1,-5.044,1,0.17,0.153,0.000626,0.268,0.334,161.968
+Happy Now - MXXWLL Remix,6MXCDy1exjgkHYqfi5NPrp,zedd,Happy Now (Remixes),0.539,0.597,2,-8.421,1,0.307,0.431,0.000911,0.386,0.297,110.897
+Happy Now - Magnificence Remix,7zo2yUMOvN79VL9vATbMPq,zedd,Happy Now (Remixes),0.779,0.818,11,-5.37,0,0.0637,0.00432,0.631,0.0517,0.176,124.966
+Happy Now - Acoustic,6cWpGXt8X3WqHYnnDeNiKV,zedd,Happy Now (Acoustic),0.625,0.33,4,-6.908,1,0.067,0.895,0.0,0.121,0.548,161.259
+Happy Now,3tuXF7elhg9PKuPq88vxM8,zedd,Happy Now (Acoustic),0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335
+The Middle,09IStsImFySgyp0pIQdqAc,zedd,The Middle,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01
+Get Low (with Liam Payne) - Kuuro Remix,3DByIjDCubaaMzBARet2wW,zedd,Get Low (with Liam Payne) [KUURO Remix],0.743,0.948,1,-2.915,1,0.0468,0.00256,0.00144,0.105,0.587,127.972
+Get Low (with Liam Payne),2syQ0f4SAQdzvlAewPl1DJ,zedd,Get Low (with Liam Payne),0.718,0.926,1,-3.511,1,0.0494,0.027,1.76e-05,0.0513,0.54,108.018
+Stay - Acoustic,1EXxVBTTTzjgon6hWh3TuD,zedd,Stay (Acoustic),0.625,0.574,5,-7.383,0,0.028,0.094,0.0,0.298,0.294,100.06
+Stay - Petit Biscuit Remix,3EV0Eo3m7nd74rXuSIi08s,zedd,Stay (Remixes),0.753,0.579,9,-6.253,1,0.127,0.38,0.0,0.176,0.334,105.054
+Stay - The Kemist Remix,5qb5VSvQVAjYi2BgL9aUHK,zedd,Stay (Remixes),0.472,0.844,8,-4.014,1,0.346,0.00677,2.12e-06,0.133,0.612,139.34
+Stay - Jonas Blue Remix,3qwQ3PEudWSXRaWbsJUUx5,zedd,Stay (Remixes),0.763,0.846,5,-4.545,0,0.0468,0.0096,0.00803,0.0403,0.564,125.009
+Stay - Lophiile Remix,5CYAoFTUYmujB0vn9yzxOW,zedd,Stay (Remixes),0.472,0.487,5,-7.686,0,0.441,0.257,0.0,0.13,0.386,75.577
+Stay - Yasutaka Nakata Remix,3I2gTrQMzIjk9jKVD6qEjT,zedd,Stay (Remixes),0.68,0.822,5,-2.709,0,0.0461,0.0194,2.96e-05,0.631,0.642,127.993
+Stay - Tritonal Remix,21p7UJDFT2SUgwv08cNn5y,zedd,Stay (Remixes),0.654,0.737,5,-4.682,0,0.048,0.126,0.0,0.16,0.454,102.008
+Stay,6uBhi9gBXWjanegOb2Phh0,zedd,Stay,0.69,0.622,5,-5.025,0,0.0622,0.253,0.0,0.116,0.544,102.04
+Let Me Love You - Zedd Remix,7xufmkFUZoSjX1mxWupnKY,zedd,Let Me Love You (Zedd Remix),0.719,0.852,10,-4.244,0,0.0522,0.00976,0.00569,0.084,0.262,117.032
+Papercut - Grey Remix,1lp42TzlLxvqnubUzoMnpM,zedd,Papercut (Grey Remix),0.567,0.805,1,-3.247,0,0.0783,0.0549,3.73e-05,0.13,0.654,139.951
+I Want You To Know - Lophiile Remix,2oduaICRXEXfcl3qIKUdkn,zedd,I Want You To Know (Lophiile Remix),0.608,0.87,11,-5.406,0,0.058,0.18,0.00844,0.302,0.681,149.972
+Beautiful Now - Lophiile Remix,0OUFnkjHLmuC2HV3IFI7Cm,zedd,Beautiful Now (Lophiile Remix),0.658,0.835,11,-5.168,0,0.0956,0.128,0.000121,0.35,0.604,154.065
+Ignite - 2016 League Of Legends World Championship,39rqDP2s2hN1JtXptyeM3u,zedd,Ignite (2016 League Of Legends World Championship),0.723,0.741,5,-4.442,0,0.0344,0.0714,3.17e-05,0.0796,0.387,127.967
+Adrenaline,2pi3gRZ7K1Tf9YSyHYqPJT,zedd,Adrenaline,0.659,0.987,11,-2.815,0,0.0468,0.0548,0.657,0.0453,0.434,127.996
+Starving,4Ce37cRWvM1vIGGynKcs22,zedd,Starving,0.728,0.616,4,-4.238,1,0.0645,0.378,0.0,0.105,0.508,99.962
+Candyman,0NWQTyapmz4GuDTSN9xTB7,zedd,Candyman,0.572,0.864,2,-4.098,0,0.0477,0.0215,0.0,0.375,0.26,149.945
+Beautiful Now - Rock Mafia Remix,5bfpZBEWw50zOkmoxuqMNU,zedd,Beautiful Now (Rock Mafia Remix),0.687,0.737,11,-6.16,0,0.0269,0.017,0.0,0.303,0.587,117.025
+Beautiful Now - Grey Remix,3cfuTXCcN6BqTBpsUHsqVP,zedd,Beautiful Now (Grey Remix),0.566,0.833,10,-3.835,0,0.0504,0.0066,0.0,0.151,0.306,134.796
+Beautiful Now - Big Gigantic Remix,4Ymhs8dGZ71HjATpq0G0mB,zedd,Beautiful Now (Big Gigantic Remix),0.603,0.982,11,-4.082,0,0.0767,0.0012,0.496,0.101,0.738,147.962
+Bumble Bee - Extended Mix,7kRsMslv1W2TZQCGB2nWow,zedd,Bumble Bee (Extended Mix),0.606,0.949,0,-4.963,1,0.0537,0.00188,0.693,0.14,0.0397,127.978
+Beautiful Now - Zonderling Remix,3zVVMv09YkEZBsSkY795kE,zedd,Beautiful Now (Remixes),0.862,0.878,11,-2.512,0,0.188,0.00416,0.00161,0.0588,0.603,127.987
+Beautiful Now - KDrew Remix,2N6le1A7ktlbpYySt0LOW6,zedd,Beautiful Now (Remixes),0.515,0.712,11,-5.055,0,0.0544,0.131,0.0,0.103,0.528,140.106
+Beautiful Now - Dirty South Remix,51tGeVhhW7S3HCXMaZSUzK,zedd,Beautiful Now (Remixes),0.511,0.974,11,-3.254,0,0.0674,0.00634,0.0013,0.334,0.129,128.003
+Beautiful Now - Charlie Darker Remix,2wyODll1B2qkXFHVVLujcC,zedd,Beautiful Now (Remixes),0.644,0.98,11,-3.471,0,0.0637,0.00111,0.0588,0.0664,0.253,127.997
+Beautiful Now - Extended Mix,6FrdMPZP7zeaG49gQ3qsdp,zedd,Beautiful Now (Extended Mix),0.629,0.868,11,-3.652,0,0.0288,0.0012,0.0007,0.291,0.604,128.014
+Find You - Kevin Drew Remix,2TG70t1GoOA8FekuAZBfXL,zedd,Find You (Remixes),0.552,0.85,8,-4.783,1,0.0527,0.000538,0.0019,0.144,0.14,128.029
+Find You - Dash Berlin Remix,7cBxYh0ZrRLGrq84gRSGAR,zedd,Find You (Remixes),0.674,0.876,0,-3.866,0,0.0856,0.134,0.00651,0.117,0.134,127.938
+Find You - Tritonal Remix,1X3vx6ichKxWR1j1VY0p6D,zedd,Find You (Remixes),0.551,0.871,3,-4.813,1,0.0357,0.00405,0.107,0.123,0.203,128.048
+Find You - Froxic Remix,3mgvtETJvbfPIBkp7H432s,zedd,Find You (Remixes),0.829,0.512,0,-6.801,0,0.102,0.000868,0.0121,0.064,0.544,129.01
+Find You - Syn Cole Remix,0V2smogtJfChIAjkQogYNz,zedd,Find You (Remixes),0.718,0.855,0,-3.174,0,0.0745,0.0139,0.00404,0.321,0.145,127.998
+Find You - Mike Hawkins Remix,0iyA0SSX89XFXFSTZidJzg,zedd,Find You (Remixes),0.592,0.929,5,-3.345,1,0.061,0.00146,0.12,0.0231,0.373,127.997
+Find You - Acoustic - Live In Los Angeles,1CnOUJzM9F5JHUVepMQ2Dt,zedd,Find You (Acoustic - Live In Los Angeles),0.52,0.448,1,-4.782,1,0.0305,0.757,0.0,0.092,0.283,122.182
+Clarity - Zedd Union Mix,2Nf0RbvVIKcL0SbEziqArb,zedd,Clarity (Remixes),0.549,0.449,8,-8.159,1,0.0289,0.615,0.0,0.327,0.296,127.823
+Clarity - Tiesto Remix,00ZRyybLZ2o4fdqZe8GETe,zedd,Clarity (Remixes),0.622,0.941,5,-4.179,0,0.0383,0.00243,0.00368,0.377,0.417,128.0
+Clarity - Style Of Eye Remix,6x3Np2P5FlWCiGatBERPKG,zedd,Clarity (Remixes),0.624,0.651,5,-7.462,0,0.0548,0.126,0.00187,0.105,0.18,127.936
+Clarity - Brillz Remix,1vwvwT2NxGIc4O3pDQ0tUN,zedd,Clarity (Remixes),0.664,0.872,5,-6.996,0,0.053,0.0157,0.0062,0.184,0.336,139.98
+Stay the Night (feat. Hayley Williams of Paramore) - Zedd & Kevin Drew Extended Remix,5eSxbHpJN0AbsL4iWyVLnz,zedd,Stay the Night (feat. Hayley Williams of Paramore) [Zedd & Kevin Drew Extended Remix],0.602,0.948,1,-2.811,1,0.246,0.00446,6.14e-06,0.173,0.374,128.045
+Stars Come Out - John Dahlbäck Remix,0vqpOaQeiMpDkpGVkfkokC,zedd,Stars Come Out (Remixes),0.856,0.903,7,-4.148,1,0.176,0.00345,0.235,0.359,0.218,128.021
+Stars Come Out - Lazy Rich Remix,2brgDPku8DwlgddM225bf5,zedd,Stars Come Out (Remixes),0.818,0.792,0,-3.479,1,0.133,0.00542,0.195,0.0632,0.473,127.982
+Stars Come Out - Terravita Remix,2KGWON5M7fSCT8ioQAWw5f,zedd,Stars Come Out (Remixes),0.632,0.871,5,-4.731,0,0.047,0.000569,0.00135,0.107,0.464,139.967
+Stars Come Out - Tim Mason Remix,17xVWeUVe0HipnKM8Ukf4a,zedd,Stars Come Out (Remixes),0.517,0.881,8,-6.332,1,0.106,0.000738,0.00626,0.0695,0.039,128.011
+Spectrum - Extended Mix,4xvoF4CaBK2SXrq40KqPdx,zedd,Spectrum EP,0.689,0.723,0,-4.661,0,0.0459,0.00459,0.212,0.171,0.357,129.991
+Spectrum - Armin Van Buuren Remix,2dxQ1qIFDkfbyBI82A56lQ,zedd,Spectrum EP,0.676,0.711,0,-8.086,0,0.0545,0.0011,0.515,0.0895,0.325,129.978
+Spectrum - A-Trak & Clockwork Remix,6ns0pt8J6ueMREOg0H9RWt,zedd,Spectrum EP,0.782,0.757,0,-3.856,0,0.258,0.033,0.243,0.261,0.701,130.016
+Spectrum - Arty Remix,4PVdF7k8WkaVH7f22wmhQI,zedd,Spectrum EP,0.53,0.868,3,-3.435,1,0.0838,0.000396,0.000636,0.361,0.124,130.005
+Spectrum - Deniz Koyu Remix,0JOYMuOnF6WhjOqnlV9jua,zedd,Spectrum EP,0.575,0.977,5,-4.17,0,0.0566,0.0513,0.263,0.366,0.174,127.967
+Spectrum - Gregori Klosman & Tristan Garner Knights Remix,2J2UfneGqN475Dad946EWz,zedd,Spectrum EP,0.64,0.735,10,-6.155,0,0.0988,0.00423,0.588,0.0592,0.266,130.056
+Spectrum - Congorock Remix,2oLHyxDWJVLrWXmgQBt538,zedd,Spectrum EP,0.781,0.942,0,-3.33,0,0.21,0.159,0.0122,0.104,0.516,129.992
+Spectrum - Monsta Remix,22f54jei4HP1sirnyhF5MO,zedd,Spectrum EP,0.495,0.826,3,-5.028,0,0.046,0.000605,0.0557,0.386,0.0929,139.971
+Spectrum - Acoustic Version,23meR9hk6hYjvMJjExeYE1,zedd,Spectrum EP,0.412,0.266,3,-8.537,1,0.0327,0.821,0.0,0.105,0.177,120.363
+Human,3dSihH19Wvud0OrRMQUtzI,zedd,Spectrum EP,0.667,0.904,7,-4.934,1,0.107,0.000536,0.283,0.26,0.242,127.978
+Stars Come Out - Dillon Francis Remix,5t8xDYqg6FKo6n7dfTWfZo,zedd,Stars Come Out (Dillon Francis Remix),0.698,0.83,5,-4.479,0,0.111,0.000958,0.000504,0.59,0.479,112.026
+Shotgun,6JZG8usrdyCDjxwLpER0x9,zedd,Shotgun,0.8,0.462,9,-6.527,1,0.0625,0.000359,0.76,0.17,0.453,128.009
+Stars Come Out,6MVsaRyt20LvSlTRWvsEqQ,zedd,Stars Come Out,0.881,0.718,5,-3.653,0,0.137,0.00281,0.00041,0.0215,0.697,127.983
+The Anthem - Original Mix,27VXDja1mOpZ1LSKbpWaMR,zedd,The Anthem,0.878,0.673,0,-5.345,0,0.127,0.000226,0.448,0.0684,0.147,128.008
+The Anthem - Lucky Date Remix,2ACiRmjcqYQTCY8vESpC5D,zedd,The Anthem,0.619,0.651,0,-5.604,1,0.352,8.07e-05,0.774,0.0669,0.426,127.998
+The Anthem - Yenn Remix,04mpzrUkpbBPaDKQnMnT29,zedd,The Anthem,0.78,0.782,7,-5.424,1,0.145,0.00261,0.866,0.0573,0.293,127.973
+Dovregubben,2MRHcP7rYdHWmOGGUWIBVp,zedd,Dovregubben,0.898,0.788,7,-3.7,1,0.148,0.000406,0.509,0.0376,0.171,128.023
+The Legend of Zelda - Club Mix,7M3E3patpaJZ5nwOtn9WPy,zedd,The Legend Of Zelda,0.78,0.763,6,-3.908,1,0.0631,0.00425,0.614,0.651,0.351,128.018
+The Legend of Zelda - Electrixx Remix,33ItnrcNAhrdL89548qNU5,zedd,The Legend Of Zelda,0.686,0.835,3,-6.064,1,0.0478,0.00485,0.2,0.054,0.429,127.996
+Autonomy,7AdnWst2HJjNHPx60D6rl7,zedd,ZEDD - Autonomy,0.88,0.779,11,-4.364,0,0.332,0.00045,0.728,0.278,0.59,128.011
+Autonomy - Lucky Date Mix,5xEfQNVgnogw3eGSVefySA,zedd,ZEDD - Autonomy,0.785,0.848,7,-4.963,1,0.0743,0.000519,0.558,0.0944,0.256,127.984
+Autonomy - Cold Blank Mix,2tjgtM6N8DQEuSbhhCK4o2,zedd,ZEDD - Autonomy,0.922,0.645,1,-4.557,0,0.2,0.000959,0.759,0.09,0.23,130.018
+The Anthem - Radio Mix,3JmkG8HYHr279NmuRTDVnU,zedd,The Anthem Remixes,0.74,0.867,0,-3.659,0,0.0591,0.000367,0.23,0.397,0.299,127.998
+The Anthem - Jay Robinson Remix,3VOFVs0bVXnnxkyfd3lijz,zedd,The Anthem Remixes,0.815,0.816,11,-2.741,0,0.0497,0.0023,0.827,0.0193,0.118,132.036
+The Anthem - DJ Hero Re-Rub,26SbuF9RiW1E5gW37UnmCs,zedd,The Anthem Remixes,0.85,0.807,5,-6.192,0,0.197,0.000554,0.214,0.115,0.0822,127.999
+The Anthem - DJ Maxsie & Alex Speaker Remix,6zjTQfysceiUdlLvPAofej,zedd,The Anthem Remixes,0.777,0.828,0,-4.896,1,0.0438,6.37e-05,0.622,0.282,0.158,128.009
+Shave It,4bIVkCmRPwWf5chtq3nFUy,zedd,The Aftershave EP,0.534,0.984,5,-4.535,0,0.039,5.91e-05,0.776,0.585,0.41,129.967
+Shave It - Kaskade Remix,7pnKYWjDTvnFr2YkvtP5ye,zedd,The Aftershave EP,0.739,0.686,5,-4.308,0,0.0417,1.7e-05,0.897,0.177,0.132,128.009
+Shave It - Tommy Trash Remix,4FRYmJoV1Ivu9cgs0BWnlr,zedd,The Aftershave EP,0.814,0.939,1,-3.208,1,0.219,0.00207,0.0836,0.0443,0.125,130.019
+Shave It - 501 Remix,4vHaX0pROEVuldjuhkKGHY,zedd,The Aftershave EP,0.643,0.92,0,-3.761,0,0.0593,0.00116,0.119,0.0697,0.766,139.981
+Slam The Door,0JziX0FifSunJg3hHA05rj,zedd,Slam the Door,0.814,0.569,11,-5.277,0,0.116,0.000245,0.422,0.0753,0.612,130.001
+Slam the Door - Radio Mix,3y7oYT7Fz39J1gjvQsKPpv,zedd,Slam the Door,0.778,0.663,11,-4.618,0,0.0851,0.00106,0.21,0.201,0.615,129.988

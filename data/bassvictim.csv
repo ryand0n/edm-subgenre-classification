@@ -1,0 +1,25 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Alice,2Iw00mEDHOYFm1kqtqBg60,bassvictim,Basspunk 2,0.487,0.486,2,-9.286,1,0.0444,0.032,0.0621,0.35,0.129,82.2
+Grey skies,1kgKfvTqX9lfYz3qKnYhCV,bassvictim,Basspunk 2,0.574,0.674,1,-9.083,1,0.308,0.0607,0.0237,0.648,0.514,136.655
+Forever salty,2BNWCIN4nxYbNhcSIol2BG,bassvictim,Basspunk 2,0.55,0.824,1,-2.69,1,0.0446,0.0178,0.0,0.119,0.579,114.904
+Life so far,3QnO1MhRUpn7jQ5zAlUsxF,bassvictim,Basspunk 2,0.821,0.351,4,-8.449,0,0.0522,0.597,0.00107,0.116,0.181,107.932
+I'll be there,3BYBtDAgNPzDIC1X6B6byF,bassvictim,Basspunk 2,0.361,0.985,11,-4.404,0,0.127,0.00163,5.82e-05,0.792,0.534,167.135
+Gajówka,4lnfccyNdaPq9GetWGzfid,bassvictim,Basspunk 2,0.458,0.798,1,-4.752,1,0.0369,0.00135,0.454,0.39,0.113,183.048
+Hum it to google,2q8Vitl14019j7jDORqXwz,bassvictim,Basspunk 2,0.484,0.831,3,-5.903,0,0.0967,0.0225,0.0565,0.101,0.621,77.957
+Wooden girl,2osuJNdKgYW40mvdpXv1ZE,bassvictim,Basspunk 2,0.487,0.612,7,-8.324,1,0.07,0.00315,0.0,0.0934,0.221,135.135
+Live too fast,55DGkrX7BNzauuHbh17DCp,bassvictim,Basspunk 2,0.576,0.782,10,-5.535,1,0.0285,6.19e-05,0.0,0.192,0.0856,135.049
+LA,1656nQPmnncFrUulSXiTw6,bassvictim,Basspunk 2,0.518,0.692,8,-7.393,1,0.415,0.129,0.00254,0.162,0.681,174.927
+With you,1PDy5ezNt5OLCw3ew79ywB,bassvictim,Basspunk 2,0.715,0.484,2,-8.689,1,0.0776,0.00608,0.0,0.105,0.492,129.983
+Makes you wonder,4OpoKYHpAB91o7ZXayQvjR,bassvictim,Basspunk 2,0.495,0.707,2,-8.046,1,0.0374,0.000344,0.0291,0.216,0.154,102.037
+Air on a G String,5MV7OsDQMZGHDrdWnHim7O,bassvictim,Basspunk,0.563,0.91,4,-5.618,0,0.0469,0.000354,0.000324,0.197,0.151,122.839
+As Long As,2ZtG5j7RXpCGBJOjXY2V6q,bassvictim,Basspunk,0.542,0.759,0,-6.217,1,0.399,0.0431,0.00177,0.116,0.579,140.37
+Flop,5qUhCz8GelCoO9L8rMDphO,bassvictim,Basspunk,0.479,0.601,9,-6.725,0,0.0475,0.000618,0.000425,0.243,0.383,146.928
+I Like It,1rMtIJmr6U3dBbUEXf33qn,bassvictim,Basspunk,0.335,0.58,9,-7.838,1,0.0507,0.00213,0.0179,0.0928,0.115,142.825
+Vacation,5wRLGEldm63ndtlJraUYI7,bassvictim,Basspunk,0.545,0.481,6,-6.237,1,0.121,0.0561,0.000156,0.156,0.15,80.741
+L-ON-D-ON,2s3eULWxfvrkca7qcZWXnp,bassvictim,Basspunk,0.426,0.704,8,-6.392,1,0.041,0.00678,0.793,0.158,0.0676,127.892
+Welcome,2lz2aIo24M8oCkMzXjQC90,bassvictim,Basspunk,0.379,0.889,2,-6.099,1,0.0912,0.0198,0.0762,0.125,0.392,145.174
+I Like It (bass rmx),32hwYMlIRVjcAzZ5oJpEoU,bassvictim,Basspunk,0.541,0.665,9,-6.227,1,0.0711,0.00378,0.00883,0.102,0.13,144.032
+Canary Wharf drift,64yioT39hYUlNyQMqEyUE6,bassvictim,Basspunk,0.454,0.868,5,-5.795,1,0.0396,0.00425,0.562,0.119,0.134,185.021
+L-ON-D-ON rmx,1ZemzQdo9H6EG3K8uiNVet,bassvictim,Basspunk,0.282,0.881,7,-4.074,0,0.133,0.00105,0.715,0.634,0.524,104.847
+Alice - Acoustic,0ezSqBigIXjTQcl9ynOTZ6,bassvictim,Alice,0.418,0.193,2,-9.66,1,0.0436,0.979,0.493,0.159,0.0918,103.898
+Curse is Lifted - Club rmx,55E0iwwaRXZ3cneyi9ECnp,bassvictim,Curse is Lifted (Club rmx),0.599,0.898,1,-3.915,0,0.143,0.116,0.238,0.188,0.487,135.051

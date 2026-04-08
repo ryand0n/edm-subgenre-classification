@@ -1,0 +1,47 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+La Discoteca,6gJQywNtkGHqMAvchQjeVo,Mary Droppinz,La Discoteca,0.716,0.885,2,-5.863,1,0.0363,0.000778,0.638,0.155,0.432,132.036
+Yummy Gummy,6NlBcr0CvGpWvuxgLUjD9t,Mary Droppinz,Yummy Gummy,0.881,0.659,6,-6.193,1,0.0767,0.000513,0.0436,0.3,0.622,141.997
+Fight,03NZI88e7f9ocbkw3j6PSo,Mary Droppinz,Fight,0.766,0.7,1,-7.754,1,0.106,0.0298,0.661,0.0674,0.203,140.012
+GiGi,7n2vLTUO8JahfIXqa5WcxQ,Mary Droppinz,GiGi,0.844,0.729,7,-6.186,1,0.0671,0.0142,0.0818,0.0562,0.32,137.986
+Bass B$tch,3OBUIW6j8f0u0WfXX48u1v,Mary Droppinz,Bass B$tch,0.775,0.833,11,-5.584,0,0.0825,0.0135,0.493,0.0429,0.59,139.994
+Pink Lambo,6yvHeE78HMKIih5Ys9gKVr,Mary Droppinz,The Cycle EP,0.773,0.859,10,-5.56,0,0.0523,2.93e-05,0.883,0.0372,0.377,135.004
+Everything Is Energy,1KvKnoFSIbywc5ZCXRWFmH,Mary Droppinz,Everything Is Energy,0.668,0.868,10,-2.078,0,0.0489,0.000832,0.364,0.0782,0.339,87.006
+Do It For Yourself,4znWmau1H1ythOHAUQ44bS,Mary Droppinz,Galactic Portal,0.66,0.603,2,-9.302,1,0.0412,0.00011,0.865,0.0298,0.191,128.009
+Sandman,5NN1ptBIhKxISUvzVxiZqt,Mary Droppinz,Sandman,0.774,0.713,1,-8.013,1,0.052,0.000144,0.829,0.27,0.155,127.003
+Acid Mother,6xRTw4QGc16QytpUPnv7a0,Mary Droppinz,Acid Mother,0.488,0.946,2,-4.549,1,0.0534,0.000122,0.89,0.0361,0.0343,137.008
+Alive (Mary Droppinz Remix),1sy6ptiQv3mj6HtMW7zTpv,Mary Droppinz,Vital Signs Remixed,0.344,0.957,4,-6.63,0,0.0809,0.0255,0.855,0.0814,0.288,139.474
+Ignite,0m4WKfdi0ReBUdPvga3lAi,Mary Droppinz,Ignite,0.422,0.95,10,-2.147,0,0.0498,0.00131,0.31,0.274,0.212,132.021
+Really Don't Care,7058w0eWOqdUcOsJyBKXBk,Mary Droppinz,The Cycle EP,0.774,0.733,0,-6.901,1,0.0479,0.000179,0.449,0.332,0.193,134.004
+Textures - Gina Turner Remix,3auky6hyFYnFhNdW4DLmVl,Mary Droppinz,Textures (Gina Turner Remix),0.622,0.882,2,-5.101,1,0.101,0.00141,0.79,0.0372,0.399,174.035
+Cool Intentions,6K1yYDxjA5FZRFco7u7Vz0,Mary Droppinz,Galactic Portal,0.806,0.668,10,-8.99,1,0.0784,0.11,0.682,0.205,0.339,131.939
+Crypto Queen,4BSiyLGmx7D9FwBYUxNHgq,Mary Droppinz,Crypto Queen,0.652,0.907,11,-6.275,0,0.0439,0.000987,0.768,0.329,0.0563,128.018
+Rainy (with REI AMI) - Mary Droppinz Remix,2D8AauIZ1FfSaGcr8NZdju,Mary Droppinz,These Remixes Are Fire TOO,0.781,0.802,6,-7.565,0,0.0546,1.38e-05,0.788,0.0579,0.0822,132.999
+Gonna Be Alright,1BzlSyjMKVc8J5xh1vELP1,Mary Droppinz,Gonna Be Alright,0.792,0.81,11,-6.983,0,0.0437,2.27e-05,0.652,0.114,0.444,128.011
+Hot Pants,6jHezW5glk7Rcqw7YfeeEu,Mary Droppinz,Hot Pants,0.582,0.96,6,-7.091,0,0.0446,1.63e-05,0.865,0.0444,0.0734,129.999
+Future Moon,3lKPd9VjyaNbdCa6HoB1CC,Mary Droppinz,5 Years of FV - Disc 2,0.85,0.82,2,-8.102,1,0.0496,0.00393,0.493,0.0419,0.916,124.014
+Birdiez - Original Mix,3sgRPcTzdETJ8zPUxzmPa6,Mary Droppinz,Birdiez,0.8,0.457,7,-10.249,1,0.0935,0.00249,0.812,0.114,0.634,128.006
+Let Me Love You,1oikTuxIhUAUa44C5GuadO,Mary Droppinz,Too Sweet,0.689,0.926,1,-6.707,0,0.0527,0.000144,0.621,0.0449,0.459,127.962
+Potato Fish,0CIWdYxHfFUHzA3qMEW8fP,Mary Droppinz,"Scales & Tails, Vol. 02",0.775,0.777,6,-7.041,0,0.0628,0.000259,0.764,0.0663,0.539,140.014
+Too Sweet,5kypI2vezT4B9ZYKo8I99P,Mary Droppinz,Too Sweet,0.698,0.782,1,-8.697,1,0.0361,4.55e-05,0.888,0.0938,0.417,127.02
+You Only Die Once (feat. Snoop Dogg) - Mary Droppinz Remix,02zsbuFeEcWQWU09zNQ8FP,Mary Droppinz,You Only Die Once (feat. Snoop Dogg) [Mary Droppinz Remix],0.696,0.756,0,-7.316,1,0.0513,7.88e-05,0.177,0.0321,0.394,130.011
+STEADY - Mary Droppinz Remix,3gH8J46mXn0PiPV1a1aINV,Mary Droppinz,STEADY (Mary Droppinz Remix),0.79,0.963,7,-4.978,1,0.0518,4.34e-05,0.863,0.0677,0.459,130.015
+The Cycle,34qDVRYa3e46AbM3kO5oDr,Mary Droppinz,The Cycle EP,0.705,0.727,11,-7.644,0,0.046,2.56e-05,0.77,0.107,0.213,131.016
+The Cycle - Don Jamal Remix,3ccrtMt0qAPS1jEmNy3wMg,Mary Droppinz,The Cycle Remixes,0.765,0.734,1,-6.044,1,0.0632,0.00918,0.589,0.294,0.581,140.014
+Pink Lambo - Fonzo Remix,1gqQNg9BVP5FqeHY4oDfG3,Mary Droppinz,The Cycle Remixes,0.75,0.913,6,-7.003,0,0.0847,0.000174,0.846,0.064,0.685,146.993
+NYC,7vutIEC4vHTPiaMiV35po7,Mary Droppinz,NYC,0.725,0.717,9,-8.303,1,0.0584,7e-05,0.73,0.269,0.439,129.985
+Glo BB,1j0ywrIfSh4zE8ZucTbN0l,Mary Droppinz,5 Years of FV - Disc 3,0.685,0.893,10,-4.808,0,0.0365,0.000361,0.884,0.103,0.593,130.011
+Really Don't Care - DJ Minx Remix,11TOHVl6cddbXT9PtimVDZ,Mary Droppinz,The Cycle Remixes,0.776,0.957,0,-7.444,1,0.0428,5.33e-05,0.875,0.0955,0.646,133.994
+The Cycle - Breaka Remix,5FiKcKLAfWsFBwubpCYHst,Mary Droppinz,The Cycle Remixes,0.745,0.973,6,-5.941,0,0.0704,0.00109,0.792,0.332,0.487,149.986
+Textures,4Us4eTFcMBvPjNBJ7MFI8l,Mary Droppinz,Textures,0.776,0.976,0,-7.449,1,0.0517,0.000111,0.654,0.124,0.912,131.026
+Grim - Mary Droppinz Remix,4NeWxeTz9hKhoI9EeJ2qKs,Mary Droppinz,Mind Of Madness (Remixes),0.715,0.941,8,-5.758,1,0.124,0.0119,0.56,0.327,0.328,139.972
+Pink Lambo - Selective Response - Black Leather Mix,5phRfsYcphNcTOqbiNdFSD,Mary Droppinz,The Cycle Remixes,0.702,0.989,7,-6.223,1,0.0612,4.89e-05,0.8,0.117,0.371,143.002
+Why Do You Do The Things You Do - Mary Droppinz Remix,3kuLKaZgepFWFFEfJDJxt6,Mary Droppinz,Why Do You Do The Things You Do (Mary Droppinz Remix),0.608,0.943,4,-5.497,1,0.0439,0.000388,0.878,0.111,0.117,133.011
+El Gato - Mary Droppinz + FACTORe + SCHROEDS Remix,5u2wJrncLYqXkf9g5BrdJe,Mary Droppinz,El Gato (Remix),0.515,0.933,0,-5.43,1,0.0747,0.000538,0.76,0.0688,0.307,137.958
+The Cycle - Infinity JR Remix,2VlHbtZSETup9SYYxCxqi2,Mary Droppinz,The Cycle Remixes,0.754,0.86,2,-6.096,1,0.0572,0.0273,0.862,0.0725,0.915,132.003
+Pink Lambo - Lizzy Jane Remix,2NZwjoySc8GqJ65vmz06TV,Mary Droppinz,The Cycle Remixes,0.555,0.869,11,-7.349,0,0.0415,0.0494,0.835,0.103,0.27,152.036
+Too Sweet - Broken Heart Edit,3KMvulquKAZEu47xBlan9t,Mary Droppinz,Too Sweet,0.719,0.711,10,-5.938,0,0.042,0.000482,0.831,0.0632,0.476,127.017
+Every Posse & Crew - Mary Droppinz Remix,1WarKKPEztxGdJlJvpgRnY,Mary Droppinz,Every Posse & Crew (Mary Droppinz Remix),0.746,0.934,11,-4.96,1,0.126,0.000466,0.597,0.607,0.65,136.0
+Molokini - Mary Droppinz Remix,0JgUAphSKg8GRyunioRrRI,Mary Droppinz,Ghettos & Gardens Remixes Vol. 1 (10 Year Anniversary),0.72,0.84,6,-7.765,1,0.0577,0.00176,0.922,0.15,0.712,130.015
+Pink Lambo - TWONSKi Remix,02TCXgMYs0k6DDos0rUp4u,Mary Droppinz,The Cycle Remixes,0.524,0.971,4,-6.042,1,0.115,0.000712,0.842,0.377,0.308,140.014
+Pink Lambo - Bastiengoat Remix,6TxeEv3NYZbSR03ACL5Aud,Mary Droppinz,The Cycle Remixes,0.896,0.626,0,-8.081,1,0.369,0.0625,0.791,0.11,0.125,134.995
+Take My Hand (Mary Droppinz Remix),092ZD29vaJRC0mfqvWAE3p,Mary Droppinz,Take My Hand Remixes,0.759,0.835,2,-5.572,1,0.0719,0.00775,0.909,0.0728,0.552,134.018

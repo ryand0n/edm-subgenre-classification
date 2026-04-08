@@ -1,0 +1,25 @@
+track_name,track_id,artist_name,album_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Flight Tracker,7f5bBaSVEOgmy7dedUx5g3,Baugruppe90,Flight Tracker,0.764,0.987,6,-5.908,0,0.0761,8.05e-05,0.85,0.0483,0.52,141.994
+Funken,5kDVfREVq2so8xQKguDLOj,Baugruppe90,Groove Constructor,0.755,0.984,8,-4.564,1,0.0577,5.33e-05,0.922,0.099,0.226,144.982
+Groove Constructor,60aLuC8OlWAbhL1PUpQaw3,Baugruppe90,Groove Constructor,0.761,0.954,11,-5.328,0,0.0556,0.000132,0.845,0.102,0.471,142.98
+Quartz,4VXmDtSu216gBmQ8F8HMp3,Baugruppe90,Groove Constructor,0.897,0.998,7,-3.578,1,0.824,4.5e-05,0.303,0.086,0.47,143.986
+Liebherr,3bw3eEyPKh2PTipQX0xSXK,Baugruppe90,Groove Constructor,0.756,0.989,10,-4.028,0,0.101,0.0134,0.888,0.108,0.181,140.993
+Torx,5DhIH97LtpstokHxGHyLht,Baugruppe90,Torx,0.683,0.997,10,-6.435,0,0.0917,0.000113,0.918,0.871,0.163,143.977
+Treiber,3AFaUENQmSKzqlyDdhwKb9,Baugruppe90,Treiber,0.714,0.941,4,-7.597,0,0.0903,0.0068,0.889,0.339,0.0718,139.991
+Gelee,1HL9Ne6lcRfPAUm03apBgN,Baugruppe90,Treiber,0.733,0.987,4,-6.143,0,0.0619,0.000568,0.89,0.0956,0.5,141.025
+Radau,5mjUCys9HZkZOKtrZUD8xY,Baugruppe90,Treiber,0.756,0.998,7,-5.759,1,0.0801,0.00228,0.893,0.102,0.629,144.034
+Artcessoire,3YCE9ZSof57GpIQfpTskc7,Baugruppe90,Artcessoire,0.747,0.956,7,-5.019,1,0.111,0.00093,0.808,0.0864,0.182,141.997
+Schwung,1zgqSUcOWsJh1Iq8lHSg1p,Baugruppe90,Artcessoire,0.751,0.991,8,-6.369,1,0.0735,0.294,0.886,0.0998,0.303,142.015
+Last Segment,1MEW3SOIIMfAnt2fBYLX90,Baugruppe90,Artcessoire,0.753,0.993,7,-5.862,1,0.111,0.00188,0.892,0.1,0.494,146.009
+Sportbeton,309rqmgX4pkmnWW2msCiyM,Baugruppe90,Sportbeton,0.76,0.94,4,-6.905,0,0.0641,0.0577,0.885,0.13,0.728,140.048
+Action,6z7duZgX8sIl41BRM3peap,Baugruppe90,Sportbeton,0.807,0.884,1,-6.722,0,0.161,0.0044,0.804,0.0873,0.34,135.001
+Blur,20HgswHl5oRJbCDQVVggnV,Baugruppe90,Sportbeton,0.712,0.874,6,-8.065,0,0.0518,0.00173,0.898,0.108,0.328,139.995
+Okular,7mSgakbHixhoE4VyMMucEY,Baugruppe90,Sportbeton,0.708,0.913,2,-7.198,1,0.125,0.00704,0.896,0.162,0.267,145.995
+Destiny,4vufDB7IrFG7K8lwtRcbKv,Baugruppe90,Destiny,0.725,0.977,7,-6.138,1,0.0609,0.0573,0.608,0.11,0.531,140.013
+Feedback,4OmxLvD16SCNmzSi92fzfK,Baugruppe90,Membran - EP,0.767,0.771,9,-6.978,1,0.0871,0.0811,0.903,0.0966,0.0349,139.995
+Membran,6q4UmZwJKT3UciCZ68R5xp,Baugruppe90,Membran - EP,0.873,0.824,8,-6.525,1,0.247,0.00242,0.916,0.095,0.154,134.984
+Ambrosia,7FsZPdoQC6BWdzZ9fcuKns,Baugruppe90,Membran - EP,0.707,0.803,7,-6.643,1,0.11,0.0103,0.897,0.111,0.142,138.015
+Valor,02YXzRsYkeBnl2rlHkIrMK,Baugruppe90,Kontur EP,0.851,0.79,11,-8.922,0,0.0849,0.0853,0.612,0.0839,0.15,130.01
+Feb 50,7KMcL2ivEPwhz0bfJsL2lB,Baugruppe90,Kontur EP,0.757,0.648,11,-7.571,0,0.0904,0.0581,0.886,0.112,0.0782,128.996
+Sonnenregen,0ZiIEbQelOsTZlT73WLL5f,Baugruppe90,Kontur EP,0.782,0.905,1,-9.974,1,0.0511,0.0226,0.9,0.238,0.0765,130.008
+Atmung,1jSsVRPPSIZxOXHQ0j7s4g,Baugruppe90,Kontur EP,0.898,0.454,3,-8.318,0,0.17,0.0753,0.812,0.137,0.277,129.013

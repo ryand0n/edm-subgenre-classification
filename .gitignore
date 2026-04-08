@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+venv_linux/
+.env
+
+.claude
+CLAUDE.md
