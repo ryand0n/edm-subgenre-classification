@@ -67,6 +67,10 @@ def load_raw_data(data_dir="data"):
         dfs.append(df)
     combined = pd.concat(dfs, ignore_index=True)
 
+    # Drop any existing genre column from artist CSVs to avoid merge conflicts
+    if "genre" in combined.columns:
+        combined = combined.drop(columns="genre")
+
     genres_df = pd.read_csv(genres_csv)
     genres_df["join_key"] = genres_df["artist_name"].str.lower()
     combined["join_key"] = combined["artist_name"].str.lower()

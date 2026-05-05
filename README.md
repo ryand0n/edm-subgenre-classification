@@ -60,24 +60,27 @@ The pipeline transforms raw CSVs into a training-ready dataset:
 
 ## Results
 
-### Evaluation Metrics
+### Unsupervised Clustering (K-Means)
+
+#### Evaluation Metrics (class-balanced)
+
+The unsupervised experiment downsamples to the median genre count before clustering to prevent dominant genres (house: 3,255 tracks) from dominating cluster assignments.
 
 | k | Silhouette | ARI | NMI |
 |---|-----------|-----|-----|
-| 2 | 0.199 | 0.043 | 0.080 |
-| 6 | 0.197 | 0.056 | 0.117 |
-| 10 | 0.186 | 0.048 | 0.116 |
-| 15 | 0.180 | 0.049 | 0.132 |
+| 2 | 0.206 | 0.021 | 0.083 |
+| 10 | 0.191 | 0.056 | 0.166 |
+| 15 | 0.181 | 0.056 | 0.182 |
 
-- **Silhouette scores (0.18–0.20)** are low-positive across all k values, indicating the audio feature space doesn't contain tight, well-separated clusters. Tracks from different clusters overlap significantly.
-- **ARI scores (0.04–0.06)** are barely above zero (where zero = random assignment). Clusters do not meaningfully reproduce genre boundaries.
-- **NMI scores (0.08–0.13)** show that knowing a track's cluster only weakly predicts its genre. NMI increases with k because more clusters can capture finer distinctions, but returns are diminishing.
+- **Silhouette scores (0.18–0.21)** are low-positive across all k values, indicating the audio feature space doesn't contain tight, well-separated clusters. Tracks from different clusters overlap significantly.
+- **ARI scores (0.02–0.06)** are barely above zero (where zero = random assignment). Clusters do not meaningfully reproduce genre boundaries.
+- **NMI scores (0.08–0.18)** show that knowing a track's cluster only weakly predicts its genre. NMI increases with k because more clusters can capture finer distinctions, but returns are diminishing.
 
-### Genre-Cluster Heatmap
+#### Genre-Cluster Heatmap
 
 The cross-tabulation heatmap confirms what the low ARI suggests: most genres are spread across multiple clusters rather than concentrated in one. The model is partitioning the space, but not along genre lines.
 
-### Cluster Profiles
+#### Cluster Profiles
 
 Despite poor genre alignment, the clusters are **musically interpretable**. The centroids reveal distinct audio archetypes:
 
@@ -89,13 +92,48 @@ Despite poor genre alignment, the clusters are **musically interpretable**. The 
 
 K-Means found real structure in the data — it correctly separates fast from slow, dark from bright, vocal from instrumental. These are valid audio dimensions, but they don't map to genre labels.
 
-### PCA Visualization
+#### PCA Visualization
 
 The side-by-side PCA scatter plots make the fundamental issue visible: the cluster-colored plot shows clean spatial partitions, but the genre-colored plot shows genres spread across those same regions with heavy overlap.
 
+### Supervised Classification
+
+Three supervised models were trained on the same 6 audio features with class-imbalance handling:
+
+- **RandomForest** — `class_weight="balanced"` (inversely weights each class by frequency)
+- **GradientBoosting** — balanced via `sample_weight` (computed from sklearn's `compute_sample_weight("balanced")`)
+- **XGBoost** — same `sample_weight` approach
+
+All use stratified 80/20 train/test splits. The dataset has severe class imbalance (75.7x ratio between largest and smallest genre), so **balanced accuracy** (macro-averaged recall across all classes) is the primary metric.
+
+#### Model Comparison
+
+| Model | Accuracy | Balanced Accuracy |
+|-------|----------|-------------------|
+| RandomForest | 0.432 | 0.228 |
+| GradientBoosting | **0.328** | **0.332** |
+| XGBoost | 0.388 | 0.261 |
+
+- **GradientBoosting** achieves the best balanced accuracy (0.332), meaning it's most equitable across all genres including rare ones. The tradeoff is lower raw accuracy since it sacrifices performance on dominant genres to improve recall on smaller ones.
+- **RandomForest** has the highest raw accuracy (0.432) but the lowest balanced accuracy — it's biased toward majority classes.
+- All models are well below 50% balanced accuracy, confirming that 6 audio features are insufficient for reliable genre classification regardless of the algorithm.
+
+#### Feature Importances
+
+| Feature | Importance |
+|---------|-----------|
+| tempo | 0.381 |
+| danceability | 0.149 |
+| instrumentalness | 0.136 |
+| valence | 0.133 |
+| energy | 0.109 |
+| speechiness | 0.091 |
+
+Tempo is by far the most discriminative feature (~38% importance), which makes sense — it's the one audio feature that hard-separates certain genres (hardstyle at ~150 BPM vs. dubstep at ~140 half-time vs. house at ~128). The remaining features contribute roughly equally.
+
 ## Conclusion
 
-The hypothesis that unsupervised clustering would recover EDM subgenre boundaries from audio features was **not supported**. K-Means successfully identified musically meaningful audio archetypes, but these archetypes don't correspond to genre labels.
+The hypothesis that unsupervised clustering would recover EDM subgenre boundaries from audio features was **not supported**. K-Means successfully identified musically meaningful audio archetypes, but these archetypes don't correspond to genre labels. Supervised classification (RandomForest, GradientBoosting, XGBoost) with class-imbalance handling confirms the ceiling: the best model achieves only 33% balanced accuracy across 22 genre classes — better than the ~4.5% random baseline, but far from usable.
 
 The core issue is that genre identity in EDM is defined by attributes these audio features can't capture: sound design (the difference between a dubstep wobble bass and a hardstyle kick), production techniques, drop structure, cultural context, and scene affiliation. A dubstep track and a hardstyle track can have similar energy and tempo values but sound completely different because of *how* the bass and drums are constructed — and that information isn't encoded in high-level features like danceability or valence.
 
@@ -105,12 +143,14 @@ These 6 audio features describe *what* a track feels like (fast/slow, happy/dark
 
 ### Quick Wins (same data, different methods)
 
-- **Supervised classification** — train a Random Forest or gradient-boosted classifier on the existing 6 features with genre labels. Unlike K-Means, supervised models can learn non-linear decision boundaries and weight features differently per genre (e.g. tempo matters for hardstyle vs. house, but not for dubstep vs. riddim). Won't solve the core feature gap, but would squeeze more out of what we have.
-- **Track-level genre labels** — genres are currently assigned per artist, so every track by an artist gets the same label even if their catalog spans multiple styles. Track-level labeling would reduce label noise significantly.
+- **Track-level genre labels via playlist mapping** — genres are currently assigned per artist, so every track by an artist gets the same label even if their catalog spans multiple styles. Collecting Spotify playlist IDs curated by subgenre and tagging each track with its playlist's genre would provide per-track labels and reduce label noise significantly.
+- **More aggressive genre consolidation** — the current 22 classes after consolidation still include genres that are nearly impossible to separate by audio features alone (e.g. melodic house vs. progressive house). Reducing to 8-10 broader families would improve both supervised and unsupervised performance.
+- **Ensemble or stacking** — combine the three supervised models (RF, GBM, XGBoost) via soft-voting or stacking to extract marginal gains from model diversity.
 
 ### Medium Effort (new features, same APIs)
 
 - **Spotify audio analysis** — Spotify provides beat-level timing, section boundaries (intro/verse/drop/outro), loudness curves over time, and timbral vectors per segment. From this, we could engineer structural features like "energy jump at drop" (loudness difference between buildup and drop), "drop frequency" (number of high-energy sections per track), and "rhythmic regularity" (beat timing variance). This gets closer to drop structure without needing raw audio files.
+- **Re-add dropped features conditionally** — loudness and acousticness were dropped for being correlated with energy, but supervised models can handle correlated features. Re-introducing them (possibly with the dropped key/mode as categorical inputs) could provide extra signal for tree-based classifiers.
 
 ### Raw Audio Analysis (highest effort, highest potential)
 
@@ -123,12 +163,14 @@ All raw audio approaches require actual audio files (Spotify 30-second previews,
 ## Project Structure
 
 ```
-data_collection.py   # Data collection entry point
-util.py              # Spotify & ReccoBeats API integration
-pipeline.py          # Data preparation pipeline
-train.py             # K-Means training & evaluation
-notebooks/eda.ipynb  # EDA + clustering analysis notebook
-data/                # Artist CSVs + genres.csv
+data_collection.py      # Data collection entry point
+util.py                 # Spotify & ReccoBeats API integration
+pipeline.py             # Data preparation pipeline
+train.py                # K-Means training & evaluation functions
+train_unsupervised.py   # Standalone K-Means experiment (class-balanced)
+train_supervised.py     # Standalone supervised classification (RF, GBM, XGBoost)
+notebooks/eda.ipynb     # EDA + clustering analysis notebook
+data/                   # Artist CSVs + genres.csv
 ```
 
 ## Setup
@@ -136,7 +178,7 @@ data/                # Artist CSVs + genres.csv
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install pandas numpy matplotlib scikit-learn requests python-dotenv jupyter
+pip install pandas numpy matplotlib scikit-learn xgboost requests python-dotenv jupyter
 ```
 
 Requires a `.env` file with Spotify API credentials:
@@ -150,6 +192,12 @@ CLIENT_SECRET=your_spotify_client_secret
 ```bash
 # Collect audio features for an artist
 python data_collection.py
+
+# Run unsupervised K-Means experiment (terminal output)
+python train_unsupervised.py
+
+# Run supervised classification experiment (terminal output)
+python train_supervised.py
 
 # Run the full pipeline + clustering from the notebook
 jupyter notebook notebooks/eda.ipynb
