@@ -2,7 +2,8 @@
 
 Trains RandomForest, GradientBoosting, and XGBoost classifiers on audio features
 to predict consolidated genre labels. Handles class imbalance via class weighting
-and stratified splits.
+and stratified splits. Includes DummyClassifier baseline and RandomizedSearchCV
+hyperparameter tuning.
 """
 
 import json
@@ -11,7 +12,8 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
-from sklearn.model_selection import train_test_split
+from sklearn.dummy import DummyClassifier
+from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.metrics import classification_report, accuracy_score, balanced_accuracy_score
 from sklearn.utils.class_weight import compute_sample_weight
@@ -19,6 +21,32 @@ from sklearn.preprocessing import LabelEncoder
 from xgboost import XGBClassifier
 
 import model_training.train as train
+
+
+# Hyperparameter search spaces
+PARAM_SPACES = {
+    "RandomForest": {
+        "n_estimators": [100, 200, 300],
+        "max_depth": [None, 10, 20, 30],
+        "min_samples_split": [2, 5, 10],
+        "min_samples_leaf": [1, 2, 4],
+        "class_weight": ["balanced"],
+    },
+    "GradientBoosting": {
+        "n_estimators": [100, 200, 300],
+        "max_depth": [3, 5, 7],
+        "learning_rate": [0.01, 0.05, 0.1, 0.2],
+        "subsample": [0.8, 1.0],
+        "min_samples_split": [2, 5, 10],
+    },
+    "XGBoost": {
+        "n_estimators": [100, 200, 300],
+        "max_depth": [3, 5, 7],
+        "learning_rate": [0.01, 0.05, 0.1, 0.2],
+        "subsample": [0.8, 1.0],
+        "colsample_bytree": [0.8, 1.0],
+    },
+}
 
 
 def train_models(X, df, audio_features):
@@ -30,7 +58,8 @@ def train_models(X, df, audio_features):
         audio_features: List of audio feature names.
 
     Returns:
-        dict with model_results, best_model_name, best_model, and feature_importances.
+        dict with model_results, best_model_name, best_model, best_params,
+        and feature_importances.
     """
     # Extract target labels
     y = train.get_primary_genre(df)
@@ -72,45 +101,91 @@ def train_models(X, df, audio_features):
     # Compute sample weights for models that don't support class_weight
     sample_weights = compute_sample_weight("balanced", y_train)
 
-    # Train models — all handle class imbalance
-    models = {
-        "RandomForest": RandomForestClassifier(
-            n_estimators=100, class_weight="balanced", random_state=42, n_jobs=-1
-        ),
-        "GradientBoosting": GradientBoostingClassifier(
-            n_estimators=100, random_state=42
-        ),
-        "XGBoost": XGBClassifier(
-            n_estimators=100, random_state=42, eval_metric="mlogloss",
-            verbosity=0
-        ),
-    }
-
-    # GradientBoosting and XGBoost use sample_weight for class balancing
-    fit_params = {
-        "RandomForest": {"X": X_train, "y": y_train},
-        "GradientBoosting": {"X": X_train, "y": y_train, "sample_weight": sample_weights},
-        "XGBoost": {"X": X_train, "y": y_train_encoded, "sample_weight": sample_weights},
-    }
-
     results = {}
-    for name, model in models.items():
-        print(f"\n{'=' * 60}")
-        print(f"{name} (class-balanced) — Classification Report")
-        print("=" * 60)
-        params = fit_params[name]
-        model.fit(params["X"], params["y"], **{k: v for k, v in params.items() if k not in ("X", "y")})
+    best_params = {}
+    tuned_models = {}
 
-        if name == "XGBoost":
-            y_pred_raw = model.predict(X_test)
+    # --- Baseline: DummyClassifier ---
+    print(f"\n{'=' * 60}")
+    print("Baseline (DummyClassifier, strategy='stratified')")
+    print("=" * 60)
+    dummy = DummyClassifier(strategy="stratified", random_state=42)
+    dummy.fit(X_train, y_train)
+    y_pred_dummy = dummy.predict(X_test)
+    acc_dummy = accuracy_score(y_test, y_pred_dummy)
+    bal_acc_dummy = balanced_accuracy_score(y_test, y_pred_dummy)
+    results["Baseline"] = {"accuracy": acc_dummy, "balanced_accuracy": bal_acc_dummy}
+    print(classification_report(y_test, y_pred_dummy, zero_division=0))
+
+    # --- Hyperparameter tuning with RandomizedSearchCV ---
+    model_configs = {
+        "RandomForest": {
+            "estimator": RandomForestClassifier(random_state=42, n_jobs=-1),
+            "X_train": X_train,
+            "y_train": y_train,
+            "fit_params": {},
+            "X_test": X_test,
+            "y_test": y_test,
+            "decode": False,
+        },
+        "GradientBoosting": {
+            "estimator": GradientBoostingClassifier(random_state=42),
+            "X_train": X_train,
+            "y_train": y_train,
+            "fit_params": {"sample_weight": sample_weights},
+            "X_test": X_test,
+            "y_test": y_test,
+            "decode": False,
+        },
+        "XGBoost": {
+            "estimator": XGBClassifier(
+                random_state=42, eval_metric="mlogloss", verbosity=0
+            ),
+            "X_train": X_train,
+            "y_train": y_train_encoded,
+            "fit_params": {"sample_weight": sample_weights},
+            "X_test": X_test,
+            "y_test": y_test,
+            "decode": True,
+        },
+    }
+
+    for name, cfg in model_configs.items():
+        print(f"\n{'=' * 60}")
+        print(f"{name} — RandomizedSearchCV (cv=3, n_iter=20)")
+        print("=" * 60)
+
+        search = RandomizedSearchCV(
+            cfg["estimator"],
+            PARAM_SPACES[name],
+            n_iter=20,
+            scoring="balanced_accuracy",
+            cv=3,
+            random_state=42,
+            n_jobs=-1,
+        )
+        search.fit(cfg["X_train"], cfg["y_train"], **cfg["fit_params"])
+
+        best_params[name] = search.best_params_
+        print(f"Best params: {search.best_params_}")
+        print(f"Best CV balanced accuracy: {search.best_score_:.4f}")
+
+        # Evaluate on held-out test set
+        model = search.best_estimator_
+        tuned_models[name] = model
+
+        if cfg["decode"]:
+            y_pred_raw = model.predict(cfg["X_test"])
             y_pred = le.inverse_transform(y_pred_raw)
         else:
-            y_pred = model.predict(X_test)
+            y_pred = model.predict(cfg["X_test"])
 
-        acc = accuracy_score(y_test, y_pred)
-        bal_acc = balanced_accuracy_score(y_test, y_pred)
+        acc = accuracy_score(cfg["y_test"], y_pred)
+        bal_acc = balanced_accuracy_score(cfg["y_test"], y_pred)
         results[name] = {"accuracy": acc, "balanced_accuracy": bal_acc}
-        print(classification_report(y_test, y_pred, zero_division=0))
+
+        print(f"\nTest Set — Classification Report")
+        print(classification_report(cfg["y_test"], y_pred, zero_division=0))
 
     # Accuracy comparison
     print("=" * 60)
@@ -121,9 +196,10 @@ def train_models(X, df, audio_features):
     for name, metrics in results.items():
         print(f"  {name:<25} {metrics['accuracy']:<12.4f} {metrics['balanced_accuracy']:<12.4f}")
 
-    # Feature importances (from best model by balanced accuracy)
-    best_model_name = max(results, key=lambda n: results[n]["balanced_accuracy"])
-    best_model = models[best_model_name]
+    # Feature importances (from best tuned model by balanced accuracy)
+    real_models = {k: v for k, v in results.items() if k != "Baseline"}
+    best_model_name = max(real_models, key=lambda n: real_models[n]["balanced_accuracy"])
+    best_model = tuned_models[best_model_name]
     importances = pd.Series(best_model.feature_importances_, index=audio_features)
     importances = importances.sort_values(ascending=False)
 
@@ -138,6 +214,7 @@ def train_models(X, df, audio_features):
         "model_results": results,
         "best_model_name": best_model_name,
         "best_model": best_model,
+        "best_params": best_params,
         "feature_importances": importances.to_dict(),
     }
 

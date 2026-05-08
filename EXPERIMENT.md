@@ -62,17 +62,20 @@ The pipeline (`preprocessing/pipeline.py`) transforms raw CSVs into a training-r
 
 #### Evaluation Metrics (class-balanced)
 
-The unsupervised experiment downsamples to the median genre count before clustering to prevent dominant genres (house: 3,255 tracks) from dominating cluster assignments.
+The unsupervised experiment downsamples to the median genre count before clustering to prevent dominant genres (house: 3,255 tracks) from dominating cluster assignments. A random assignment baseline (assigning each track to a random cluster) is included for comparison.
 
-| k | Silhouette | ARI | NMI |
-|---|-----------|-----|-----|
-| 2 | 0.206 | 0.021 | 0.083 |
-| 10 | 0.191 | 0.056 | 0.166 |
-| 15 | 0.181 | 0.056 | 0.182 |
+| k | Method | Silhouette | ARI | NMI |
+|---|--------|-----------|-----|-----|
+| 2 | Random Baseline | -0.000 | 0.000 | 0.004 |
+| 2 | K-Means | 0.203 | 0.024 | 0.089 |
+| 10 | Random Baseline | -0.027 | 0.000 | 0.020 |
+| 10 | K-Means | 0.185 | 0.059 | 0.174 |
+| 15 | Random Baseline | -0.048 | -0.001 | 0.026 |
+| 15 | K-Means | 0.177 | 0.060 | 0.196 |
 
-- **Silhouette scores (0.18–0.21)** are low-positive across all k values, indicating the audio feature space doesn't contain tight, well-separated clusters. Tracks from different clusters overlap significantly.
-- **ARI scores (0.02–0.06)** are barely above zero (where zero = random assignment). Clusters do not meaningfully reproduce genre boundaries.
-- **NMI scores (0.08–0.18)** show that knowing a track's cluster only weakly predicts its genre. NMI increases with k because more clusters can capture finer distinctions, but returns are diminishing.
+- **Silhouette scores (0.18–0.20)** are low-positive across all k values, indicating the audio feature space doesn't contain tight, well-separated clusters. Random assignment produces negative silhouette scores, confirming K-Means finds real (if weak) structure.
+- **ARI scores (0.02–0.06)** are barely above zero (where zero = random assignment). The random baseline confirms this — ARI ~0.000 for random labels. Clusters do not meaningfully reproduce genre boundaries, but K-Means is consistently better than chance.
+- **NMI scores (0.08–0.20)** show that knowing a track's cluster only weakly predicts its genre. NMI increases with k because more clusters can capture finer distinctions, but returns are diminishing. The random baseline NMI (0.004–0.026) confirms K-Means captures real mutual information.
 
 #### Genre-Cluster Heatmap
 
@@ -102,36 +105,40 @@ Three supervised models were trained on the same 6 audio features with class-imb
 - **GradientBoosting** — balanced via `sample_weight` (computed from sklearn's `compute_sample_weight("balanced")`)
 - **XGBoost** — same `sample_weight` approach
 
-All use stratified 80/20 train/test splits. The dataset has severe class imbalance (75.7x ratio between largest and smallest genre), so **balanced accuracy** (macro-averaged recall across all classes) is the primary metric.
+All use stratified 80/20 train/test splits. The dataset has severe class imbalance (76.7x ratio between largest and smallest genre), so **balanced accuracy** (macro-averaged recall across all classes) is the primary metric.
+
+A `DummyClassifier(strategy="stratified")` baseline is included — it predicts classes proportionally to training distribution (pure random guessing given class frequencies). Each real model was tuned using `RandomizedSearchCV` with `scoring="balanced_accuracy"`, `cv=3` (stratified k-fold), and `n_iter=20` random parameter combinations.
 
 #### Model Comparison
 
 | Model | Accuracy | Balanced Accuracy |
 |-------|----------|-------------------|
-| RandomForest | 0.432 | 0.228 |
-| GradientBoosting | **0.328** | **0.332** |
-| XGBoost | 0.388 | 0.261 |
+| Baseline (Dummy) | 0.117 | 0.046 |
+| RandomForest | 0.311 | 0.311 |
+| GradientBoosting | 0.297 | **0.323** |
+| XGBoost | 0.259 | 0.322 |
 
-- **GradientBoosting** achieves the best balanced accuracy (0.332), meaning it's most equitable across all genres including rare ones. The tradeoff is lower raw accuracy since it sacrifices performance on dominant genres to improve recall on smaller ones.
-- **RandomForest** has the highest raw accuracy (0.432) but the lowest balanced accuracy — it's biased toward majority classes.
+- **Baseline** achieves 4.6% balanced accuracy — roughly 1/22 (random chance across 22 classes). All real models substantially outperform this.
+- **GradientBoosting** achieves the best balanced accuracy (0.323), meaning it's most equitable across all genres including rare ones. The tradeoff is lower raw accuracy since it sacrifices performance on dominant genres to improve recall on smaller ones.
+- **RandomForest** has the highest raw accuracy (0.311) and comparable balanced accuracy after tuning — tuning with `class_weight="balanced"` closed the gap between raw and balanced accuracy.
 - All models are well below 50% balanced accuracy, confirming that 6 audio features are insufficient for reliable genre classification regardless of the algorithm.
 
 #### Feature Importances
 
 | Feature | Importance |
 |---------|-----------|
-| tempo | 0.381 |
-| danceability | 0.149 |
-| instrumentalness | 0.136 |
-| valence | 0.133 |
-| energy | 0.109 |
-| speechiness | 0.091 |
+| tempo | 0.368 |
+| danceability | 0.147 |
+| instrumentalness | 0.139 |
+| valence | 0.132 |
+| energy | 0.121 |
+| speechiness | 0.093 |
 
-Tempo is by far the most discriminative feature (~38% importance), which makes sense — it's the one audio feature that hard-separates certain genres (hardstyle at ~150 BPM vs. dubstep at ~140 half-time vs. house at ~128). The remaining features contribute roughly equally.
+Tempo is by far the most discriminative feature (~37% importance), which makes sense — it's the one audio feature that hard-separates certain genres (hardstyle at ~150 BPM vs. dubstep at ~140 half-time vs. house at ~128). The remaining features contribute roughly equally.
 
 ## Conclusion
 
-The hypothesis that unsupervised clustering would recover EDM subgenre boundaries from audio features was **not supported**. K-Means successfully identified musically meaningful audio archetypes, but these archetypes don't correspond to genre labels. Supervised classification (RandomForest, GradientBoosting, XGBoost) with class-imbalance handling confirms the ceiling: the best model achieves only 33% balanced accuracy across 22 genre classes — better than the ~4.5% random baseline, but far from usable.
+The hypothesis that unsupervised clustering would recover EDM subgenre boundaries from audio features was **not supported**. K-Means successfully identified musically meaningful audio archetypes, but these archetypes don't correspond to genre labels. Random assignment baselines confirm that both K-Means and supervised models are learning real structure — but not enough. Supervised classification with hyperparameter tuning (RandomizedSearchCV, cv=3, n_iter=20) confirms the ceiling: the best tuned model (GradientBoosting) achieves only 32.3% balanced accuracy across 22 genre classes — better than the 4.6% random baseline, but far from usable.
 
 The core issue is that genre identity in EDM is defined by attributes these audio features can't capture: sound design (the difference between a dubstep wobble bass and a hardstyle kick), production techniques, drop structure, cultural context, and scene affiliation. A dubstep track and a hardstyle track can have similar energy and tempo values but sound completely different because of *how* the bass and drums are constructed — and that information isn't encoded in high-level features like danceability or valence.
 

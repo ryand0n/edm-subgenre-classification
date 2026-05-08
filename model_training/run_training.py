@@ -57,6 +57,7 @@ def run():
         json.dump({
             "model_results": supervised_results["model_results"],
             "best_model_name": supervised_results["best_model_name"],
+            "best_params": supervised_results["best_params"],
             "feature_importances": supervised_results["feature_importances"],
         }, f, indent=2)
 

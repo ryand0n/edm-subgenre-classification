@@ -2,7 +2,8 @@
 
 Replicates the notebook's unsupervised workflow as a terminal-friendly script.
 Handles class imbalance by downsampling to a balanced dataset before clustering,
-so that dominant genres don't dominate cluster assignments.
+so that dominant genres don't dominate cluster assignments. Includes random
+assignment baseline for comparison.
 """
 
 import json
@@ -11,6 +12,7 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+from sklearn.metrics import silhouette_score, adjusted_rand_score, normalized_mutual_info_score
 
 import model_training.train as train
 
@@ -41,6 +43,26 @@ def balance_by_genre(X, df, genre_col="genres_consolidated", random_state=42):
     return X_balanced, df_balanced
 
 
+def compute_random_baseline(X, k_values, primary_genres, random_state=42):
+    """Compute baseline metrics using random cluster assignments for each k."""
+    rng = np.random.default_rng(random_state)
+    baseline_results = []
+
+    for k in k_values:
+        random_labels = rng.integers(0, k, size=len(X))
+        sil = silhouette_score(X, random_labels)
+        ari = adjusted_rand_score(primary_genres, random_labels)
+        nmi = normalized_mutual_info_score(primary_genres, random_labels)
+        baseline_results.append({
+            "k": k,
+            "silhouette": sil,
+            "ari": ari,
+            "nmi": nmi,
+        })
+
+    return baseline_results
+
+
 def train_clusters(X, df, scaler, audio_features):
     """Run K-Means clustering experiment and return results dict.
 
@@ -51,7 +73,7 @@ def train_clusters(X, df, scaler, audio_features):
         audio_features: List of audio feature names.
 
     Returns:
-        dict with summary metrics, best_k, and detailed results per k.
+        dict with summary metrics, best_k, baseline metrics, and detailed results per k.
     """
     # Balance dataset to mitigate genre imbalance in cluster evaluation
     print("\n" + "=" * 60)
@@ -72,11 +94,24 @@ def train_clusters(X, df, scaler, audio_features):
     print(f"\nComparing k values: {k_values}")
     print("-" * 60)
 
+    # Random baseline for each k
+    primary_genres = train.get_primary_genre(df)
+    baseline_results = compute_random_baseline(X, k_values, primary_genres)
+
+    # K-Means results
     results = train.compare_k_values(X, k_values, df, audio_features, scaler)
 
-    # Summary metrics table
+    # Print both tables
     print("\n" + "=" * 60)
-    print("Summary Metrics")
+    print("Baseline (Random Assignment)")
+    print("=" * 60)
+    print(f"{'k':<5} {'Silhouette':<12} {'ARI':<10} {'NMI':<10}")
+    print("-" * 37)
+    for b in baseline_results:
+        print(f"{b['k']:<5} {b['silhouette']:<12.4f} {b['ari']:<10.4f} {b['nmi']:<10.4f}")
+
+    print("\n" + "=" * 60)
+    print("K-Means Results")
     print("=" * 60)
     print(f"{'k':<5} {'Silhouette':<12} {'ARI':<10} {'NMI':<10}")
     print("-" * 37)
@@ -102,6 +137,7 @@ def train_clusters(X, df, scaler, audio_features):
     return {
         "best_k": best_k,
         "best_silhouette": optimal["best_score"],
+        "baseline": baseline_results,
         "k_results": [
             {
                 "k": r["k"],
