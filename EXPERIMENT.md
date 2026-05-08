@@ -114,13 +114,13 @@ A `DummyClassifier(strategy="stratified")` baseline is included — it predicts 
 | Model | Accuracy | Balanced Accuracy |
 |-------|----------|-------------------|
 | Baseline (Dummy) | 0.117 | 0.046 |
-| RandomForest | 0.311 | 0.311 |
+| RandomForest | 0.425 | 0.277 |
 | GradientBoosting | 0.297 | **0.323** |
-| XGBoost | 0.259 | 0.322 |
+| XGBoost | 0.262 | 0.320 |
 
 - **Baseline** achieves 4.6% balanced accuracy — roughly 1/22 (random chance across 22 classes). All real models substantially outperform this.
 - **GradientBoosting** achieves the best balanced accuracy (0.323), meaning it's most equitable across all genres including rare ones. The tradeoff is lower raw accuracy since it sacrifices performance on dominant genres to improve recall on smaller ones.
-- **RandomForest** has the highest raw accuracy (0.311) and comparable balanced accuracy after tuning — tuning with `class_weight="balanced"` closed the gap between raw and balanced accuracy.
+- **RandomForest** has the highest raw accuracy (0.425) but the lowest balanced accuracy — it's biased toward majority classes despite `class_weight="balanced"`.
 - All models are well below 50% balanced accuracy, confirming that 6 audio features are insufficient for reliable genre classification regardless of the algorithm.
 
 #### Feature Importances
@@ -138,7 +138,7 @@ Tempo is by far the most discriminative feature (~37% importance), which makes s
 
 ## Conclusion
 
-The hypothesis that unsupervised clustering would recover EDM subgenre boundaries from audio features was **not supported**. K-Means successfully identified musically meaningful audio archetypes, but these archetypes don't correspond to genre labels. Random assignment baselines confirm that both K-Means and supervised models are learning real structure — but not enough. Supervised classification with hyperparameter tuning (RandomizedSearchCV, cv=3, n_iter=20) confirms the ceiling: the best tuned model (GradientBoosting) achieves only 32.3% balanced accuracy across 22 genre classes — better than the 4.6% random baseline, but far from usable.
+The hypothesis that unsupervised clustering would recover EDM subgenre boundaries from audio features was **not supported**. K-Means successfully identified musically meaningful audio archetypes, but these archetypes don't correspond to genre labels. Random assignment baselines confirm that both K-Means and supervised models are learning real structure — but not enough. Supervised classification with hyperparameter tuning (HalvingRandomSearchCV for RF/GB, RandomizedSearchCV for XGBoost with GPU acceleration) confirms the ceiling: the best tuned model (GradientBoosting) achieves only 32.3% balanced accuracy across 22 genre classes — better than the 4.6% random baseline, but far from usable.
 
 The core issue is that genre identity in EDM is defined by attributes these audio features can't capture: sound design (the difference between a dubstep wobble bass and a hardstyle kick), production techniques, drop structure, cultural context, and scene affiliation. A dubstep track and a hardstyle track can have similar energy and tempo values but sound completely different because of *how* the bass and drums are constructed — and that information isn't encoded in high-level features like danceability or valence.
 

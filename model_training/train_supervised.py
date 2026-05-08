@@ -2,8 +2,8 @@
 
 Trains RandomForest, GradientBoosting, and XGBoost classifiers on audio features
 to predict consolidated genre labels. Handles class imbalance via class weighting
-and stratified splits. Includes DummyClassifier baseline and RandomizedSearchCV
-hyperparameter tuning.
+and stratified splits. Includes DummyClassifier baseline and HalvingRandomSearchCV
+hyperparameter tuning. XGBoost uses GPU acceleration when available.
 """
 
 import json
@@ -14,6 +14,8 @@ import numpy as np
 import pandas as pd
 from sklearn.dummy import DummyClassifier
 from sklearn.model_selection import train_test_split, RandomizedSearchCV
+from sklearn.experimental import enable_halving_search_cv  # noqa: F401
+from sklearn.model_selection import HalvingRandomSearchCV
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.metrics import classification_report, accuracy_score, balanced_accuracy_score
 from sklearn.utils.class_weight import compute_sample_weight
@@ -96,7 +98,6 @@ def train_models(X, df, audio_features):
     le = LabelEncoder()
     le.fit(y_train)
     y_train_encoded = le.transform(y_train)
-    y_test_encoded = le.transform(y_test)
 
     # Compute sample weights for models that don't support class_weight
     sample_weights = compute_sample_weight("balanced", y_train)
@@ -139,7 +140,8 @@ def train_models(X, df, audio_features):
         },
         "XGBoost": {
             "estimator": XGBClassifier(
-                random_state=42, eval_metric="mlogloss", verbosity=0
+                random_state=42, eval_metric="mlogloss", verbosity=0,
+                device="cuda", tree_method="hist",
             ),
             "X_train": X_train,
             "y_train": y_train_encoded,
@@ -151,19 +153,35 @@ def train_models(X, df, audio_features):
     }
 
     for name, cfg in model_configs.items():
-        print(f"\n{'=' * 60}")
-        print(f"{name} — RandomizedSearchCV (cv=3, n_iter=20)")
-        print("=" * 60)
-
-        search = RandomizedSearchCV(
-            cfg["estimator"],
-            PARAM_SPACES[name],
-            n_iter=20,
-            scoring="balanced_accuracy",
-            cv=3,
-            random_state=42,
-            n_jobs=-1,
-        )
+        # XGBoost uses RandomizedSearchCV (incompatible with halving's
+        # data subsampling due to label encoding); RF/GB use HalvingRandomSearchCV
+        if name == "XGBoost":
+            print(f"\n{'=' * 60}")
+            print(f"{name} — RandomizedSearchCV (cv=3, n_iter=10, GPU)")
+            print("=" * 60)
+            search = RandomizedSearchCV(
+                cfg["estimator"],
+                PARAM_SPACES[name],
+                n_iter=10,
+                scoring="balanced_accuracy",
+                cv=3,
+                random_state=42,
+                n_jobs=-1,
+            )
+        else:
+            print(f"\n{'=' * 60}")
+            print(f"{name} — HalvingRandomSearchCV (cv=3)")
+            print("=" * 60)
+            search = HalvingRandomSearchCV(
+                cfg["estimator"],
+                PARAM_SPACES[name],
+                n_candidates=20,
+                scoring="balanced_accuracy",
+                cv=3,
+                factor=3,
+                random_state=42,
+                n_jobs=-1,
+            )
         search.fit(cfg["X_train"], cfg["y_train"], **cfg["fit_params"])
 
         best_params[name] = search.best_params_
