@@ -50,7 +50,7 @@ GENRE_CONSOLIDATION = {
 }
 
 
-def load_raw_data(data_dir="data"):
+def load_raw_data(data_dir="data/raw"):
     """Load all artist CSVs and merge genre labels from genres.csv.
 
     Drops rows with no genre (NaN or 'N/A') since we need labels for
@@ -153,7 +153,7 @@ def scale_features(df, features):
     return X, scaler
 
 
-def prepare_training_data(data_dir="data"):
+def prepare_training_data(data_dir="data/raw"):
     """Main entry point: raw CSVs -> training-ready dataset.
 
     Returns dict with:

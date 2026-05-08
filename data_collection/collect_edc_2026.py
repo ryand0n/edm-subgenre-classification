@@ -2,56 +2,12 @@
 """Collect Spotify audio features for all EDC Las Vegas 2026 artists."""
 
 import os
-import sys
 import time
-import requests
-from util import get_spotify_token, get_artist_audio_features
 
-def load_env_file(filepath=".env"):
-    if os.path.exists(filepath):
-        with open(filepath) as f:
-            for line in f:
-                line = line.strip()
-                if line and "=" in line and not line.startswith("#"):
-                    key, val = line.split("=", 1)
-                    os.environ[key] = val
+from data_collection import initialize_token, collect_artist_safe
 
-token = None
-
-def initialize_token():
-    global token
-    load_env_file()
-    client_id = os.getenv("CLIENT_ID")
-    client_secret = os.getenv("CLIENT_SECRET")
-    if not client_id or not client_secret:
-        raise ValueError("CLIENT_ID and CLIENT_SECRET must be set in .env file")
-    print("Getting new Spotify access token...")
-    token_data = get_spotify_token(client_id, client_secret)
-    token = token_data['access_token']
-    print("Token obtained successfully!")
-
-def collect_artist(artist_name, output_file):
-    global token
-    if token is None:
-        initialize_token()
-    try:
-        get_artist_audio_features(artist_name, output_file, token)
-    except requests.exceptions.HTTPError as e:
-        if e.response.status_code == 401:
-            print("Token expired, refreshing...")
-            initialize_token()
-            get_artist_audio_features(artist_name, output_file, token)
-        elif e.response.status_code == 429:
-            retry_after = int(e.response.headers.get("Retry-After", 30))
-            retry_after = min(retry_after, 120)  # Cap wait at 2 minutes
-            print(f"Rate limited. Waiting {retry_after} seconds...")
-            time.sleep(retry_after)
-            get_artist_audio_features(artist_name, output_file, token)
-        else:
-            raise
 
 # (spotify_search_name, csv_filename)
-# Already-collected artists are excluded; their files already exist in data/
 EDC_2026_ARTISTS = [
     ("1991", "1991"),
     ("999999999", "999999999"),
@@ -306,9 +262,14 @@ EDC_2026_ARTISTS = [
     ("Yosuf", "yosuf"),
 ]
 
-if __name__ == "__main__":
+
+def collect_all(data_dir="data/raw"):
+    """Collect audio features for all EDC 2026 artists.
+
+    Skips artists whose CSV already exists in data_dir.
+    """
     initialize_token()
-    os.makedirs("data", exist_ok=True)
+    os.makedirs(data_dir, exist_ok=True)
 
     total = len(EDC_2026_ARTISTS)
     collected = 0
@@ -317,7 +278,7 @@ if __name__ == "__main__":
     failed_artists = []
 
     for i, (name, filename) in enumerate(EDC_2026_ARTISTS):
-        output_path = f"data/{filename}.csv"
+        output_path = os.path.join(data_dir, f"{filename}.csv")
 
         if os.path.exists(output_path):
             print(f"[{i+1}/{total}] Skipping {name} (already exists)")
@@ -329,7 +290,7 @@ if __name__ == "__main__":
         print(f"{'='*60}")
 
         try:
-            collect_artist(name, output_path)
+            collect_artist_safe(name, output_path)
             collected += 1
         except ValueError as e:
             print(f"  SKIPPED: {e}")
@@ -353,3 +314,7 @@ if __name__ == "__main__":
         print(f"\nFailed artists:")
         for name, error in failed_artists:
             print(f"  - {name}: {error}")
+
+
+if __name__ == "__main__":
+    collect_all()

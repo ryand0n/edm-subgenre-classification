@@ -1,9 +1,13 @@
-"""Standalone supervised classification experiment.
+"""Supervised classification experiment.
 
 Trains RandomForest, GradientBoosting, and XGBoost classifiers on audio features
 to predict consolidated genre labels. Handles class imbalance via class weighting
-and stratified splits. Uses pipeline.prepare_training_data() for data prep.
+and stratified splits.
 """
+
+import json
+import pickle
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -14,17 +18,20 @@ from sklearn.utils.class_weight import compute_sample_weight
 from sklearn.preprocessing import LabelEncoder
 from xgboost import XGBClassifier
 
-import pipeline
-import train
+import model_training.train as train
 
 
-def main():
-    # Data preparation
-    data = pipeline.prepare_training_data()
-    X = data["X"]
-    df = data["df"]
-    audio_features = data["audio_features"]
+def train_models(X, df, audio_features):
+    """Train supervised classifiers and return results dict.
 
+    Args:
+        X: Scaled feature matrix (numpy array).
+        df: Cleaned DataFrame with metadata (needs genres_consolidated column).
+        audio_features: List of audio feature names.
+
+    Returns:
+        dict with model_results, best_model_name, best_model, and feature_importances.
+    """
     # Extract target labels
     y = train.get_primary_genre(df)
 
@@ -126,6 +133,25 @@ def main():
     for feat, imp in importances.items():
         bar = "#" * int(imp * 50)
         print(f"  {feat:<18} {imp:.4f}  {bar}")
+
+    return {
+        "model_results": results,
+        "best_model_name": best_model_name,
+        "best_model": best_model,
+        "feature_importances": importances.to_dict(),
+    }
+
+
+def main():
+    """Standalone entry point — loads preprocessed artifacts from disk."""
+    artifacts_dir = Path("artifacts/preprocessed")
+
+    X = np.load(artifacts_dir / "features.npy")
+    df = pd.read_csv(artifacts_dir / "metadata.csv")
+    with open(artifacts_dir / "config.json") as f:
+        config = json.load(f)
+
+    train_models(X, df, config["audio_features"])
 
 
 if __name__ == "__main__":

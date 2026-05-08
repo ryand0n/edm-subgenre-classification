@@ -1,17 +1,18 @@
-"""Standalone K-Means clustering experiment.
+"""Unsupervised K-Means clustering experiment.
 
 Replicates the notebook's unsupervised workflow as a terminal-friendly script.
-Uses pipeline.prepare_training_data() for data prep and train.py functions for clustering.
-
 Handles class imbalance by downsampling to a balanced dataset before clustering,
 so that dominant genres don't dominate cluster assignments.
 """
 
+import json
+import pickle
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 
-import pipeline
-import train
+import model_training.train as train
 
 
 def balance_by_genre(X, df, genre_col="genres_consolidated", random_state=42):
@@ -40,14 +41,18 @@ def balance_by_genre(X, df, genre_col="genres_consolidated", random_state=42):
     return X_balanced, df_balanced
 
 
-def main():
-    # Data preparation
-    data = pipeline.prepare_training_data()
-    X = data["X"]
-    df = data["df"]
-    scaler = data["scaler"]
-    audio_features = data["audio_features"]
+def train_clusters(X, df, scaler, audio_features):
+    """Run K-Means clustering experiment and return results dict.
 
+    Args:
+        X: Scaled feature matrix (numpy array).
+        df: Cleaned DataFrame with metadata.
+        scaler: Fitted StandardScaler for inverse-transforming centroids.
+        audio_features: List of audio feature names.
+
+    Returns:
+        dict with summary metrics, best_k, and detailed results per k.
+    """
     # Balance dataset to mitigate genre imbalance in cluster evaluation
     print("\n" + "=" * 60)
     print("Class Balancing (downsample to median)")
@@ -93,6 +98,34 @@ def main():
     print(f"Genre-Cluster Crosstab (k={best_nmi_k})")
     print("=" * 60)
     print(best_nmi_result["crosstab"].to_string())
+
+    return {
+        "best_k": best_k,
+        "best_silhouette": optimal["best_score"],
+        "k_results": [
+            {
+                "k": r["k"],
+                "silhouette": r["silhouette"],
+                "ari": r["ari"],
+                "nmi": r["nmi"],
+            }
+            for r in results
+        ],
+    }
+
+
+def main():
+    """Standalone entry point — loads preprocessed artifacts from disk."""
+    artifacts_dir = Path("artifacts/preprocessed")
+
+    X = np.load(artifacts_dir / "features.npy")
+    df = pd.read_csv(artifacts_dir / "metadata.csv")
+    with open(artifacts_dir / "scaler.pkl", "rb") as f:
+        scaler = pickle.load(f)
+    with open(artifacts_dir / "config.json") as f:
+        config = json.load(f)
+
+    train_clusters(X, df, scaler, config["audio_features"])
 
 
 if __name__ == "__main__":
